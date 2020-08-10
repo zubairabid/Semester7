@@ -1,5 +1,5 @@
 ---
-title: Semester 6
+title: Semester 7
 author: Zubair Abid
 layout: page 
 ---
