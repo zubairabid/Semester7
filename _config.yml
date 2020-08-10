@@ -1,0 +1,45 @@
+# Site Info
+title:              "Semester 7"
+description:        "Semester Folder"
+author_name:        "Zubair Abid" # change this to your name
+logo_url:           https://avatars0.githubusercontent.com/u/26400677?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+
+# Site Settings
+url:                https://zubairabid.github.io # main url
+baseurl:            /Semester7
+permalink:          /:title # Post permalink
+timezone:           Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to 'false' to disable
+
+# Site Build
+highlighter:        rouge
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
+plugins:
+  - jekyll-sitemap
+
+
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
