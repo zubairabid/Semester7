@@ -90,6 +90,7 @@ Other paradigms:
 - **Aspects, Actors**
 
 Future:
+
 - **Security**: will need verification, proofs, etc
 - **Quantum computing**: Comes with its own models of computing
 - **Data Science**: Abstractions of statistical concepts built in
@@ -186,6 +187,6 @@ Another Factorial:
 ```
 
 
-[racketlang]: (https://docs.racket-lang.org/guide/index.html)
+[racketlang]: https://docs.racket-lang.org/guide/index.html
 [Link to course pages]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/
 [objectives page]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/objective.html
