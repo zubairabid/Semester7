@@ -26,8 +26,3 @@ layout: page
 ### Notes
 
 - [Lecture 1](notes/Lecture 1)
-
-### Recommended Books
-
-- [The Stanford IR Book], [SIR online edition]
-- [Search Engines in Practice]
