@@ -178,7 +178,7 @@ Another Factorial:
     (!-helper n 1)
 )
 
-(define (~-helper i a)
+(define (!-helper i a)
     (if (= i 0)
         a
         (!-helper (- i 1) (* a i))
