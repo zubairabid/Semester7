@@ -51,6 +51,9 @@ Reading assignment:
 - [ ] [How to Design Programs], Chapters 1-5
 - [ ] [Essentials of Programming Languages], Foreword
 
+#### Lecture 2
+
+[notes](notes/Lecture 2)
 
 
 [Essentials of Programming Languages]: ./books/Essentials of Programming Languages 3e (MIT, 2008).pdf

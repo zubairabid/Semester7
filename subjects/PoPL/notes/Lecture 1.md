@@ -157,7 +157,7 @@ Function for max:
         x       ;; then
         y     ;; else
     )
-}
+)
 ```
 
 Factorial: 
