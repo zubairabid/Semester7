@@ -53,19 +53,15 @@
     [else (append (flatten (car dlst)) (flatten (cdr dlst)))]))
 
 (require eopl)
+(require "fdtypes.rkt")
  
-(define-datatype full-binary-tree fullbin
-  (internal-node (value integer?)
-                 (left-child fullbin)
-                 (right-child fullbin))
-  (leaf-node (value integer?)))
-
-
-(define inode
-  (lambda (v l r)(internal-node v l r)))
-
-(define lnode
-  (lambda (v)(leaf-node v)))
-
-
+(define (traverse/preorder tree)
+  (cases full-binary-tree tree
+    (leaf-node (v) (list v))
+    (internal-node (v left right) 
+      (append 
+        (traverse/preorder left) 
+        (append 
+          (traverse/preorder right)
+          (list v))))))
 
