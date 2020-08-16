@@ -60,8 +60,28 @@
     (leaf-node (v) (list v))
     (internal-node (v left right) 
       (append 
-        (traverse/preorder left) 
+        (list v)
         (append 
-          (traverse/preorder right)
+          (traverse/preorder left) 
+          (traverse/preorder right))))))
+
+(define (traverse/inorder tree)
+  (cases full-binary-tree tree
+    (leaf-node (v) (list v))
+    (internal-node (v left right) 
+      (append 
+        (traverse/inorder left) 
+        (append 
+          (list v)
+          (traverse/inorder right))))))
+
+(define (traverse/postorder tree)
+  (cases full-binary-tree tree
+    (leaf-node (v) (list v))
+    (internal-node (v left right) 
+      (append 
+        (traverse/postorder left) 
+        (append 
+          (traverse/postorder right)
           (list v))))))
 
