@@ -85,3 +85,98 @@
           (traverse/postorder right)
           (list v))))))
 
+(define (count-nodes tree)
+  (cases full-binary-tree tree
+    (leaf-node (v) 1)
+    (internal-node (v left right)
+      (+ 1 (count-nodes left) (count-nodes right)))))
+
+(define (count-leaves tree)
+  (cases full-binary-tree tree
+    (leaf-node (v) 1)
+    (internal-node (v left right)
+      (+ (count-leaves left) (count-leaves right)))))
+
+(define (count-internal tree)
+  (cases full-binary-tree tree
+    (leaf-node (v) 0)
+    (internal-node (v left right)
+      (+ 1 (count-internal left) (count-internal right)))))
+
+(define (tree/map fn tr)
+  (cases full-binary-tree tr
+    (leaf-node (v) (lnode (fn v)))
+    (internal-node (v left right)
+      (inode (fn v) (tree/map fn left) (tree/map fn right)))))
+
+(define path-item (list "left" "right"))
+(define (value-at-path path tree)
+  (cond
+    [(null? path) (cases full-binary-tree tree 
+                    (leaf-node (v) v)
+                    (internal-node (v left right) v))]
+    [(equal? (list-ref path-item 0) (car path))
+      (cases full-binary-tree tree
+        (leaf-node (v) tree) ;; return the last node in the path
+        (internal-node (v left right) (value-at-path (cdr path) left)))]
+    [(equal? (list-ref path-item 1) (car path))
+      (cases full-binary-tree tree
+        (leaf-node (v) tree) ;; return the last node in the path
+        (internal-node (v left right) (value-at-path (cdr path) right)))]))
+
+(define (search val tree)
+  (cases full-binary-tree tree
+    (leaf-node (v)
+      (if (= v val)
+          '()
+          #f))
+    (internal-node (v left right)
+      (cond 
+        [(= v val) '()]
+        [(list? (search val left)) 
+            (append 
+              (list (list-ref path-item 0)) ;; very, and I cannot stress this
+              (search val left))] ;; enough, inefficient
+        [(list? (search val right))
+            (append 
+              (list (list-ref path-item 1)) 
+              (search val right))]
+        [else #f]))))
+
+(define (update path fn tree)
+  (cond
+    [(null? path) 
+      (cases full-binary-tree tree 
+        (leaf-node (v) 
+          (lnode (fn v)))
+        (internal-node (v left right) 
+          (inode (fn v) left right)))]
+    [(equal? (list-ref path-item 0) (car path))
+      (cases full-binary-tree tree
+        (leaf-node (v) (lnode v)) ;; return unchanged
+        (internal-node (v left right)
+          (inode v (update (cdr path) fn left) right)))]
+    [(equal? (list-ref path-item 1) (car path))
+      (cases full-binary-tree tree
+        (leaf-node (v) (lnode v)) ;; return unchanged
+        (internal-node (v left right)
+          (inode v left (update (cdr path) fn right))))]))
+
+(define (tree/insert path left-st right-st tree)
+  (cond
+    [(null? path)
+      (cases full-binary-tree tree
+        (leaf-node (v)
+          (inode v left-st right-st))
+        (internal-node (v left right) ;; faulty pathfinding
+          (inode v left right)))] ;; return unchanged
+    [(equal? (list-ref path-item 0) (car path))
+      (cases full-binary-tree tree
+        (leaf-node (v) (lnode v)) ;; return unchanged
+        (internal-node (v left right)
+          (inode v (tree/insert (cdr path) left-st right-st tree) right)))]
+    [(equal? (list-ref path-item 1) (car path))
+      (cases full-binary-tree tree
+        (leaf-node (v) (lnode v)) ;; return unchanged
+        (internal-node (v left right)
+          (inode v left (tree/insert (cdr path) left-st right-st tree))))]))
