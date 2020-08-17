@@ -21,7 +21,7 @@ layout: page
 
 ## Upcoming Deadlines
 
-- [ ] Functional Programming in Racket (17th August 23:59) [hw01]
+- [X] Functional Programming in Racket (17th August 23:59) [hw01]
 
 ## Material
 
