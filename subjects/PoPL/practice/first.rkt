@@ -131,17 +131,17 @@
           '()
           #f))
     (internal-node (v left right)
-      (cond 
-        [(= v val) '()]
-        [(list? (search val left)) 
-            (append 
-              (list (list-ref path-item 0)) ;; very, and I cannot stress this
-              (search val left))] ;; enough, inefficient
-        [(list? (search val right))
-            (append 
-              (list (list-ref path-item 1)) 
-              (search val right))]
-        [else #f]))))
+      (if (= v val)
+          '()
+          (let ()
+            (define lefts (search val left))
+            (if (list? lefts)
+              (append (list (list-ref path-item 0)) lefts)
+              (let ()
+                (define rights (search val right))
+                (if (list? rights)
+                    (append (list (list-ref path-item 1)) rights)
+                    #f))))))))
 
 (define (update path fn tree)
   (cond
