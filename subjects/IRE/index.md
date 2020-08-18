@@ -21,6 +21,7 @@ layout: page
 
 ## Upcoming Deadlines
 
+- [ ] Wikipedia mother tongue language (25th August)
 - [ ] Mini Project:
     - [ ] Offline evaluation (29th August)
     - [ ] Online evaluation (7th September)

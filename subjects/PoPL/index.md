@@ -21,7 +21,8 @@ layout: page
 
 ## Upcoming Deadlines
 
-- [X] Functional Programming in Racket (17th August 23:59) [hw01]
+- [X] Functional Programming in Racket (25th August 23:59) [hw01]
+- [ ] Functional Programming in Racket (1st September 23:59) [hw02]
 
 ## Material
 
@@ -44,20 +45,36 @@ layout: page
 
 [notes](notes/Lecture 1)
 
-Reading assignment:
-
-- [X] [Course Objectives]
-- [ ] [The Racket Guide], Chapters 1-6
-- [ ] [How to Design Programs], Chapters 1-5
-- [ ] [Essentials of Programming Languages], Foreword
+- [.] Reading assignment:
+    - [X] [Course Objectives]
+    - [ ] [The Racket Guide], Chapters 1-6:
+    - [ ] [How to Design Programs], Chapters 1-5
+    - [ ] [Essentials of Programming Languages] Chapter 1, Foreword
 
 #### Lecture 2
 
 [notes](notes/Lecture 2)
 
+- [X] Reading assignment:
+    - [X] Literate programming
+
+#### Lecture 3
+
+On lexical scope and higher-order functions
+
+[link to lecture 3]
+
+[notes](notes/Lecture 3)
+
+
+
+
+
+
 
 [Essentials of Programming Languages]: ./books/Essentials of Programming Languages 3e (MIT, 2008).pdf
 
+[link to lecture 3]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/issues/5
 
 [Course Objectives]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/objective.html
 [The Racket Guide]: http://docs.racket-lang.org/guide/index.html
@@ -69,3 +86,4 @@ Reading assignment:
 [Main course page]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/
 
 [hw01]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/blob/master/hws/hw01/index.org
+[hw01]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/blob/master/hws/hw02/index.org
