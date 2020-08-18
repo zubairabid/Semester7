@@ -1,0 +1,32 @@
+<h1 id="lexical-scope">Lexical Scope</h1>
+<p>When an identifier is referred to, it will look for a definition within a local scope. So, in a program like:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode scheme"><code class="sourceCode scheme"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a>(<span class="ex">define</span><span class="fu"> demo</span>_scope</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a>  (<span class="kw">lambda</span> () </span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true"></a>    (<span class="kw">let</span> ([y <span class="dv">5</span>])</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true"></a>      (<span class="kw">let</span> ([y <span class="dv">9</span>][z (sub1 y)])</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true"></a>        (<span class="op">+</span> y z)))))</span></code></pre></div>
+<h1 id="recursion">Recursion</h1>
+<div class="sourceCode" id="cb2"><pre class="sourceCode scheme"><code class="sourceCode scheme"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true"></a>(<span class="ex">define</span><span class="fu"> occurs-in</span>?</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true"></a>  (<span class="kw">lambda</span> (x ls)</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true"></a>    (<span class="kw">if</span> (<span class="kw">null?</span> ls)</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true"></a>        <span class="dv">#f</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true"></a>        (<span class="kw">if</span> (<span class="op">=</span> x (<span class="kw">car</span> ls))</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true"></a>            <span class="dv">#t</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true"></a>            (occurs-in? x (<span class="kw">cdr</span> ls))))))</span></code></pre></div>
+<p>Output:</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode scheme"><code class="sourceCode scheme"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true"></a><span class="st">&quot;3.rkt&quot;</span>&gt; occurs-in?</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true"></a>#&lt;procedure:occurs-in?&gt;</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true"></a><span class="st">&quot;3.rkt&quot;</span>&gt; (occurs-in? <span class="dv">5</span> &#39;(<span class="dv">1</span> <span class="dv">2</span> <span class="dv">3</span> <span class="dv">4</span>))</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true"></a><span class="dv">#f</span></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true"></a><span class="st">&quot;3.rkt&quot;</span>&gt; (occurs-in? <span class="dv">5</span> &#39;(<span class="dv">1</span> <span class="dv">2</span> <span class="dv">3</span> <span class="dv">4</span> <span class="dv">5</span>))</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true"></a><span class="dv">#t</span></span></code></pre></div>
+<p><strong>Note to self:</strong> Revise the section from 19:41 in order to understand the finer details of recursion and something else that I have not initially caught.</p>
+<p>So what I get from that is:</p>
+<dl>
+<dt>Recursion</dt>
+<dd>There is some surrounding context around the recursive call. For example, <code>(+ 1 (a (sub1 p)))</code>, where the <code>a</code> is the function, and the recursive callback has the <code>+ 1</code> around it.
+</dd>
+<dt>Iteration</dt>
+<dd>Not that.
+</dd>
+</dl>
