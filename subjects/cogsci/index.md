@@ -24,7 +24,7 @@ Vemuri
 
 ## Upcoming Deadlines
 
-- [Assignment 1](./Assignments/1.md) (Deadline: 26/08 23:55)
+- [Assignment 1](./Assignments/1) (Deadline: 26/08 23:55)
 
 ## Material
 
