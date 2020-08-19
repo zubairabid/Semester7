@@ -10,6 +10,8 @@ layout: page
 **Professor**: Bapi Raju, Vinoo Alluri, Priyanka Srivastava, Kavita
 Vemuri
 
+[Proposed scheduling](./Meta/Intro to CogSci Lec Plan.Pdf)
+
 ### Grading Scheme
 
 | Component                        | Weightage |
@@ -22,9 +24,15 @@ Vemuri
 
 ## Upcoming Deadlines
 
+- [Assignment 1](./Assignments/1.md) (Deadline: 26/08 23:55)
+
 ## Material
 
 ### Notes
 
 - [notes (pdf)](./Cognotes.pdf) [notes (xopp)](./Cognotes.xopp) 
+- [Lecture 2](./Notes/2)
 
+### Slides
+
+- [Lecture 1](./Slides/CSE485_Lec1_CogSci_introduction_M2020.pdf)

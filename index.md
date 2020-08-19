@@ -15,7 +15,11 @@ layout: page
 
 ### [IRE](subjects/IRE/index#upcoming-deadlines)
 
-- [ ] Wikipedia mother tongue language (25th August)
+- [X] Wikipedia mother tongue language (25th August)
 - [ ] Mini Project:
     - [ ] Offline evaluation (29th August)
     - [ ] Online evaluation (7th September)
+
+### [Cogsci](subjects/cogsci/index#upcoming-deadlines)
+
+- [ ] Assignment 1 (Deadline: 26/08 23:55)
