@@ -11,7 +11,7 @@ layout: page
 ### [PoPL](subjects/PoPL/index#upcoming-deadlines)
 
 - [X] Functional Programming in Racket (25th August 23:59)
-- [ ] Functional Programming in Racket (1st September 23:59)
+- [ ] Functional Programming in Elm (1st September 23:59)
 
 ### [IRE](subjects/IRE/index#upcoming-deadlines)
 

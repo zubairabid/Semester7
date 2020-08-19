@@ -5,6 +5,8 @@ date: 2020-08-18
 layout: page
 ---
 
+[Parallel racket file](./3.rkt)
+
 # Lexical Scope
 
 When an identifier is referred to, it will look for a definition within a local

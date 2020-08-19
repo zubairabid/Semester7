@@ -22,7 +22,7 @@ layout: page
 ## Upcoming Deadlines
 
 - [X] Functional Programming in Racket (25th August 23:59) [hw01]
-- [ ] Functional Programming in Racket (1st September 23:59) [hw02]
+- [ ] Functional Programming in Elm (1st September 23:59) [hw02]
 
 ## Material
 
@@ -86,4 +86,4 @@ On lexical scope and higher-order functions
 [Main course page]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/
 
 [hw01]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/blob/master/hws/hw01/index.org
-[hw01]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/blob/master/hws/hw02/index.org
+[hw02]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/blob/master/hws/hw02/index.org
