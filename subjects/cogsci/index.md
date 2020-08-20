@@ -36,3 +36,4 @@ Vemuri
 ### Slides
 
 - [Lecture 1](./Slides/CSE485_Lec1_CogSci_introduction_M2020.pdf)
+- [Lecture 2](./Slides/CSE485_Lec3_HistoryCogSci_M2020.pdf)
