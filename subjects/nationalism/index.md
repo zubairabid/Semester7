@@ -25,3 +25,7 @@ layout: page
 
 - [notes (pdf)](./Natnotes.pdf) [notes (xopp)](./Natnotes.xopp) 
 
+## Assignments
+
+- [HW01](./hws/1) 
+

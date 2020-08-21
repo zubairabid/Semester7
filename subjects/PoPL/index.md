@@ -18,6 +18,8 @@ layout: page
 | Project               | 35        |
 | Class Participation   | 5         |
 
+- Contents
+{:toc}
 
 ## Upcoming Deadlines
 
@@ -45,11 +47,11 @@ layout: page
 
 [notes](notes/Lecture 1)
 
-- [.] Reading assignment:
+- [O] Reading assignment:
     - [X] [Course Objectives]
-    - [ ] [The Racket Guide], Chapters 1-6:
+    - [X] [The Racket Guide], Chapters 1-6:
     - [ ] [How to Design Programs], Chapters 1-5
-    - [ ] [Essentials of Programming Languages] Chapter 1, Foreword
+    - [X] [Essentials of Programming Languages] Chapter 1, Foreword
 
 #### Lecture 2
 
@@ -71,15 +73,28 @@ On lexical scope and higher-order functions
     - [X] [Higher Order Functions] Still a bit confused
     - [X] [Functional Programming] Yeeep
 
+#### Lecture 4
+
+[link to lecture 4]
+
+[notes](notes/Lecture 4)
+
+- [ ] Reading assignment:
+    - [ ] [Streams]
+    - [ ] [Evaluation in Racket]
 
 
+[Streams]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/streams/index.html
+[Evaluation in Racket]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/racket-intro/index.html
 [Currying]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/curry/index.html
 [Higher Order Functions]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/fp/hof.html
 [Functional Programming]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/fp/index.html
 [Literate programming]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/literate-programming/index.html
 
+[link to lecture 3]: https://www.youtube.com/playlist?list=PL8C7LmL6BGm3GRXdtIaw6qtqFhU3U10Dl
+[link to lecture 4]: https://www.youtube.com/watch?v=cMxGYUwT6Zg
+
 [Essentials of Programming Languages]: ./books/Essentials of Programming Languages 3e (MIT, 2008).pdf
-[link to lecture 3]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/issues/5
 [Course Objectives]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/objective.html
 [The Racket Guide]: http://docs.racket-lang.org/guide/index.html
 [How to Design Programs]: https://htdp.org/2003-09-26/
