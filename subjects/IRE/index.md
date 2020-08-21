@@ -30,6 +30,8 @@ layout: page
 
 ## Material
 
+[Lectures]
+
 ### Notes
 
 - [notes (pdf)](./IREnotes.pdf) [notes (xopp)](./IREnotes.xopp) 
@@ -48,6 +50,10 @@ layout: page
 - [The Stanford IR Book], [SIR online edition]
 - [Search Engines in Practice]
 
+### Tutorials
+
+- [Tutorial 1: Mini Project](./Slides/tutes/Mini_Project_Tutorial.pdf)
+
 ### Blogs
 
 - [Basic FTS]
@@ -58,3 +64,5 @@ layout: page
 [SIR online edition]: https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html
 [Search Engines in Practice]: ./books/SEIRiP.pdf
 [Basic FTS]: https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/
+
+[Lectures]: https://web.microsoftstream.com/group/61aa1300-6c08-4022-80e3-b8d6774ed151?view=highlights&referrer=https:%2F%2Fmoodle.iiit.ac.in%2Fcourse%2Fview.php%3Fid%3D1994
