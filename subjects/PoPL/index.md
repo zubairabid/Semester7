@@ -79,9 +79,9 @@ On lexical scope and higher-order functions
 
 [notes](notes/Lecture 4)
 
-- [ ] Reading assignment:
-    - [ ] [Streams]
-    - [ ] [Evaluation in Racket]
+- [X] Reading assignment:
+    - [X] [Streams] I'm so lost
+    - [X] [Evaluation in Racket]
 
 
 [Streams]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/streams/index.html

@@ -21,6 +21,8 @@ layout: page
 
 ## Upcoming Deadlines
 
+- [ ] Readings: Marxist theories of State (26th August)
+
 ## Material
 
 ### Notes

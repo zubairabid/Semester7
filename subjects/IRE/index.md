@@ -23,6 +23,8 @@ layout: page
 
 ## Upcoming Deadlines
 
+- [X] Watch Inverted index video
+- [X] Read section 4.2, [SIR online edition]
 - [X] [Wikipedia mother tongue language](./Assignments/1) (25th August)
 - [ ] Mini Project:
     - [ ] Offline evaluation (29th August)
@@ -53,13 +55,14 @@ layout: page
 ### Tutorials
 
 - [Tutorial 1: Mini Project](./Slides/tutes/Mini_Project_Tutorial.pdf)
+- [Video for inverted index]
 
 ### Blogs
 
 - [Basic FTS]
 
 [Google paper]: http://infolab.stanford.edu/~backrub/google.html
-
+[Video for inverted index]: https://www.youtube.com/watch?v=Wf6HbY2PQDw&list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi&index=4&t=0s
 [The Stanford IR Book]: ./books/irbookonlinereading.pdf
 [SIR online edition]: https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html
 [Search Engines in Practice]: ./books/SEIRiP.pdf
