@@ -44,9 +44,12 @@ layout: page
 
 #### Marxist Understanding of Nationalism
 
-- [ ] [Lenin: Right to self-determination]
-- [ ] [Luxemborg: The National Question]
-- [ ] [Stalin: Marxism and the National Question]
+- [ ] [Lenin: Right to self-determination]:
+    - [notes](./readings/lenindet)
+- [ ] [Luxemborg: The National Question] 
+    - [notes](./readings/luxnat)
+- [ ] [Stalin: Marxism and the National Question] 
+    - [notes](./readings/stalnat)
 
 ## Assignments
 

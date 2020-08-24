@@ -23,7 +23,7 @@ layout: page
 
 ## Upcoming Deadlines
 
-- [ ] [Wikipedia mother tongue language](./Assignments/1) (25th August)
+- [X] [Wikipedia mother tongue language](./Assignments/1) (25th August)
 - [ ] Mini Project:
     - [ ] Offline evaluation (29th August)
     - [ ] Online evaluation (7th September)
@@ -38,7 +38,7 @@ layout: page
 
 ### Reading
 
-- [ ] [Google paper]
+- [X] [Google paper]
 
 ### Slides
 
