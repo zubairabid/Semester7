@@ -83,6 +83,15 @@ On lexical scope and higher-order functions
     - [X] [Streams] I'm so lost
     - [X] [Evaluation in Racket]
 
+#### Lecture 5
+
+[link to lecture 5]
+
+[notes](notes/Lecture 5)
+
+- [ ] Reading assignment:
+    - [ ] TODO fill
+
 
 [Streams]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/streams/index.html
 [Evaluation in Racket]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/racket-intro/index.html
