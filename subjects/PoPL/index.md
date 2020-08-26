@@ -90,7 +90,7 @@ On lexical scope and higher-order functions
 [notes](notes/Lecture 5)
 
 - [ ] Reading assignment:
-    - [ ] TODO fill
+    - [ ] [AST & Unparsing]
 
 
 [Streams]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/streams/index.html
@@ -99,6 +99,7 @@ On lexical scope and higher-order functions
 [Higher Order Functions]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/fp/hof.html
 [Functional Programming]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/fp/index.html
 [Literate programming]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/literate-programming/index.html
+[AST & Unparsing]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/syntax/index.html
 
 [link to lecture 3]: https://www.youtube.com/playlist?list=PL8C7LmL6BGm3GRXdtIaw6qtqFhU3U10Dl
 [link to lecture 4]: https://www.youtube.com/watch?v=cMxGYUwT6Zg

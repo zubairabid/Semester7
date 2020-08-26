@@ -23,12 +23,16 @@ layout: page
 
 ## Upcoming Deadlines
 
+- [ ] Mini Project:
+    - [ ] [Offline evaluation](./Assignments/MinP1) (29th August)
+    - [ ] Online evaluation (7th September)
+- [X] Watch: Why compress indices (27th August 10:00)
+- [X] Watch: Delta encoding (27th August 10:00)
+- [X] Watch: v-byte encoding (27th August 10:00)
+- [X] Read: SIR Chapter 5 - Intro, 5.1 (27th August 10:00)
 - [X] Watch Inverted index video
 - [X] Read section 4.2, [SIR online edition]
 - [X] [Wikipedia mother tongue language](./Assignments/1) (25th August)
-- [ ] Mini Project:
-    - [ ] Offline evaluation (29th August)
-    - [ ] Online evaluation (7th September)
 
 ## Material
 

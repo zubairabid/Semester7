@@ -22,6 +22,7 @@ layout: page
 ## Upcoming Deadlines
 
 - [ ] Readings: Marxist theories of State (26th August)
+- [ ] [Nationalism assignment 1](./assign/1) (1st September 23:59)
 
 ## Material
 

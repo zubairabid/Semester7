@@ -24,7 +24,8 @@ Vemuri
 
 ## Upcoming Deadlines
 
-- [Assignment 1](./Assignments/1) (Deadline: 26/08 23:55)
+- [X] [Assignment 1](./Assignments/1) (Deadline: 26/08 23:55)
+- [ ] [Assignment 2](./Assignments/2) (Deadline: 02/09 23:55)
 
 ## Material
 
@@ -32,8 +33,11 @@ Vemuri
 
 - [notes (pdf)](./Cognotes.pdf) [notes (xopp)](./Cognotes.xopp) 
 - [Lecture 2](./Notes/2)
+- [Lecture 3](./Notes/3)
 
 ### Slides
 
 - [Lecture 1](./Slides/CSE485_Lec1_CogSci_introduction_M2020.pdf)
 - [Lecture 2](./Slides/CSE485_Lec3_HistoryCogSci_M2020.pdf)
+- [Lecture 3 I](./Slides/CSE485_Human_brain_M2020.pdf)
+- [Lecture 3 II](./Slides/Nervous System.pdf)
