@@ -1,3 +1,14 @@
 [WARNING] Could not parse YAML metadata at line 8 column 1: Expected start of line
 [WARNING] Could not parse YAML metadata at line 8 column 1: Expected start of line
 [WARNING] Could not parse YAML metadata at line 8 column 1: Expected start of line
+[WARNING] Could not fetch resource './6_inductive.png': replacing image with description
+[WARNING] Could not fetch resource './6_demo_ind.png': replacing image with description
+Error producing PDF.
+! LaTeX Error: Too deeply nested.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110         \begin{itemize}
+

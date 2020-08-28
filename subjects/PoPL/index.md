@@ -85,12 +85,17 @@ On lexical scope and higher-order functions
 
 #### Lecture 5
 
-[link to lecture 5]
-
 [notes](notes/Lecture 5)
 
 - [ ] Reading assignment:
     - [ ] [AST & Unparsing]
+
+#### Lecture 6
+
+[notes](notes/Lecture 6)
+
+- [ ] Reading assignment:
+    - [ ] TODO
 
 
 [Streams]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/streams/index.html
