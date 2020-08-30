@@ -23,8 +23,8 @@ layout: page
 
 ## Upcoming Deadlines
 
-- [ ] Mini Project:
-    - [ ] [Offline evaluation](./Assignments/MinP1) (29th August)
+- [o] Mini Project:
+    - [X] [Offline evaluation](./Assignments/MinP1) (29th August)
     - [ ] Online evaluation (7th September)
 - [X] Watch: Why compress indices (27th August 10:00)
 - [X] Watch: Delta encoding (27th August 10:00)

@@ -17,14 +17,14 @@ Links:
 
 ### Assignments
 
-- [ ] IS: XLNet. Multilang (~~26~~ 27th August 23:55)
-- [ ] IRE Mini Project:
-    - [ ] Offline evaluation (29th August)
-    - [ ] Online evaluation (7th September)
+- [ ] IS: XLNet. Multilang (~~26~~ ~~27~~ 31st August 23:55)
 - [ ] Nationalism assignment 1 (1st September 23:59)
-- [ ] Functional Programming in Elm (1st September 23:59)
+- [o] IRE Mini Project:
+    - [X] Offline evaluation (29th August)
+    - [ ] Online evaluation (7th September)
 - [ ] Cogsci Assignment 2 (2nd September 23:55)
 - [ ] Arithmetic Language in Racket(8th September 23:59)
+- [X] Functional Programming in Elm (1st September 23:59)
 - [X] Watch: Why compress indices (27th August 10:00)
 - [X] Watch: Delta encoding (27th August 10:00)
 - [X] Watch: v-byte encoding (27th August 10:00)
