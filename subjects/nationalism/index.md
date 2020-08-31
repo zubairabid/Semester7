@@ -22,6 +22,9 @@ layout: page
 ## Upcoming Deadlines
 
 - [ ] Readings: Marxist theories of State (26th August)
+- [ ] Readings: Hans Kohn (31st August)
+- [ ] Readings: Benedict Anderson Chaps 1-4 (31st August)
+- [ ] Readings: Hans Kohn (31st August)
 - [ ] [Nationalism assignment 1](./assign/1) (1st September 23:59)
 
 ## Material
@@ -41,8 +44,12 @@ layout: page
 #### Books
 
 - [ ] [Benedict Anderson - Imagined Communities]
+- [ ] [Bipin Chandra - India's Struggle for Independence]
 - [ ] [Ernest Gellner - Nations and Nationalism]
+- [ ] [Hans Kohn - Nationalism, its meaning, and history]
 - [ ] [M. S. Gowalkar - Bunches of Thoughts]
+- [ ] [Partha Chatterjee - Empire and Nation]
+- [ ] [Smith, Anthony D - Nation in History]
 - [ ] [V. D. Savarkar - Who is a Hindu]
 
 #### Marxist Understanding of Nationalism
@@ -58,6 +65,10 @@ layout: page
 
 - [HW01](./hws/1) 
 
+[Smith, Anthony D - Nation in History]: ./readings/Smith, Anthony D._ - Nation in History-Wiley (2014).epub
+[Partha Chatterjee - Empire and Nation]: ./readings/Partha Chatterjee - Empire and Nation_ Selected Essays-Columbia University Press (2010)(1).epub
+[Hans Kohn - Nationalism, its meaning, and history]: ./readings/Hans Kohn - Nationalism its Meaning and History-Krieger Publishing Company (1965)(1).pdf
+[Bipin Chandra - India's Struggle for Independence]: ./readings/Bipan Chandra - Indias Struggle for Independence-Penguin Books India (1989).epub
 [Benedict Anderson - Imagined Communities]: ./readings/Benedict Anderson - Imagined Communities_ Reflections on the Origin and Spread of Nationalism-Verso (2006).pdf
 [Ernest Gellner - Nations and Nationalism]: ./readings/Ernest Gellner - Nations and Nationalism-Cornell University Press (1983).pdf
 [M. S. Gowalkar - Bunches of Thoughts]: ./readings/M.S. Golwalkar - Bunches of Thoughts-Sahitya Sindhu Prakashana (2000).epub

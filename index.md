@@ -38,6 +38,9 @@ Links:
 
 - [ ] Marxist theories of State (26th August)
 - [ ] PoPL Week 3 reading (29th August)
+- [ ] Readings: Hans Kohn (31st August)
+- [ ] Readings: Benedict Anderson Chaps 1-4 (31st August)
+- [ ] Readings: Hans Kohn (31st August)
 - [X] Watch Inverted index video (26th August)
 - [X] SIR book section 4.2 (26th August)
 - [X] PoPL Week 2 reading (22th August)
