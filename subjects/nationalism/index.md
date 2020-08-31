@@ -23,8 +23,7 @@ layout: page
 
 - [ ] Readings: Marxist theories of State (26th August)
 - [ ] Readings: Hans Kohn (31st August)
-- [ ] Readings: Benedict Anderson Chaps 1-4 (31st August)
-- [ ] Readings: Hans Kohn (31st August)
+- [X] Readings: Benedict Anderson Chaps 1-3 (31st August)
 - [ ] [Nationalism assignment 1](./assign/1) (1st September 23:59)
 
 ## Material

@@ -24,7 +24,10 @@ Links:
     - [ ] Online evaluation (7th September)
 - [ ] Cogsci Assignment 2 (2nd September 23:55)
 - [ ] Arithmetic Language in Racket(8th September 23:59)
-- [X] Functional Programming in Elm (1st September 23:59)
+- [X] Watch: Ranking documents (1st September 10:00) 2020-09-01 02:16
+- [X] Watch: Jaccard (1st September 10:00) 2020-09-01 02:16
+- [X] Watch: tf-idf intro (1st September 10:00) 2020-09-01 02:16
+- [X] Functional Programming in Elm (1st September 23:59) 2020-08-31 01:39
 - [X] Watch: Why compress indices (27th August 10:00)
 - [X] Watch: Delta encoding (27th August 10:00)
 - [X] Watch: v-byte encoding (27th August 10:00)
@@ -39,8 +42,7 @@ Links:
 - [ ] Marxist theories of State (26th August)
 - [ ] PoPL Week 3 reading (29th August)
 - [ ] Readings: Hans Kohn (31st August)
-- [ ] Readings: Benedict Anderson Chaps 1-4 (31st August)
-- [ ] Readings: Hans Kohn (31st August)
+- [X] Readings: Benedict Anderson Chaps 1-3 (31st August)
 - [X] Watch Inverted index video (26th August)
 - [X] SIR book section 4.2 (26th August)
 - [X] PoPL Week 2 reading (22th August)
