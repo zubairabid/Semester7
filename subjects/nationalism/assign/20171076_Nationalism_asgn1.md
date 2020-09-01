@@ -15,9 +15,62 @@ least two nations and nationalisms other than India.)*
 
 # Introduction 
 
-If there is a common theme across widely-accepted notions of nations
+Most widely-accepted notions of nations today have a common grounding in
+considering them to be *communities* of people: from Stalin and Seton-Watson's
+definitions to Benedict Anderson's. But the manner of these people "coming 
+together", as it were, also differs from one nation to another. The *conception*
+of a nation as formed by a particular people affects how the final "community"
+is. We attempt to explore both the community nature of nations, and how said
+nature changes with the ideological imagination of it.
 
 # How are Nations Like Communities?
+
+To understand the community aspect, we look at Benedict Anderson's proposed
+'working definition' of a nation as an "imagined political community, imagined
+as both inherently limited and sovereign". Why does he define the
+nation in terms of community? It is observed in the modern nation that most 
+people with nothing in common with each other - language, ethnicity, political
+affiliation - who may never even meet, consider themselves to be connected in
+some way due to sharing a nationality by chance of birth. Despite whatever
+inequality exists, the nation is still conceived as a horizontal 'brotherhood',
+a comradeship among equals. People go to war, potentially sacrificing themselves
+for their 'brothers and sisters' of the community, that they will likely never
+meet. It has some markings of a community, but it is not the traditional 
+Gemeinschaft [^andersondef].
+
+This begs comparison to the traditional imagining of a community. As discussed 
+in the lecture, the key components of a Gemeinschaft are:
+
+- social order based on *personal ties* (of 1000 or so at maximum)
+- custom and tradition as the moral code
+- family (birth) as the guiding force for social status and economic roles
+- fulfillment at the cost of individual movement.
+
+None of these apply to any nation of millions that for all intents and purposes
+seems more aligned with Gesselschaft instead. But on closer examination, this
+too does not match. There is a distinction between the nation and its call for a
+sovereign state; social contract and mutual consent is shared among the citizens
+and the state but not with the 'Nation' itself. So what is this community?
+Ernest Gellner argues that "it (nationalism) *invents* nations where they do not
+exist", taking pains to establish the 'falsity' of this community [^gellner].
+Anderson opts to call it an 'imagined' community instead, noting that his peer's
+statement implies the existence of 'true' communities of the scale to be
+juxtaposed to nations, and also that all communities larger than primordial
+villages with face-to-face contact are, in fact, imagined [^andersondef].
+
+On that note, a good comparison to align the perspective of national community
+to is the imagined community of religion.
+
+- Parallel with religious community.
+- Consider Kohn: people consider themselves of a place not in a place.
+
+Ernest Gellner claims that  "it (nationalism) invents
+nations where they do not exist"; a claim that Anderson comments implies the
+existence of "true" communities that can be "advantageously juxtaposed to
+nations" .
+this, however, on the ground that all communities larger than villages are
+imagined. 
+
 
 
 
@@ -27,7 +80,7 @@ If there is a common theme across widely-accepted notions of nations
     - Conceived as horizontal
     - Conception of a connect, even if most will never meet
     - Not exactly Gemeinschaft. There's millions, not thousands. There is
-      individual movement, and family does not define social status, economic
+      individual [movement](movement), and family does not define social status, economic
       role, etc. We're still in Society, but we imagine there is a connection
       between random people we will never meet, cannot possibly ever meet,
       because we're born within the same arbitrary plot of land. Sometimes not
@@ -113,3 +166,12 @@ Random thoughts
       other ethnicities from the state. Others abide by the civic model.
 - Han Chinese want to be more ethnic? Elimination of non-Han
 - China considers all Hans to be chinese.
+
+865 at the start.
+
+[^andersondef]: Anderson, B. R. O. G. (1991). Imagined communities: Reflections 
+on the origin and spread of nationalism. London: Verso. Pages 5-7
+
+[^gellner]: Gellner, E. (1964). Thought and change P. 169. London : Weidenfeld 
+and Nicolson. http://archive.org/details/thoughtchange0000gell Emphasis added
+
