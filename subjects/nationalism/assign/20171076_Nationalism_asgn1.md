@@ -71,6 +71,21 @@ does today. [^kohnture]
 
 # Is there a difference between the communities which are formed by civic and ethnic nationalism?
 
+- yes
+- ethnic and civic in theory, origins incl:
+    - It is founded in a common principle of "liberty" and some unexplained belief
+      that the nation is the ultimate source for the protection of these liberties.
+      There is belief in a code here, the nation is a vessel. The belief is in the
+      written law which is to serve a greater good, and not ethnicity. Not from an
+      outward perspective, anyway.
+    - Ethnic nationalism, on the other hand, is primarily externally motivated - a
+      protest against an existing social structure. It is expanded by propaganda and
+      education (however: France did this too!). And it relies on the image of an
+      "ideal future" based on a non-existent "golden past"
+- Current sit: all civic kinda, with naturalization laws. But looking at ethnic
+  at constitution (israel, china) vs civic at constitution (usa)
+    - maybe homogeneity meant ethnic didn't arise, but was brewing
+
 ## Points
 
 - How are nations like Communities (Benedict Anderson):
