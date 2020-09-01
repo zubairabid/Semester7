@@ -59,20 +59,17 @@ juxtaposed to nations, and also that all communities larger than primordial
 villages with face-to-face contact are, in fact, imagined [^andersondef].
 
 On that note, a good comparison to align the perspective of national community
-to is the imagined community of religion.
+to is the imagined community of religion. The community of strangers of the same
+religious faith is driven by their common faith, the sacred (and equidistant)
+language, a common 'fraternity'. It provides an ideological perspective similar
+to that of nationalism, only the latter is in fact "intellectually poorer". We
+need only look at Kohn's words in *The Nature of Nationalism*
 
-- Parallel with religious community.
-- Consider Kohn: people consider themselves of a place not in a place.
+> ... man's loyalty was due to his church or religion; a *heretic* put himself
+out of the pale of society in the same way that a *"traitor"* to his nation
+does today. [^kohnture]
 
-Ernest Gellner claims that  "it (nationalism) invents
-nations where they do not exist"; a claim that Anderson comments implies the
-existence of "true" communities that can be "advantageously juxtaposed to
-nations" .
-this, however, on the ground that all communities larger than villages are
-imagined. 
-
-
-
+# Is there a difference between the communities which are formed by civic and ethnic nationalism?
 
 ## Points
 
@@ -80,7 +77,7 @@ imagined.
     - Conceived as horizontal
     - Conception of a connect, even if most will never meet
     - Not exactly Gemeinschaft. There's millions, not thousands. There is
-      individual [movement](movement), and family does not define social status, economic
+      individual movement, and family does not define social status, economic
       role, etc. We're still in Society, but we imagine there is a connection
       between random people we will never meet, cannot possibly ever meet,
       because we're born within the same arbitrary plot of land. Sometimes not
@@ -174,4 +171,8 @@ on the origin and spread of nationalism. London: Verso. Pages 5-7
 
 [^gellner]: Gellner, E. (1964). Thought and change P. 169. London : Weidenfeld 
 and Nicolson. http://archive.org/details/thoughtchange0000gell Emphasis added
+
+[^kohnture]: Kohn, H. (1939). The Nature of Nationalism. The American Political
+Science Review, 33(6), 1001–1021. JSTOR. https://doi.org/10.2307/1948728 
+Emphasis added
 
