@@ -77,3 +77,5 @@ layout: page
   The modern one has the hero in detail, but not specific - a nationalist story
   can generalise to *any* such person, a symbol rather than a person, invoking
   the full spirit of the imagined community.
+
+# 3: The Origins of National Consciousness
