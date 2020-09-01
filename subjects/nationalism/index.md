@@ -22,7 +22,7 @@ layout: page
 ## Upcoming Deadlines
 
 - [ ] Readings: Marxist theories of State (26th August)
-- [ ] Readings: Hans Kohn (31st August)
+- [X] Readings: Hans Kohn (31st August)
 - [X] Readings: Benedict Anderson Chaps 1-3 (31st August)
 - [ ] [Nationalism assignment 1](./assign/1) (1st September 23:59)
 
@@ -42,7 +42,8 @@ layout: page
 
 #### Books
 
-- [ ] [Benedict Anderson - Imagined Communities]
+- [ ] [Benedict Anderson - Imagined Communities]:
+    - [ ] [notes](./readings/benedict)
 - [ ] [Bipin Chandra - India's Struggle for Independence]
 - [ ] [Ernest Gellner - Nations and Nationalism]
 - [ ] [Hans Kohn - Nationalism, its meaning, and history]
