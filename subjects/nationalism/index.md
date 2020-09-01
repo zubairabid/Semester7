@@ -46,7 +46,8 @@ layout: page
     - [ ] [notes](./readings/benedict)
 - [ ] [Bipin Chandra - India's Struggle for Independence]
 - [ ] [Ernest Gellner - Nations and Nationalism]
-- [ ] [Hans Kohn - Nationalism, its meaning, and history]
+- [ ] [Hans Kohn - Nationalism, its meaning, and history]:
+    - [ ] [notes](./readings/kohn)
 - [ ] [M. S. Gowalkar - Bunches of Thoughts]
 - [ ] [Partha Chatterjee - Empire and Nation]
 - [ ] [Smith, Anthony D - Nation in History]
@@ -64,6 +65,7 @@ layout: page
 ## Assignments
 
 - [HW01](./hws/1) 
+- [HW02](./hws/2) 
 
 [Smith, Anthony D - Nation in History]: ./readings/Smith, Anthony D._ - Nation in History-Wiley (2014).epub
 [Partha Chatterjee - Empire and Nation]: ./readings/Partha Chatterjee - Empire and Nation_ Selected Essays-Columbia University Press (2010)(1).epub
