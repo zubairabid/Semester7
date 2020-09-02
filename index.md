@@ -15,9 +15,16 @@ Links:
 [Cogsci](./subjects/cogsci/index#upcoming-deadlines)
 [IS](./subjects/IS/index#upcoming-deadlines)
 
+### Catch up
+
+- [ ] PoPL Lectures - Week 3 (3rd September)
+- [ ] Cogsci Lectures - Week 3 (3rd September)
+- [ ] IRE Miniproj catchup (3rd September)
+
 ### Assignments
 
-- [ ] IS: XLNet. Multilang (~~26~~ ~~27~~ 31st August 23:55)
+- [ ] IS: XLNet. Multilang 
+      (~~26~~ ~~27~~ ~~31st August~~ 3rd September 23:55)
 - [o] IRE Mini Project:
     - [X] Offline evaluation (29th August)
     - [ ] Online evaluation (7th September)
