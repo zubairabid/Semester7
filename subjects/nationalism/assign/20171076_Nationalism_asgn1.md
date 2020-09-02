@@ -76,31 +76,30 @@ need only look at Kohn's words in *The Nature of Nationalism*
 out of the pale of society in the same way that a *"traitor" to his nation*
 does today. [^kohnture]
 
-TODO add more
 
 # Is there a difference between the communities which are formed by civic and ethnic nationalism?
 
-There is a difference. It isn't black-and-white. Most sovereign nations today 
+There is a difference. But it isn't black-and-white. Most sovereign nations today 
 [^nations] appear to have some form of civic basis in their constitutions and 
 laws for naturalized citizenship - mentioning, in some cases, the migrating
 individual's national status too. Some founded on civic principles have shown
-ethno-nationalist sentiments of late (eg: USA). But a difference still exists 
-for ethnically-*imagined* nations, be it in their incorporation as by 
-constitution (think Israel), or in the popular imagination of the residents
-(consider India).
+ethno-nationalist sentiments of late (eg: USA [^murica]). But a difference still 
+exists for ethnically-*imagined* nations [^kunat] [^bhuci], be it in their 
+incorporation as by constitution (think Israel [^israel]), or in the popular 
+imagination of the residents (consider India).
 
 A quick demonstration of why popular Indian imagination is ethnic - consider 
 how the population deifies the achievements of non-citizens with any degree of 
 Indian descent as an Indian achievement, despite the individual's own national
-alignment which may not match this imagination.
-TODO Refactor
+alignment which may not match this imagination. Or even in the behaviour towards
+those who don't "look Indian".
 
 ## Theoretical differences distinguishing the two
 
 Why should there be a difference?
 
-There are differences in the inspiration for each type of
-nationalism. Hans Kohn talked of "western" (civic) and "eastern" (ethnic)
+It's in the imagination of a nation.
+Hans Kohn talked of "western" (civic) and "eastern" (ethnic)
 nationalisms [^kohnbook], and the motivations for each highlights the difference
 in the imagination that forms aforementioned imagined communities.
 
@@ -112,8 +111,8 @@ England:
   
 > With him nationalism... 
 > was the affirmation of individual freedom from authority, 
-> the self-assertion of personality *in face of its own government or church*, 
-> ... Liberty to Milton was religious, political, and personal. [^kohnbookmil]
+> the self-assertion of personality *in face of its own government or church*
+[^kohnbookmil]
 
 The nation is manifestation of a code, not a people. The community, others with
 like-minded interests. At least in its conception, there is no ethnic limitation
@@ -122,39 +121,49 @@ imposed. Anyone with aligned goals can join the nation and further it.
 **Ethnic nationalism**, on the other hand, "emerges as protests against existing
 social structure". It's a call for sovereignty from an oppressor. The community
 rallied around the cause of sovereignty can have arbitrary commonality, but
-necessarily including a supposed shared history, a 'glorious past' where the
-community once was and must strive to return to. This community is limited to
-those falling under the purview of this purported shared history.
+necessarily includes a supposed shared history, a 'glorious past' where the
+community once was and must strive to return to through the efforts of
+individual members. This community is thus limited.
+
+With the theory behind us, we consider examples of each.
 
 ## Imaginations of ethnic nationalism in China, Israel, and more
 
-- Israel is the classic example. The Jewish nation, it has (apart from
-  traditional marriage etc. This is constitutional recognition
-    - Citizenship conferred based on solely Jewish ethnicity (with bg checks)
-    - Recognition of Ethnicity as Jewish, Arabic, etc. not Israeli
-    - "people of the land" can be Israeli
-    - There is a naturalization policy.
-- More monoethnic: China and Hans:
-    - There's the ethnic consideration of non-chinese citizens as chinese (the
-      economist) Imagination at play here
-    - Citizenship is hard. There is rules, which allows for residents with a
-      purpose but no chinese ethnic connect to become citizens, but only 1kish
-      people are naturalized.
-    - Ethnic "pureness"of the Han as "purely chinese". Elimination of the
-      Uighurs as an example. This is, again, imagination of the nation not
-      aligned.
-- Some other random ones: Bhutan with the 30 year residency, Kuwait with the
-  religious requirement.
+Israel is the classic example of a nation with Ethnic roots - the UN resolution
+announcing its creation refers to it as a "Jewish State" [^israel]. Such is 
+prominently visible in its naturalization laws, where the **Law of Return** 
+allows for citizenship to be conferred solely on Jewish ethnicity on three 
+months of residence, opposed to three years required [^isapp] for regular 
+naturalization.
+
+China is another prominent nation that not only requires a common territorial 
+history, but also ethnic. The Han form a majority in the nation - 91.6% in total
+[^chicia] - and "Ethnicity and nationality have become almost interchangeable 
+for China’s Han" [^ecochi]. Naturalisation is already a tough task, as despite
+laws governing that permanent residents without familial connections can become
+nationals [^chiimm], there are only 1448 naturalized citizens in the most
+populated country in the world [^ecochi]. Adding to that is the consideration of
+the Han as ethnically "pure", with minorities like the Uighurs sent to camps 
+for not *being* this imagination of the nation [^chiui].
 
 ## Imaginations of the "civic" nations
 
-- Will consider the UK, as that's what Kohn talks about in his book:
-    - Englishman's quest for liberty
-    - Milton's dream
-    - Messianic expectation, "new israel"
-    - In practice, esp. colonialism, not so civic
-    - Naturalisation
-      
+In contrast we consider the United States of America. Arguably among the first
+nations to be founded on the basis of principles:
+
+> What held the new nation together was an idea, the idea of liberty under law
+as expressed in the Constitution. [^kohnam]
+
+The (non White Anglo-Saxon Protestant) view of American nationalism is civic. A
+citizen is so due to their allegiance to the Constitution, and ethnicity plays
+no role, leading to the nation's reputation as a "melting pot".
+
+It so happens that this is *not* the only view of American nationalism
+[^murica]. Reasonably popular imagination of the nation tends to make ethnic
+restrictions on membership, and this is not unique to the United States (think
+India again). Like
+aforementioned, there's significant mish-mash of the two, and it remains to be
+seen which branch will prevail at the end of it all.
 
 ## Points
 
@@ -250,11 +259,11 @@ Random thoughts
 on the origin and spread of nationalism. London: Verso. Pages 5-7
 
 [^gellner]: Gellner, E. (1964). Thought and change P. 169. London : Weidenfeld 
-and Nicolson. http://archive.org/details/thoughtchange0000gell Emphasis added
+and Nicolson. http://archive.org/details/thoughtchange0000gell *Emphasis added*
 
 [^kohnture]: Kohn, H. (1939). The Nature of Nationalism. The American Political
 Science Review, 33(6), 1001–1021. JSTOR. https://doi.org/10.2307/1948728 
-Emphasis added
+*Emphasis added*
 
 [^kohnbook]: Kohn, H. (1965). Nationalism its Meaning and History. Revised
 Edition Princton, NJ. 
@@ -262,5 +271,49 @@ Edition Princton, NJ.
 [^kohnbookmil]: Kohn, H. (1965). Nationalism its Meaning and History P. 16-17. 
 Revised Edition Princton, NJ.
 
+[^kohnam]: Kohn, H. (1965). Nationalism its Meaning and History P. 19-20. 
+Revised Edition Princton, NJ.
 
-[^nations]: TODO footnote on nations being civic
+
+[^nations]: Based on a brief survey, all states allow some form of
+naturalization in order to be a citizen of the country, with some of them
+specifying nationality as well. However, it isn't as "easy" for some if the
+to-be immigrant has no familial connection to the State. Bhutan requires 30
+years of residency with no record of remonstrances against the government, 
+Kuwait requires 20 years along with the requirement of being a Muslim.
+Israel and China too, although we will be discussing those at length 
+later.
+
+[^israel]: Safran, W. (2016). Citizenship and Nationality in Democratic Systems:
+Approaches to Defining and Acquiring Membership in the Political Community: 
+International Political Science Review. P. 13-15
+https://doi.org/10.1177/019251297018003006
+
+[^murica]: Bonikowski, B., & DiMaggio, P. (2016). Varieties of American Popular 
+Nationalism. American Sociological Review, 81(5), 949–980. 
+https://doi.org/10.1177/0003122416663683
+
+[^ecochi]: The upper Han. (n.d.). The Economist. Retrieved September 1, 2020, 
+from https://www.economist.com/briefing/2016/11/19/the-upper-han
+
+[^chiimm]: Application for Naturalisation as a Chinese National | Immigration 
+Department. (n.d.). Retrieved September 1, 2020, from 
+https://www.immd.gov.hk/eng/services/chinese_nationality/Application_for_Naturalization_as_a_Chinese_National.html
+
+[^kunat]: Kuwaiti Nationality Law. (n.d.). Retrieved September 1, 2020, from 
+https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/83364/91990/F734821664/KWT83364.pdf
+
+[^bhuci]: Bhutan Citizenship Act, 1985. (n.d.). Retrieved September 1, 2020, 
+from https://www.nab.gov.bt/assets/uploads/docs/acts/2014/Bhutan_Citizen_Act_1985Eng.pdf
+
+[^isapp]: Apply to be naturalized if you are a permanent resident. (n.d.). 
+GOV.IL. Retrieved September 2, 2020, from 
+https://www.gov.il/en/service/request_for_citizenship_of_a_person_who_holds_pemanent_residency
+
+[^chicia]: CIA China Summary. (n.d.). Retrieved September 1, 2020, from 
+https://www.cia.gov/library/publications/the-world-factbook/attachments/summaries/CH-summary.pdf
+
+[^chiui]: Up to one million detained in China’s mass “re-education” drive. 
+(n.d.). Retrieved September 2, 2020, from 
+https://www.amnesty.org/en/latest/news/2018/09/china-up-to-one-million-detained/
+
