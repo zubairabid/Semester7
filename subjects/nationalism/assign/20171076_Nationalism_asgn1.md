@@ -25,6 +25,8 @@ nature changes with the ideological imagination of it.
 
 # How are Nations Like Communities?
 
+## Communities as a horizontal brotherhood
+
 To understand the community aspect, we look at Benedict Anderson's proposed
 'working definition' of a nation as an "imagined political community, imagined
 as both inherently limited and sovereign". Why does he define the
@@ -38,6 +40,8 @@ for their 'brothers and sisters' of the community, that they will likely never
 meet. It has some markings of a community, but it is not the traditional 
 Gemeinschaft [^andersondef].
 
+## Nation in the framework of Gemeinschaft and Gesselschaft
+
 This begs comparison to the traditional imagining of a community. As discussed 
 in the lecture, the key components of a Gemeinschaft are:
 
@@ -48,15 +52,18 @@ in the lecture, the key components of a Gemeinschaft are:
 
 None of these apply to any nation of millions that for all intents and purposes
 seems more aligned with Gesselschaft instead. But on closer examination, this
-too does not match. There is a distinction between the nation and its call for a
-sovereign state; social contract and mutual consent is shared among the citizens
-and the state but not with the 'Nation' itself. So what is this community?
-Ernest Gellner argues that "it (nationalism) *invents* nations where they do not
-exist", taking pains to establish the 'falsity' of this community [^gellner].
+too does not match. *There is a distinction between the nation and its call for 
+a sovereign state*; social contract and mutual consent is shared among the 
+citizens and the state but not with the 'Nation' itself. So what is this 
+community? Ernest Gellner argues that "it (nationalism) *invents* nations where
+they do not exist", taking pains to establish the 'falsity' of this community 
+[^gellner].
 Anderson opts to call it an 'imagined' community instead, noting that his peer's
 statement implies the existence of 'true' communities of the scale to be
 juxtaposed to nations, and also that all communities larger than primordial
 villages with face-to-face contact are, in fact, imagined [^andersondef].
+
+## A short correspondence between nationalism and religion
 
 On that note, a good comparison to align the perspective of national community
 to is the imagined community of religion. The community of strangers of the same
@@ -66,25 +73,88 @@ to that of nationalism, only the latter is in fact "intellectually poorer". We
 need only look at Kohn's words in *The Nature of Nationalism*
 
 > ... man's loyalty was due to his church or religion; a *heretic* put himself
-out of the pale of society in the same way that a *"traitor"* to his nation
+out of the pale of society in the same way that a *"traitor" to his nation*
 does today. [^kohnture]
+
+TODO add more
 
 # Is there a difference between the communities which are formed by civic and ethnic nationalism?
 
-- yes
-- ethnic and civic in theory, origins incl:
-    - It is founded in a common principle of "liberty" and some unexplained belief
-      that the nation is the ultimate source for the protection of these liberties.
-      There is belief in a code here, the nation is a vessel. The belief is in the
-      written law which is to serve a greater good, and not ethnicity. Not from an
-      outward perspective, anyway.
-    - Ethnic nationalism, on the other hand, is primarily externally motivated - a
-      protest against an existing social structure. It is expanded by propaganda and
-      education (however: France did this too!). And it relies on the image of an
-      "ideal future" based on a non-existent "golden past"
-- Current sit: all civic kinda, with naturalization laws. But looking at ethnic
-  at constitution (israel, china) vs civic at constitution (usa)
-    - maybe homogeneity meant ethnic didn't arise, but was brewing
+There is a difference. It isn't black-and-white. Most sovereign nations today 
+[^nations] appear to have some form of civic basis in their constitutions and 
+laws for naturalized citizenship - mentioning, in some cases, the migrating
+individual's national status too. Some founded on civic principles have shown
+ethno-nationalist sentiments of late (eg: USA). But a difference still exists 
+for ethnically-*imagined* nations, be it in their incorporation as by 
+constitution (think Israel), or in the popular imagination of the residents
+(consider India).
+
+A quick demonstration of why popular Indian imagination is ethnic - consider 
+how the population deifies the achievements of non-citizens with any degree of 
+Indian descent as an Indian achievement, despite the individual's own national
+alignment which may not match this imagination.
+TODO Refactor
+
+## Theoretical differences distinguishing the two
+
+Why should there be a difference?
+
+There are differences in the inspiration for each type of
+nationalism. Hans Kohn talked of "western" (civic) and "eastern" (ethnic)
+nationalisms [^kohnbook], and the motivations for each highlights the difference
+in the imagination that forms aforementioned imagined communities.
+
+**Civic nationalism** is based on principles of individual rights. The
+State precedes the nation - the nation here is no clarion call for sovereignty
+against an 'other', but rather a *structure that aids the exploration of
+individual liberty*. Kohn examines this ideation through John Milton in Puritan
+England:
+  
+> With him nationalism... 
+> was the affirmation of individual freedom from authority, 
+> the self-assertion of personality *in face of its own government or church*, 
+> ... Liberty to Milton was religious, political, and personal. [^kohnbookmil]
+
+The nation is manifestation of a code, not a people. The community, others with
+like-minded interests. At least in its conception, there is no ethnic limitation
+imposed. Anyone with aligned goals can join the nation and further it.
+
+**Ethnic nationalism**, on the other hand, "emerges as protests against existing
+social structure". It's a call for sovereignty from an oppressor. The community
+rallied around the cause of sovereignty can have arbitrary commonality, but
+necessarily including a supposed shared history, a 'glorious past' where the
+community once was and must strive to return to. This community is limited to
+those falling under the purview of this purported shared history.
+
+## Imaginations of ethnic nationalism in China, Israel, and more
+
+- Israel is the classic example. The Jewish nation, it has (apart from
+  traditional marriage etc. This is constitutional recognition
+    - Citizenship conferred based on solely Jewish ethnicity (with bg checks)
+    - Recognition of Ethnicity as Jewish, Arabic, etc. not Israeli
+    - "people of the land" can be Israeli
+    - There is a naturalization policy.
+- More monoethnic: China and Hans:
+    - There's the ethnic consideration of non-chinese citizens as chinese (the
+      economist) Imagination at play here
+    - Citizenship is hard. There is rules, which allows for residents with a
+      purpose but no chinese ethnic connect to become citizens, but only 1kish
+      people are naturalized.
+    - Ethnic "pureness"of the Han as "purely chinese". Elimination of the
+      Uighurs as an example. This is, again, imagination of the nation not
+      aligned.
+- Some other random ones: Bhutan with the 30 year residency, Kuwait with the
+  religious requirement.
+
+## Imaginations of the "civic" nations
+
+- Will consider the UK, as that's what Kohn talks about in his book:
+    - Englishman's quest for liberty
+    - Milton's dream
+    - Messianic expectation, "new israel"
+    - In practice, esp. colonialism, not so civic
+    - Naturalisation
+      
 
 ## Points
 
@@ -143,11 +213,6 @@ Random thoughts
   have liberty. England, the first "new nation", Nationalism from the religious
   matrix, the self consideration of "new Israel". John Milton:
   
-  > With him nationalism was not a struggle for collective independence from an 
-  > “alien yoke”; it was the affirmation of individual freedom from authority, 
-  > the self-assertion of personality is face of its own government or church, 
-  > “the deliverance of man from the yoke of slavery and superstition.” Liberty 
-  > to Milton was religious, political, and personal.
 - Ethnic nationalism, on the other hand, is primarily externally motivated - a
   protest against an existing social structure. It is expanded by propaganda and
   education (however: France did this too!). And it relies on the image of an
@@ -191,3 +256,11 @@ and Nicolson. http://archive.org/details/thoughtchange0000gell Emphasis added
 Science Review, 33(6), 1001–1021. JSTOR. https://doi.org/10.2307/1948728 
 Emphasis added
 
+[^kohnbook]: Kohn, H. (1965). Nationalism its Meaning and History. Revised
+Edition Princton, NJ. 
+
+[^kohnbookmil]: Kohn, H. (1965). Nationalism its Meaning and History P. 16-17. 
+Revised Edition Princton, NJ.
+
+
+[^nations]: TODO footnote on nations being civic
