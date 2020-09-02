@@ -18,12 +18,12 @@ Links:
 ### Assignments
 
 - [ ] IS: XLNet. Multilang (~~26~~ ~~27~~ 31st August 23:55)
-- [ ] Nationalism assignment 1 (1st September 23:59)
 - [o] IRE Mini Project:
     - [X] Offline evaluation (29th August)
     - [ ] Online evaluation (7th September)
-- [ ] Cogsci Assignment 2 (2nd September 23:55)
 - [ ] Arithmetic Language in Racket(8th September 23:59)
+- [X] Nationalism assignment 1 (1st September 23:59) 2020-09-02 23:30
+- [X] Cogsci Assignment 2 (2nd September 23:55) 2020-09-02 23:30
 - [X] Watch: Ranking documents (1st September 10:00) 2020-09-01 02:16
 - [X] Watch: Jaccard (1st September 10:00) 2020-09-01 02:16
 - [X] Watch: tf-idf intro (1st September 10:00) 2020-09-01 02:16
@@ -41,7 +41,7 @@ Links:
 
 - [ ] Marxist theories of State (26th August)
 - [ ] PoPL Week 3 reading (29th August) 2020-09-01 12:38
-- [ ] Readings: Hans Kohn (31st August)
+- [X] Readings: Hans Kohn (31st August)
 - [X] Readings: Benedict Anderson Chaps 1-3 (31st August) 2020-08-31 23:36
 - [X] Watch Inverted index video (26th August)
 - [X] SIR book section 4.2 (26th August)
