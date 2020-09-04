@@ -99,13 +99,19 @@ On lexical scope and higher-order functions
 [notes](notes/Lecture 6)
 
 - [ ] Reading assignment:
-    - [ ] TODO
+    - [ ] [Coinduction and Term Graphs] : Induction
 
 #### Lecture 7
 
 [link to lecture 7]
 
-TODO
+- [ ] Reading assignment:
+    - [ ] [Coinduction and Term Graphs] : Coinductive terms, behaviour
+
+#### Lecture 8
+
+[notes](notes/Lecture 8)
+
 
 [Streams]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/streams/index.html
 [Evaluation in Racket]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/racket-intro/index.html
@@ -114,6 +120,7 @@ TODO
 [Functional Programming]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/fp/index.html
 [Literate programming]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/literate-programming/index.html
 [AST & Unparsing]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/syntax/index.html
+[Coinduction and Term Graphs]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/syntax/coterms.html
 
 [link to lecture 3]: https://www.youtube.com/playlist?list=PL8C7LmL6BGm3GRXdtIaw6qtqFhU3U10Dl
 [link to lecture 4]: https://www.youtube.com/watch?v=cMxGYUwT6Zg

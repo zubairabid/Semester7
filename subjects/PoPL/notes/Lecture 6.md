@@ -54,7 +54,13 @@ layout: page
     - and f ∈ ∑ s.t. α(f) = n
     - then f(t₁...n) is a term
 - *The set of all Inductive terms over ∑ ⇒ T_ind(∑) is the smallest set
-  satisfying the above properties*
+  satisfying the above properties*:
+  
+  ```
+  So Tᵢₙ∑ would have: 
+    a, b, f a b, g a, g b, f g a b, f a g b, 
+    g f a b, f g f a b a, etc
+  ```
 - **Why bother with a boring induction based proof?** We will move on to
   eventually define evaluation itself as an induction system, not just terms.
 
