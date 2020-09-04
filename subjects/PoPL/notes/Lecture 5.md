@@ -18,14 +18,11 @@ layout: page
 **Agenda**: Introducing ASTs by defining what they are, and how to show them in
 racket. 
 
-We will be defining our first (very trivial) language
-
-# Abstract Syntax Trees
-
-A few questions about program:
-
-1. What is a program? How is it represented? `<-- will tackle this today`
-2. What does it mean? How does it run?
+- We will be defining our first (very trivial) language
+- Will come around to (eventually) Abstract Syntax Trees
+- First, a few questions about programs:
+    1. What is a program? How is it represented? `<-- will tackle this today`
+    2. What does it mean? How does it run?
 
 ## What is a program
 
@@ -36,108 +33,113 @@ def f(x):
     return x+2
 ```
 
-- A sequence of characters 
-- A sequence of tokens
-  
-### Looking at a more abstract representation: 
+- It's a sequence of characters, a sequence of tokens
+- However, we are more concerned with abstract representations
 
-**Abstract Representation** of a program
+## A more abstract representation of a program
 
-: Trees
-
-We start with a simple language: addition
-
-Concrete syntax: `(+ 2 3)`, `2 + 3`
-
-Abstract syntax:
+- **Trees** are an abstract representation. We will be using that.
+- We start with a simple language: addition
+    - It's representation of something like `2 + 3` is
+        
 ```
-        +
-       / \
-      2   3
-```
-
-```
- concrete syntax              AST
--------------------> PARSER --------> EVALUATOR
-                                          |
-                                          |
-                                          V
-                                        ANSWER
+      +        Abstract syntax tree : this is what it is 
+     / \                              represented internally
+    2   3
+    
+    Equivalent concrete structures: 2 + 3
+                                    + 2 3
+ 
+ 
+       concrete syntax            AST
+    -------------------> PARSER --------> EVALUATOR
+                                            |
+                                            |
+                                            V
+                                          ANSWER
 
 ```
 
 ## From concrete to abstract
 
+We'll work with a very simple language, *addition*.
+
 Say we have this concrete syntax: 
 
 ```
-PREFIX:
-<exp> ::= <num> |
-        '(+_ '<exp>' _ '<exp>')'
+<exp> ::= <num> |                   \_ prefix
+        '(+ ' <exp> ' ' <exp> ')'   /
+        
+<exp> ::= <num> |                 \_ infix
+        '(' <exp> '+' <exp>')'    /
 ```
 
-Abstract syntax:
+The abstract syntax for that language is: [^lost1]
 
 ```
-grammar of /|   <exp> ::= <num> |
-    trees  \|             + <exp> <exp>
+<ast> ::= <num> |         \_ grammar of trees
+          + <ast> <ast>   /
     
-    
-|---------------|
-| _______ n є N |
-| => n AST      |
-|               |
-| e1 AST e2 AST |
-| ------------- |
-| + e1 e2 AST   |
-|---------------|
+We pass judgement on the astness of an ast using
+this:
+|--------------------|
+| if n ∈  N          | num rule
+| ⇒ n AST            |
+|         OR         |
+| if e1 AST & e2 AST | plus rule
+| ⇒ + e1 e2 AST      |
+|--------------------|
 
-    2 + 3       AST
-    2           AST
-    2 +      x  AST
+-------------------------------------------------
+                       | Now, the valid expressions
+                       V in this language are 
+                         usable for rating? judgements
            _________
 Judgement: | e AST |
            ---------
-```
+```                        
+
+An example of the judgement:
+
+| Judgement | rating  | justification       |
+|-----------|---------|---------------------|
+| 3 AST     | sound   | num, 3 ∈  N         |
+| 2 AST     | sound   | num, 2 ∈  N         |
+| 2+3 AST   | sound   | plus, 2 AST & 3 AST |
+| 2+ AST    | unsound | not derivable       |
+
+## Implementing a parser and unparser
 
 Rest of class: we will implement regularisation of ASTs, and write two
 functions: `parse`, `unparse`
 
-Derivation of `3+2` AST
-
-1. 3 AST using num & 3 є N
-2. 2 AST using num & 2 є N
-3. 3 + 2 AST using PLUS with 1, 2
-
-## Implementing ASTs in Racket
+### Implementing ASTs in Racket
 
 Other way to define
 
 ```
 <ast> ::= <num> | + <ast> <ast>
-          ---------------------
+          ---------v-----------
+                   |
                    V
              Variant (sum) type
       base case | Inductive case
 ```
 
-Yet another aside:
+Implementing it in racket:
 
 ```scheme
-;; Aside: Thing in racket: Type predicate
+> (define-datatype ast ast? ;; the second is the type predicate
+    [num (n number?)]
+    [plus (left ast?) (right ast?)])
 
 > (number? 5)
 #t
 > symbol?
 > procedure? 
-```
-
-Implementing it in racket:
-
-```scheme
-> (define-datatype ast ast? ;; the second ast? is the type predicate
-    [num (n number?)]
-    [plus (left ast?) (right ast?)])
+;; so 
+> (check-true (ast? (num 5)))
+#t
 ```
 
 `num` and `plus` get autodefined as *constructor functions* with the following
@@ -149,28 +151,29 @@ signatures:
 Eg:
 
 ```scheme
-> (num 5); --> an AST
+> (num 5); --> an AST                   num 5
 
-;; ecample:                                plus
+;; example:                                plus
 > (ast? (plus (num 5)              ;      /     \
-              (num 6)))            ;     5       6
+              (num 6)))            ;   num5     num6
 #t
 
 ; example of more complex????                     +
 > (let ([e1 (plus (num 5) (num 6))]  ;           / \
         [e2 (plus (num 3) (num 3))]) ;          +   +
        (plus e1 e2))                 ;         / \ / \
-                                     ;        5  6 2  3
+                                     ;       n5 n6 n2 n3
 ```
 
+<hr>
 
-Now something something looking at abstract to conrete syntax
+*Now* something something looking at abstract to concrete syntax
 
 Abstract syntax ---unparser--> concrete syntax
                 <---parser----
                 
                 
-## Unparser implementation in RACKET            
+### Unparser implementation in RACKET            
 
 ```scheme
 ;;; unparse : ast? ----> any/c
@@ -187,7 +190,7 @@ Abstract syntax ---unparser--> concrete syntax
 '(+ 5 4)
 ```
 
-## Parser implementation in RACKET            
+### Parser implementation in RACKET            
 
 ```scheme
 ;;; parse : any/c ---> ast? || error
@@ -198,11 +201,15 @@ Abstract syntax ---unparser--> concrete syntax
                 (= (length d) 3)
                 (eq? (first d) '+))
            (plus (parse (second d))
-                 (parse (second )))
-           ???
-           ???
-           ???
-           ???
-           ??
-           
+                 (parse (third d)))]
+          [else (error 'parse "invalid syntax" d)]  
+          
+> (parse 5)
+(num 5)
+> (parse '(+ 2 3))
+(plus (num 2) (num 3))
 ```
+
+[^lost1]: at around 14:00, sir talks about the AST structure as a language. This
+caught me off guard causing me to lose track. It was mentioned once before, but
+was unable to pick it up at that moment.

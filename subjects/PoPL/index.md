@@ -23,8 +23,8 @@ layout: page
 
 ## Upcoming Deadlines
 
-- [X] Functional Programming in Racket (25th August 23:59) [hw01]
-- [ ] Functional Programming in Elm (1st September 23:59) [hw02]
+- [ ] Arithmetic Language (8th September 23:59) [hw03]
+- [ ] Lexical Interpreter (15th September 23:59) [hw04]
 
 ## Material
 
@@ -85,18 +85,27 @@ On lexical scope and higher-order functions
 
 #### Lecture 5
 
+[link to lecture 5]
+
 [notes](notes/Lecture 5)
 
-- [ ] Reading assignment:
-    - [ ] [AST & Unparsing]
+- [X] Reading assignment:
+    - [X] [AST & Unparsing]
 
 #### Lecture 6
+
+[link to lecture 6]
 
 [notes](notes/Lecture 6)
 
 - [ ] Reading assignment:
     - [ ] TODO
 
+#### Lecture 7
+
+[link to lecture 7]
+
+TODO
 
 [Streams]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/streams/index.html
 [Evaluation in Racket]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/racket-intro/index.html
@@ -108,6 +117,9 @@ On lexical scope and higher-order functions
 
 [link to lecture 3]: https://www.youtube.com/playlist?list=PL8C7LmL6BGm3GRXdtIaw6qtqFhU3U10Dl
 [link to lecture 4]: https://www.youtube.com/watch?v=cMxGYUwT6Zg
+[link to lecture  5]: https://web.microsoftstream.com/video/d2991309-eba1-4b96-9851-d0d1cd6d6c65
+[link to lecture 6]: https://web.microsoftstream.com/video/f4ae66c6-257c-43f6-80c0-5c56fa8355f4
+[link to lecture 7]: https://web.microsoftstream.com/video/59ec545f-3029-4d10-a98b-48449a19bdbb
 
 [Essentials of Programming Languages]: ./books/Essentials of Programming Languages 3e (MIT, 2008).pdf
 [Course Objectives]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/objective.html
@@ -119,3 +131,5 @@ On lexical scope and higher-order functions
 [Main course page]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/
 [hw01]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/blob/master/hws/hw01/index.org
 [hw02]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/blob/master/hws/hw02/index.org
+[hw03]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/blob/master/hws/hw03/index.org
+[hw04]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/blob/master/hws/hw04/index.org

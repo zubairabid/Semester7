@@ -29,6 +29,7 @@ Links:
     - [X] Offline evaluation (29th August)
     - [ ] Online evaluation (7th September)
 - [ ] Arithmetic Language in Racket(8th September 23:59)
+- [ ] Lexical Interpreter (15th September 23:59)
 - [X] Nationalism assignment 1 (1st September 23:59) 2020-09-02 23:30
 - [X] Cogsci Assignment 2 (2nd September 23:55) 2020-09-02 23:30
 - [X] Watch: Ranking documents (1st September 10:00) 2020-09-01 02:16
