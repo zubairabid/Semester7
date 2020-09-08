@@ -19,17 +19,17 @@ Links:
 
 - [ ] PoPL Lectures - Week 3 (3rd September)
 - [ ] Cogsci Lectures - Week 3 (3rd September)
-- [ ] IRE Miniproj catchup (3rd September)
+- [X] IRE Miniproj catchup (3rd September)
 
 ### Assignments
 
 - [ ] IS: XLNet. Multilang 
       (~~26~~ ~~27~~ ~~31st August~~ 3rd September 23:55)
-- [o] IRE Mini Project:
-    - [X] Offline evaluation (29th August)
-    - [ ] Online evaluation (7th September)
-- [ ] Arithmetic Language in Racket(8th September 23:59)
 - [ ] Lexical Interpreter (15th September 23:59)
+- [X] IRE Mini Project:
+    - [X] Offline evaluation (29th August)
+    - [X] Online evaluation (7th September) 2020-09-07 20:25
+- [X] Arithmetic Language in Racket(8th September 23:59) 2020-09-08 15:21
 - [X] Nationalism assignment 1 (1st September 23:59) 2020-09-02 23:30
 - [X] Cogsci Assignment 2 (2nd September 23:55) 2020-09-02 23:30
 - [X] Watch: Ranking documents (1st September 10:00) 2020-09-01 02:16

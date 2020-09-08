@@ -23,9 +23,9 @@ layout: page
 
 ## Upcoming Deadlines
 
-- [o] Mini Project:
+- [X] Mini Project:
     - [X] [Offline evaluation](./Assignments/MinP1) (29th August)
-    - [ ] Online evaluation (7th September)
+    - [X] [Online evaluation](./Assignments/MinP2) (7th September)
 - [X] Watch: Ranking documents (31st August 10:00)
 - [X] Watch: Jaccard (31st August 10:00)
 - [X] Watch: tf-idf intro (31st August 10:00)

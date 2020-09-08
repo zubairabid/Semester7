@@ -1,15 +1,3 @@
-# Contents
-
-- [Challenges](#Challenges)
-    - [Getting bits](#Challenges#Getting bits)
-        - [Title](#Challenges#Getting bits#Title)
-        - [Body](#Challenges#Getting bits#Body)
-        - [Categories](#Challenges#Getting bits#Categories)
-        - [Infobox](#Challenges#Getting bits#Infobox)
-            - [Within infobox](#Challenges#Getting bits#Infobox#Within infobox)
-        - [References](#Challenges#Getting bits#References)
-        - [Links](#Challenges#Getting bits#Links)
-
 ---
 title: Mini Project Phase I
 author: Zubair Abid
