@@ -26,6 +26,7 @@ Links:
 - [ ] IS: XLNet. Multilang 
       (~~26~~ ~~27~~ ~~31st August~~ 3rd September 23:55)
 - [ ] Lexical Interpreter (15th September 23:59)
+- [ ] Nationalism assignment 2 (18th September 23:59)
 - [X] IRE Mini Project:
     - [X] Offline evaluation (29th August)
     - [X] Online evaluation (7th September) 2020-09-07 20:25
@@ -47,6 +48,7 @@ Links:
 
 ### Readings
 
+- [ ] Readings: Benedict Anderson Chaps 4-10 (15th September)
 - [ ] Marxist theories of State (26th August)
 - [ ] PoPL Week 3 reading (29th August) 2020-09-01 12:38
 - [X] Readings: Hans Kohn (31st August)
