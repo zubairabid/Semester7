@@ -15,16 +15,20 @@ Links:
 [Cogsci](./subjects/cogsci/index#upcoming-deadlines)
 [IS](./subjects/IS/index#upcoming-deadlines)
 
+### General TODO
+
+- [ ] Pick cogsci project, phase 1 (26th September)
+- [ ] Pick IRE Major project (13th September)
+
 ### Catch up
 
-- [ ] PoPL Lectures - Week 3 (3rd September)
-- [ ] Cogsci Lectures - Week 3 (3rd September)
+- [ ] PoPL Lectures - Week 3,4 (9th September)
+- [ ] Cogsci Lectures - Week 3,4 (9th September)
 - [X] IRE Miniproj catchup (3rd September)
 
 ### Assignments
 
-- [ ] IS: XLNet. Multilang 
-      (~~26~~ ~~27~~ ~~31st August~~ 3rd September 23:55)
+- [ ] IS: German BERT (10th September 23:59)
 - [ ] Lexical Interpreter (15th September 23:59)
 - [ ] Nationalism assignment 2 (18th September 23:59)
 - [X] IRE Mini Project:
@@ -45,6 +49,8 @@ Links:
 - [X] Wikipedia mother tongue language (25th August 10:30)
 - [X] Watch Inverted index video (25th August)
 - [X] Functional Programming in Racket (25th August 23:59)
+- [ ] ~~IS: XLNet. Multilang~~
+      (~~26~~ ~~27~~ ~~31st August~~ 3rd September 23:55)
 
 ### Readings
 

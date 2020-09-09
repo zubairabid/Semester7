@@ -67,8 +67,15 @@ layout: page
 
 ## Assignments
 
-- [HW01](./hws/1) 
-- [HW02](./hws/2) 
+### Major
+
+- [Nationalism assignment 1](./assign/1)
+- [Nationalism assignment 2](./assign/2)
+
+### Class Homeworks
+
+- [HW01](./hws/1) Marks: 5.5/10
+- [HW02](./hws/2) Marks: 8/10
 - [HW03](./hws/3) 
 
 [Smith, Anthony D - Nation in History]: ./readings/Smith, Anthony D._ - Nation in History-Wiley (2014).epub

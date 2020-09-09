@@ -53,6 +53,14 @@ layout: page
 
 - [Lecture 1](./Slides/IRE-01-VV-Introduction.pdf)
 - [Lecture 2-3](./Slides/IRE-02 and 03-VV-Introduction.pdf)
+- [Lecture 4](./Slides/IRE-04-VV-Introduction-Completed.pdf)
+
+#### IR Models
+
+- [Lecture 5: Indexing](./Slides/Indexing_25Aug2020.pdf)
+- [Lecture 6: Index compression](./Slides/Index_Compression_27Aug2020.pdf)
+- [Lecture 7: Ranking](./Slides/Ranking_1Sep2020.pdf)
+- [Lecture 8-9: Probabilistic IR](./Slides/Probabilistic IR_3Sep2020.pdf)
 
 ### Recommended Books
 
@@ -67,6 +75,7 @@ layout: page
 ### Blogs
 
 - [Basic FTS]
+
 
 [Google paper]: http://infolab.stanford.edu/~backrub/google.html
 [Video for inverted index]: https://www.youtube.com/watch?v=Wf6HbY2PQDw&list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi&index=4&t=0s
