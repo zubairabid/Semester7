@@ -81,3 +81,28 @@ layout: page
 # 3: The Origins of National Consciousness
 
 TODO
+
+# 4: Creole Pioneers
+
+(Rough)
+
+- there was fear of lower class
+- First novel 1816
+- shared journey, administrative bounds beyond just market
+- Europeans not in Europe. Call for administrative freedom while trying to
+  maintain the borders.
+- Would not have happened without print capitalism:
+    - Print in New Spain for 2 centuries, but under the church
+    - Newspaper as source of income for print capitalists:
+    - Newspapers create an imagined community due to the structure of all the 
+      content on one page
+    - Newspapers also *provincial* and *plural*
+- Summary: Framework if new consciousness comes from creole journey and creole
+  printmen, not economic interest, Liberalism, or Enlightenment
+
+# 5: Old Languages, New Models
+
+(Rough)
+
+- In Europe, unlike America, "national print languages" important
+      

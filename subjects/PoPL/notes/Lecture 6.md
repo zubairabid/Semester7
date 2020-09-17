@@ -1,7 +1,7 @@
 ---
 title: PoPL Lecture 6
 author: Zubair Abid
-date: 2020-08-25
+date: 2020-08-28
 layout: page
 ---
 

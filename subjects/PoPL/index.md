@@ -105,12 +105,20 @@ On lexical scope and higher-order functions
 
 [link to lecture 7]
 
+[notes](notes/Lecture 7)
+
 - [ ] Reading assignment:
     - [ ] [Coinduction and Term Graphs] : Coinductive terms, behaviour
 
 #### Lecture 8
 
 [notes](notes/Lecture 8)
+
+#### Lecture 9
+
+#### Lecture 10
+
+[notes](notes/Lecture 10)
 
 
 [Streams]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/streams/index.html
