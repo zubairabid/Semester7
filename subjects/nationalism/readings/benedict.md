@@ -105,4 +105,24 @@ TODO
 (Rough)
 
 - In Europe, unlike America, "national print languages" important
+- Growth of comparative history does something:
+    - Writing gives rise to the conception of extra-European antiquity.
+      Linguistics as the first science with evolution at it's very core,
+      (Hobsbawm The Age of Revolution)
+    - Since no language now belongs to God, it now belongs to the language's
+      native speakers and readers
+- Lots of examples of vernacular attaining print status.
+- The middle class starts to rise:
+    - Literate in the vernacular, that now has print status. Literate
+      bourgeoisie. 
+    - Increasing infiltration in involvement in the bureaucracy.
+    - Kinship across borders no longer based on communities of marriage (think
+      kings), but awareness of plurality. Yet, limited by language.
+- Whichever language gets print-status benefits disproportionately its speakers
+  if competing against a minority tongue.
+- Nairn: 'middle-class intelligentsia of nationalism had to invite the masses
+  into history ... language they understood.' Does not explain why the idea is
+  so popular
+- Reason for popularity is writing. 'Memory of print'. Experience shaped into a
+  concept, carried over print, imagined as a model.
       
