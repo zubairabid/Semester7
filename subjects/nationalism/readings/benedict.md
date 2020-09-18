@@ -126,3 +126,26 @@ TODO
 - Reason for popularity is writing. 'Memory of print'. Experience shaped into a
   concept, carried over print, imagined as a model.
       
+# 6: Official Nationalisms and Imperialism
+
+(Rough)
+
+- Scots had no barricade, compare to 13 colonies.
+- On shared journey: Pal and Indian Magistrates, 409
+- Not just Indians, but South Africans, Australians, etc.
+- Even Japan did the no lateral journey thing
+- Official nationalisms:
+    - Not possible until popular linguistic nationalism
+    - Response by power group to maintain their status
+    - Conservative, reactionary.
+    - Discrepancy between nation and dynastic realm.
+
+# 7. The Last Wave
+
+TODO
+
+- Shared journey through common schooling
+- Shared journey preserves 'Indonesia' p. 132
+- Not about language, but print capitalism.
+- Swiss got print-capitalism late.
+- Last wave made possible by achievements of industrial Capitalism p. 139
