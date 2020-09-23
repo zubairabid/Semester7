@@ -24,10 +24,18 @@ Vemuri
 
 ## Upcoming Deadlines
 
+- [ ] Prep for quiz (26th September)
+- [ ] Cogsci Report (26th September 23:55)
+- [X] [Classwork 1](./Classwork/20171076_classwork1) (Deadline: 20/09 23:55)
+- [X] [Assignment 3](./Assignments/3) (Deadline: 19/09 23:55)
+- [X] [Assignment 2](./Assignments/2) (Deadline: 02/09 23:55)
 - [X] [Assignment 1](./Assignments/1) (Deadline: 26/08 23:55)
-- [ ] [Assignment 2](./Assignments/2) (Deadline: 02/09 23:55)
 
 ## Material
+
+### Books
+
+- [Goldstein - Cognitive Psychology]
 
 ### Notes
 
@@ -56,6 +64,9 @@ Vemuri
 
 - [Nature of Perception, organizing principles]
 
+#### Attention Perception and Performance
+
+- [APP: Lectures 1, 2] 
 
 
 [Lecture 1: Intro to Cogsci]: ./Slides/CSE485_Lec1_CogSci_introduction_M2020.pdf
@@ -68,3 +79,6 @@ Vemuri
 [Gustatory and Olfactory systems]: ./Slides/Gustatory_Olfactory-compressed.pdf
 [Multisensory Integration]: ./Slides/MultiSensoryIntegration.pdf
 [Nature of Perception, organizing principles]: ./Slides/Perception.pdf
+[APP: Lectures 1, 2]: ./Slides/Attention - L1 and L2-c.pdf
+
+[Goldstein - Cognitive Psychology]: ./Books/Book_Goldstein_CognitivePsychology_Mid2.pdf

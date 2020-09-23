@@ -17,20 +17,27 @@ Links:
 
 ### General TODO
 
-- [ ] Pick cogsci project, phase 1 (26th September)
-- [ ] Pick IRE Major project (13th September)
+- [ ] Honours work: Read the papers (23rd September)
+- [X] Pick cogsci project, phase 1 (26th September)
+- [X] Pick IRE Major project (13th September)
 
 ### Catch up
 
-- [ ] PoPL Lectures - Week 3,4 (9th September)
-- [ ] Cogsci Lectures - Week 3,4 (9th September)
+- [ ] PoPL Lectures - Week 4,5,6,7 (~~9th~~ 23rd September)
+- [ ] Nationalism Lectures - Week 6,7 (23rd September)
+- [ ] IRE Lectures - Week 5,6,7 (24th September)
+- [ ] Cogsci Lectures - Week 3,4,5,6,7 (~~9th~~ 24th September)
 - [X] IRE Miniproj catchup (3rd September)
 
 ### Assignments
 
-- [ ] IS: German BERT (10th September 23:59)
-- [ ] Lexical Interpreter (15th September 23:59)
-- [ ] Nationalism assignment 2 (18th September 23:59)
+- [ ] IRE Major project document (26th September 23:55)
+- [ ] Cogsci Report (26th September 23:55)
+- [X] Lexical Interpreter (22nd September 23:59)
+- [X] Cogsci Classwork 1 (Deadline: 20/09 23:55)
+- [X] Nationalism assignment 2 (18th September 23:59)
+- [X] Cogsci Assignment 3 (Deadline: 19/09 23:55)
+- [X] IS: German BERT (10th September 23:59)
 - [X] IRE Mini Project:
     - [X] Offline evaluation (29th August)
     - [X] Online evaluation (7th September) 2020-09-07 20:25
@@ -54,9 +61,9 @@ Links:
 
 ### Readings
 
-- [ ] Readings: Benedict Anderson Chaps 4-10 (15th September)
 - [ ] Marxist theories of State (26th August)
 - [ ] PoPL Week 3 reading (29th August) 2020-09-01 12:38
+- [X] Readings: Benedict Anderson Chaps 4-10 (15th September)
 - [X] Readings: Hans Kohn (31st August)
 - [X] Readings: Benedict Anderson Chaps 1-3 (31st August) 2020-08-31 23:36
 - [X] Watch Inverted index video (26th August)
