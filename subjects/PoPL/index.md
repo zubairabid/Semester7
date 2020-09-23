@@ -11,20 +11,24 @@ layout: page
 
 ### Grading Scheme
 
-| Component             | Weightage |
-|-----------------------|-----------|
-| Quizzes (13 (top 10)) | 40        |
-| HW (8)                | 20        |
-| Project               | 35        |
-| Class Participation   | 5         |
+| Component           | Weightage |
+|---------------------|-----------|
+| Quizzes (Tuesday)   | 10        |
+| Quizzes (Friday)    | 15        |
+| HW (8)              | 40        |
+| Project             | 30        |
+| Class Participation | 5         |
 
 - Contents
 {:toc}
 
 ## Upcoming Deadlines
 
-- [ ] Arithmetic Language (8th September 23:59) [hw03]
-- [ ] Lexical Interpreter (15th September 23:59) [hw04]
+- [ ] Bisimilarity (29th September 23:55) [hw05]
+- [X] Lexical Interpreter (22nd September 23:59) [hw04]
+- [X] Arithmetic Language (8th September 23:59) [hw03]
+- [X] Functional programming in Elm (1st September) [hw02]
+- [X] Functional programming in Racket (25th August) [hw01]
 
 ## Material
 
@@ -148,3 +152,4 @@ On lexical scope and higher-order functions
 [hw02]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/blob/master/hws/hw02/index.org
 [hw03]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/blob/master/hws/hw03/index.org
 [hw04]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/blob/master/hws/hw04/index.org
+[hw05]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/blob/master/hws/hw05/index.org

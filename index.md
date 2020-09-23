@@ -31,11 +31,13 @@ Links:
 
 ### Assignments
 
-- [ ] IRE Major project document (26th September 23:55)
+- [ ] Bisimilarity (29th September 23:55)
+- [ ] IRE Major project document (27th September 23:55)
 - [ ] Cogsci Report (26th September 23:55)
 - [X] Lexical Interpreter (22nd September 23:59)
 - [X] Cogsci Classwork 1 (Deadline: 20/09 23:55)
 - [X] Nationalism assignment 2 (18th September 23:59)
+- [X] IRE Assignment 2 (17th September 23:55)
 - [X] Cogsci Assignment 3 (Deadline: 19/09 23:55)
 - [X] IS: German BERT (10th September 23:59)
 - [X] IRE Mini Project:
