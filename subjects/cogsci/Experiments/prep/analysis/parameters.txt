@@ -1,0 +1,5 @@
+rt 8
+st 10
+g1 4
+g2 7
+exclude_blocks prp_training

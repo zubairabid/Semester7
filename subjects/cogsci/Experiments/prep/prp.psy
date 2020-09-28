@@ -1,0 +1,148 @@
+options
+  bitmapdir stimuli
+  sounddir stimuli
+
+sounds
+  lo1 square220hz_200ms.mp3
+  lo2 square440hz_200ms.mp3
+  hi1 square660hz_200ms.mp3
+  hi2 square880hz_200ms.mp3
+
+bitmaps
+  instruction1
+  instruction2
+  instruction3
+  instruction4  
+  readyreal
+  readypractise
+  fixpoint1
+  fixpoint2  
+  errorfeedback
+  listen
+  thankyou
+
+fonts
+  courier 18
+  
+table prptable
+  lo1  1 3 1 "lo yellow easy"
+  lo2  1 3 2 "lo yellow diff"
+  hi1  2 3 2 "hi yellow diff"
+  hi2  2 3 1 "hi yellow easy"
+  lo1  1 4 1 "lo blue   easy"
+  lo2  1 4 2 "lo blue   diff"
+  hi1  2 4 2 "hi blue   diff"
+  hi2  2 4 1 "hi blue   easy"
+
+task prptask
+  table prptable
+  keys z x comma period
+  ## first set some more variables to values
+  set $prpsoa random from 75 150 300 600
+  ## create yellow rectangle colors  
+  if @3 == 3
+    set $redchannel   255
+    set $greenchannel 255
+    set $bluechannel  0
+  fi
+  ## create blue rectangle colors
+  if @3 == 4
+    set $redchannel   100
+    set $greenchannel 100
+    set $bluechannel  255
+  fi
+  ############################################
+  ## start events, start with nice fixpoint
+  delay 500
+  show bitmap fixpoint1
+  delay 100
+  show bitmap fixpoint2
+  delay 100
+  clear 1 2
+  show bitmap fixpoint1
+  delay 100
+  clear -1
+  ############################################
+  ## now the task relevant events
+  sound @1
+  readkey @2 $prpsoa
+  set $rt1 RT
+  set $status1 STATUS
+  show rectangle 0 0 200 100 $redchannel $greenchannel $bluechannel
+  ## the following if is true if people responsed quicker than the PRP SOA
+  if $status1 != TIMEOUT
+    set $realrt1 RT
+    readkey @3 3000
+    set $realrt2 RT
+    set $status2 STATUS
+  fi
+  if $status1 == TIMEOUT
+    readkey @2 3000
+    set $rt1 RT
+    set $status1 STATUS
+    set $realrt1 expression $prpsoa + $rt1    
+    readkey @3 3000
+    set $realrt2 RT
+    set $status2 STATUS
+  fi
+  ############################################
+  ## check if values were correct
+  if $status1 != CORRECT || $status2 != CORRECT
+    show bitmap errorfeedback
+    delay 3000
+    clear -1
+  fi
+  save &blocktype @5 @2 @3 $prpsoa $realrt1 $realrt2 $status1 $status2
+
+block prp_training
+  set &blocktype 1 # training
+  pager instruction1 instruction2 instruction3 instruction4
+  message listen
+  sound lo1
+  delay 300
+  sound lo2
+  delay 600  
+  sound hi1
+  delay 300
+  sound hi2
+  delay 600
+  sound lo1
+  delay 300  
+  sound lo2
+  delay 600  
+  sound hi1
+  delay 300    
+  sound hi2
+  delay 600
+  message readypractise
+  tasklist
+    prptask 20
+  end
+
+block prp_real
+  set &blocktype 2 # real
+  message readyreal
+  tasklist
+    prptask 100
+  end
+  feedback
+    text align left
+    set &soa1_rt1 mean c8  ; select c7 == 75  && c1 == 2 && c9 == 1 && c10 == 1
+    set &soa2_rt1 mean c8  ; select c7 == 150 && c1 == 2 && c9 == 1 && c10 == 1
+    set &soa3_rt1 mean c8  ; select c7 == 300 && c1 == 2 && c9 == 1 && c10 == 1
+    set &soa4_rt1 mean c8  ; select c7 == 600 && c1 == 2 && c9 == 1 && c10 == 1
+    set &soa1_rt2 mean c12 ; select c7 == 75  && c1 == 2 && c9 == 1 && c10 == 1
+    set &soa2_rt2 mean c12 ; select c7 == 150 && c1 == 2 && c9 == 1 && c10 == 1
+    set &soa3_rt2 mean c12 ; select c7 == 300 && c1 == 2 && c9 == 1 && c10 == 1
+    set &soa4_rt2 mean c12 ; select c7 == 600 && c1 == 2 && c9 == 1 && c10 == 1
+    text -350 -200 &soa1_rt1 ; prefix "RT1 SOA=50  " ; postfix " ms"
+    text -350 -150 &soa2_rt1 ; prefix "RT1 SOA=200 " ; postfix " ms"    
+    text -350 -100 &soa3_rt1 ; prefix "RT1 SOA=400 " ; postfix " ms"
+    text -350 -50 &soa4_rt1  ; prefix "RT1 SOA=800 " ; postfix " ms"
+    text -350  0 &soa1_rt2   ; prefix "RT2 SOA=50  " ; postfix " ms"
+    text -350  50 &soa2_rt2  ; prefix "RT2 SOA=200 " ; postfix " ms"    
+    text -350  100 &soa3_rt2 ; prefix "RT2 SOA=400 " ; postfix " ms"
+    text -350  150 &soa4_rt2 ; prefix "RT2 SOA=800 " ; postfix " ms"
+    text -350  200 "Write down numbers. Press space bar to continue."
+  end
+  message thankyou

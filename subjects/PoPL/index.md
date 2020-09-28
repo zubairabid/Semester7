@@ -102,8 +102,8 @@ On lexical scope and higher-order functions
 
 [notes](notes/Lecture 6)
 
-- [ ] Reading assignment:
-    - [ ] [Coinduction and Term Graphs] : Induction
+- [X] Reading assignment:
+    - [X] [Coinduction and Term Graphs] : Induction
 
 #### Lecture 7
 
@@ -111,18 +111,63 @@ On lexical scope and higher-order functions
 
 [notes](notes/Lecture 7)
 
-- [ ] Reading assignment:
-    - [ ] [Coinduction and Term Graphs] : Coinductive terms, behaviour
+- [X] Reading assignment:
+    - [X] [Coinduction and Term Graphs] : Coinductive terms, behaviour
 
 #### Lecture 8
 
+[link to lecture 8]
+
 [notes](notes/Lecture 8)
+
+- [X] Reading assignment:
+    - [X] None 
 
 #### Lecture 9
 
+[link to lecture 9]
+
+[notes](./notes/Lecture 9)
+
+- [ ] Reading assignment:
+    - [ ] [Coinduction and Term Graphs] : Bisimulation
+
 #### Lecture 10
 
+[link to lecture 10]
+
 [notes](notes/Lecture 10)
+
+- [ ] Reading assignment:
+    - [ ] [Addition interaction semantics: notes]
+    - [ ] [Addition interaction semantics: board]
+    - [ ] [Addition interaction semantics: example]
+
+#### Lecture 11
+
+[link to lecture 11]
+
+[notes](./notes/Lecture 11)
+
+- [ ] Reading assignment:
+    - [ ] [Abstract reduction systems]
+    - [ ] [Abstract reduction systems: board]
+    - [ ] [TRaAT]: Chapters 1, Sec 2.1
+
+#### Lecture 12
+
+[link to lecture 12]
+
+[notes](./notes/Lecture 12)
+
+- [ ] Reading assignment:
+    - [ ] [TRaAT]: 2.2, 2.7
+
+#### Lecture 13
+
+[link to lecture 13]
+
+[notes](./notes/Lecture 13)
 
 
 [Streams]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/streams/index.html
@@ -133,12 +178,23 @@ On lexical scope and higher-order functions
 [Literate programming]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/literate-programming/index.html
 [AST & Unparsing]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/syntax/index.html
 [Coinduction and Term Graphs]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/syntax/coterms.html
+[Addition interaction semantics: notes]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/board-work/addition-redex.pdf
+[Addition interaction semantics: board]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/bw/2020-09-11-interaction-semantics.pdf
+[Addition interaction semantics: example]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/board-work/path-based-reduction.pdf
+[Abstract reduction systems]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/abstract-reductions/index.html
+[Abstract reduction systems: board]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/bw/2020-09-18-ars-1.pdf
+[TRaAT]: ./books/TRaAT.pdf
 
 [link to lecture 3]: https://www.youtube.com/playlist?list=PL8C7LmL6BGm3GRXdtIaw6qtqFhU3U10Dl
 [link to lecture 4]: https://www.youtube.com/watch?v=cMxGYUwT6Zg
 [link to lecture  5]: https://web.microsoftstream.com/video/d2991309-eba1-4b96-9851-d0d1cd6d6c65
 [link to lecture 6]: https://web.microsoftstream.com/video/f4ae66c6-257c-43f6-80c0-5c56fa8355f4
 [link to lecture 7]: https://web.microsoftstream.com/video/59ec545f-3029-4d10-a98b-48449a19bdbb
+[link to lecture 8]: https://web.microsoftstream.com/video/a64909ab-ad6c-4413-859f-954758f38eac
+[link to lecture 9]: https://web.microsoftstream.com/video/fa7f59b2-7b6a-46a1-941c-85d504718790
+[link to lecture 10]: https://web.microsoftstream.com/video/495d09e7-e513-4fbc-99e2-48609d575462
+[link to lecture 11]: https://web.microsoftstream.com/video/47224664-368c-4f6d-8e92-9f6396b85afe
+[link to lecture 12]: https://web.microsoftstream.com/video/eb5d1670-00d6-45e9-a446-553383264c91
 
 [Essentials of Programming Languages]: ./books/Essentials of Programming Languages 3e (MIT, 2008).pdf
 [Course Objectives]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/objective.html

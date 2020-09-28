@@ -24,12 +24,14 @@ Vemuri
 
 ## Upcoming Deadlines
 
-- [ ] Prep for quiz (26th September)
-- [ ] Cogsci Report (26th September 23:55)
+- [X] Prep for quiz (26th September)
+- [X] Cogsci Report (26th September 23:55)
 - [X] [Classwork 1](./Classwork/20171076_classwork1) (Deadline: 20/09 23:55)
 - [X] [Assignment 3](./Assignments/3) (Deadline: 19/09 23:55)
 - [X] [Assignment 2](./Assignments/2) (Deadline: 02/09 23:55)
 - [X] [Assignment 1](./Assignments/1) (Deadline: 26/08 23:55)
+
+[Experiment](./Experiments/ZubairAbid_20171076_prp_20200924)
 
 ## Material
 
@@ -41,7 +43,10 @@ Vemuri
 
 - [notes (pdf)](./Cognotes.pdf) [notes (xopp)](./Cognotes.xopp) 
 - [Lecture 2](./Notes/2)
-- [Lecture 3](./Notes/3)
+- [Nervous System Basics](./Notes/nervous)
+- [Visual System](./Notes/visual)
+- [Sensory Systems](./Notes/sensory)
+- [Perception](./Notes/perception)
 
 ### Slides
 

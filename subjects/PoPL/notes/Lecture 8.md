@@ -8,4 +8,5 @@ layout: page
 - Induction: construction
 - Coinduction: observation and interaction
 
-∑
+- Is mostly revision
+- fixed points

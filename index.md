@@ -23,10 +23,10 @@ Links:
 
 ### Catch up
 
-- [ ] PoPL Lectures - Week 4,5,6,7 (~~9th~~ 23rd September)
-- [ ] Nationalism Lectures - Week 6,7 (23rd September)
-- [ ] IRE Lectures - Week 5,6,7 (24th September)
-- [ ] Cogsci Lectures - Week 3,4,5,6,7 (~~9th~~ 24th September)
+- [ ] PoPL Lectures - Week ~~4,5~~,6,7 (~~9th~~ ~~23rd~~ 24th September)
+- [ ] Nationalism Lectures - Week 6,7 (~~23rd~~ 24th September)
+- [ ] IRE Lectures - Week 5,6,7 (~~24th~~ 25th September)
+- [ ] Cogsci Lectures - Week 3,4,5,6,7 (~~9th~~ ~~24th~~ 25th September)
 - [X] IRE Miniproj catchup (3rd September)
 
 ### Assignments
