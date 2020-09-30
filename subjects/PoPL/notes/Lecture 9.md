@@ -11,9 +11,7 @@ Revision
 
 Bisimulation
 
-- A quick flashback to term graphs and behaviours 
-  
-  $$\sigma$$
+- A quick flashback to term graphs and behaviours $$\sigma$$
   
   ![image](./9_bisimintro12.png)
 - A motivation for bisimulation: all the terms are intuitively the same 
