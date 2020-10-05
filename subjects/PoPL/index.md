@@ -24,7 +24,7 @@ layout: page
 
 ## Upcoming Deadlines
 
-- [ ] Bisimilarity (29th September 23:55) [hw05]
+- [X] Bisimilarity (29th September 23:55) [hw05]
 - [X] Lexical Interpreter (22nd September 23:59) [hw04]
 - [X] Arithmetic Language (8th September 23:59) [hw03]
 - [X] Functional programming in Elm (1st September) [hw02]

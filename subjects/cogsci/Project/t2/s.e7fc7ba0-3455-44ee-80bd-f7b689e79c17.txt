@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-10-05-07-30
+user_agent: mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/85.0.4183.102 safari/537.36
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-10-05-07-30
+T: 8484
+t: textline
+a: Garima Nishad
+l: rollno
+stime: 2020-10-05-07-31
+T: 7773
+t: textline
+a: 2019701029
+l: age
+stime: 2020-10-05-07-31
+T: 3287
+t: textline
+a: 25
+l: lefrig
+stime: 2020-10-05-07-31
+T: 3777
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-10-05-07-40
+T: 557308
+t: experiment
+endcode: 
+end 2020-10-05-07-40

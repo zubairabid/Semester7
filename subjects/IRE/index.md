@@ -23,7 +23,7 @@ layout: page
 
 ## Upcoming Deadlines
 
-- [ ] IRE Major project document (27th September 23:55)
+- [X] IRE Major project document (27th September 23:55)
 - [X] [Assignment 2](./Assignments/2)
 - [X] Mini Project:
     - [X] [Offline evaluation](./Assignments/MinP1) (29th August)

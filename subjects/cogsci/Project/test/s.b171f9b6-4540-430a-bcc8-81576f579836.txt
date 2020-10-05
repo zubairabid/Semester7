@@ -1,0 +1,31 @@
+version: 3.2.0
+server-time: 2020-10-04-18-45
+user_agent: mozilla/5.0 (x11; linux x86_64; rv:81.0) gecko/20100101 firefox/81.0
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-10-04-18-45
+T: 3485
+t: textline
+a: test
+l: rollno
+stime: 2020-10-04-18-45
+T: 2161
+t: textline
+a: 9887
+l: age
+stime: 2020-10-04-18-45
+T: 2448
+t: textline
+a: 27
+l: lefrig
+stime: 2020-10-04-18-45
+T: 3392
+t: radio
+a: 2
+endcode: 
+end 2020-10-04-18-45

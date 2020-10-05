@@ -24,7 +24,7 @@ racket.
     1. What is a program? How is it represented? `<-- will tackle this today`
     2. What does it mean? How does it run?
 
-## What is a program
+# What is a program
 
 Say you have a python program:
 
@@ -36,7 +36,7 @@ def f(x):
 - It's a sequence of characters, a sequence of tokens
 - However, we are more concerned with abstract representations
 
-## A more abstract representation of a program
+# A more abstract representation of a program
 
 - **Trees** are an abstract representation. We will be using that.
 - We start with a simple language: addition
@@ -60,7 +60,7 @@ def f(x):
 
 ```
 
-## From concrete to abstract
+# From concrete to abstract
 
 We'll work with a very simple language, *addition*.
 
@@ -103,17 +103,17 @@ An example of the judgement:
 
 | Judgement | rating  | justification       |
 |-----------|---------|---------------------|
-| 3 AST     | sound   | num, 3 ∈  N         |
-| 2 AST     | sound   | num, 2 ∈  N         |
+| 3 AST     | sound   | num, 3 $\in$  N     |
+| 2 AST     | sound   | num, 2 $\in$  N     |
 | 2+3 AST   | sound   | plus, 2 AST & 3 AST |
 | 2+ AST    | unsound | not derivable       |
 
-## Implementing a parser and unparser
+# Implementing a parser and unparser
 
 Rest of class: we will implement regularisation of ASTs, and write two
 functions: `parse`, `unparse`
 
-### Implementing ASTs in Racket
+## Implementing ASTs in Racket
 
 Other way to define
 
@@ -173,7 +173,7 @@ Abstract syntax ---unparser--> concrete syntax
                 <---parser----
                 
                 
-### Unparser implementation in RACKET            
+## Unparser implementation in RACKET            
 
 ```scheme
 ;;; unparse : ast? ----> any/c
@@ -190,7 +190,7 @@ Abstract syntax ---unparser--> concrete syntax
 '(+ 5 4)
 ```
 
-### Parser implementation in RACKET            
+## Parser implementation in RACKET            
 
 ```scheme
 ;;; parse : any/c ---> ast? || error

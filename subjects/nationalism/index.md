@@ -21,8 +21,8 @@ layout: page
 
 ## Upcoming Deadlines
 
-- [ ] [Nationalism assignment 2](./assign/2) (18th September 23:59)
-- [ ] Readings: Marxist theories of State (26th August)
+- [X] [Nationalism assignment 2](./assign/2) (18th September 23:59)
+- [X] Readings: Marxist theories of State (26th August)
 - [X] Readings: Hans Kohn (31st August)
 - [X] Readings: Benedict Anderson Chaps 1-3 (31st August)
 - [X] [Nationalism assignment 1](./assign/1) (1st September 23:59)

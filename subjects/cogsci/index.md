@@ -24,6 +24,7 @@ Vemuri
 
 ## Upcoming Deadlines
 
+- [X] [Classwork 23](./Classwork/20171076_classwork23)
 - [X] Prep for quiz (26th September)
 - [X] Cogsci Report (26th September 23:55)
 - [X] [Classwork 1](./Classwork/20171076_classwork1) (Deadline: 20/09 23:55)

@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-10-04-18-54
+user_agent: mozilla/5.0 (x11; linux x86_64; rv:81.0) gecko/20100101 firefox/81.0
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-10-04-18-54
+T: 6177
+t: textline
+a: Zubair Test
+l: rollno
+stime: 2020-10-04-18-54
+T: 2328
+t: textline
+a: 20171076
+l: age
+stime: 2020-10-04-18-54
+T: 1711
+t: textline
+a: 21
+l: lefrig
+stime: 2020-10-04-18-54
+T: 4111
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-10-04-18-59
+T: 319805
+t: experiment
+endcode: 
+end 2020-10-04-18-59

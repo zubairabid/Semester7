@@ -31,9 +31,9 @@ Links:
 
 ### Assignments
 
-- [ ] Bisimilarity (29th September 23:55)
-- [ ] IRE Major project document (27th September 23:55)
-- [ ] Cogsci Report (26th September 23:55)
+- [X] Bisimilarity (29th September 23:55)
+- [X] IRE Major project document (27th September 23:55)
+- [X] Cogsci Report (26th September 23:55)
 - [X] Lexical Interpreter (22nd September 23:59)
 - [X] Cogsci Classwork 1 (Deadline: 20/09 23:55)
 - [X] Nationalism assignment 2 (18th September 23:59)
