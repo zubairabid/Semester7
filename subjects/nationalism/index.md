@@ -21,6 +21,7 @@ layout: page
 
 ## Upcoming Deadlines
 
+- [X] [Nationalism assignment 3](./assign/3) (20th October 23:59)
 - [X] [Nationalism assignment 2](./assign/2) (18th September 23:59)
 - [X] Readings: Marxist theories of State (26th August)
 - [X] Readings: Hans Kohn (31st August)
@@ -40,6 +41,7 @@ layout: page
 - [Lecture 3: Liberalism, Marxism, Nationalism]
 - [Lecture 4: Early Academic Theories]
 - [Lectures 5-8: Benedict Anderson]
+- [Lectures 10-11: Ernest Gellner]
 
 ### Readings
 
@@ -76,7 +78,9 @@ layout: page
 
 - [HW01](./hws/1) Marks: 5.5/10
 - [HW02](./hws/2) Marks: 8/10
-- [HW03](./hws/3) 
+- [HW03](./hws/3) Marks: 7.5/10
+- [HW04](./hws/4) 
+- [HW05](./hws/5) 
 
 [Smith, Anthony D - Nation in History]: ./readings/Smith, Anthony D._ - Nation in History-Wiley (2014).epub
 [Partha Chatterjee - Empire and Nation]: ./readings/Partha Chatterjee - Empire and Nation_ Selected Essays-Columbia University Press (2010)(1).epub
@@ -96,3 +100,4 @@ layout: page
 [Lecture 3: Liberalism, Marxism, Nationalism]: ./slides/Lecture 3, Liberalism, Marxism, Nationalism.pdf
 [Lecture 4: Early Academic Theories]: ./slides/Lecture 4, Early Academic Theories.pdf
 [Lectures 5-8: Benedict Anderson]: ./slides/Lectures 5-8, Benedict Anderson, Imagined Communities.pdf
+[Lectures 10-11: Ernest Gellner]: ./slides/Lectures 10-11, Ernest Gellner.pdf

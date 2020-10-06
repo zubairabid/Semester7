@@ -169,6 +169,39 @@ On lexical scope and higher-order functions
 
 [notes](./notes/Lecture 13)
 
+- [ ] Reading assignment:
+    - [ ] [Essentials of Programming Languages] Chapter 2
+    - [ ] [Addition language]
+    - [ ] [Interpreter for addition]
+    - [ ] [Notes on IF+/]
+    - [ ] [Addition: board work]
+
+#### Lecture 14
+
+[link to lecture 14]
+
+[notes](./notes/Lecture 14)
+
+- [ ] Reading assignment:
+    - [ ] [Essentials of Programming Languages] Chapter 2 Sec 3.1, 3.2
+    - [ ] [Notes on lexical scope]
+    - [ ] [Notes on dynamic scope recursion]
+    - [ ] [Scope: board work]
+
+#### Lecture 15
+
+[link to lecture 15]
+
+[notes](./notes/Lecture 15)
+
+- [ ] Reading assignment:
+    - [ ] [Essentials of Programming Languages] Chapter 2
+    - [ ] [Addition language]
+    - [ ] [Interpreter for addition]
+    - [ ] [Notes on IF+/]
+    - [ ] [Addition: board work]
+
+
 
 [Streams]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/streams/index.html
 [Evaluation in Racket]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/racket-intro/index.html
@@ -183,6 +216,13 @@ On lexical scope and higher-order functions
 [Addition interaction semantics: example]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/board-work/path-based-reduction.pdf
 [Abstract reduction systems]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/abstract-reductions/index.html
 [Abstract reduction systems: board]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/bw/2020-09-18-ars-1.pdf
+[Addition: board work]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/bw/2020-09-25-class-notes-addition-ars.pdf
+[Addition language]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/addition-lang/index.html
+[Interpreter for addition]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/addition-lang/interpreter.html
+[Notes on IF+/]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/current-topics/if+div-lang/index.html
+[Notes on lexical scope]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/board-work/lexical-scope.pdf
+[Notes on dynamic scope recursion]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/board-work/dynamic-scope-recursion.pdf
+[Scope: board work]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/bw/2020-09-29-class-notes-lexical.pdf
 [TRaAT]: ./books/TRaAT.pdf
 
 [link to lecture 3]: https://www.youtube.com/playlist?list=PL8C7LmL6BGm3GRXdtIaw6qtqFhU3U10Dl
@@ -195,6 +235,9 @@ On lexical scope and higher-order functions
 [link to lecture 10]: https://web.microsoftstream.com/video/495d09e7-e513-4fbc-99e2-48609d575462
 [link to lecture 11]: https://web.microsoftstream.com/video/47224664-368c-4f6d-8e92-9f6396b85afe
 [link to lecture 12]: https://web.microsoftstream.com/video/eb5d1670-00d6-45e9-a446-553383264c91
+[link to lecture 13]: https://web.microsoftstream.com/video/b6bcd73d-327a-4ac7-b1c3-f757b93453de
+[link to lecture 14]: https://web.microsoftstream.com/video/7b84fff6-45df-4a3b-a8cb-d08a5e868416
+[link to lecture 15]: No link yet
 
 [Essentials of Programming Languages]: ./books/Essentials of Programming Languages 3e (MIT, 2008).pdf
 [Course Objectives]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/objective.html
