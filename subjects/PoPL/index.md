@@ -183,7 +183,8 @@ On lexical scope and higher-order functions
 [notes](./notes/Lecture 14)
 
 - [ ] Reading assignment:
-    - [ ] [Essentials of Programming Languages] Chapter 2 Sec 3.1, 3.2
+    - [ ] [Essentials of Programming Languages] Chapter 2 Sec 3.2
+    - [ ] [Essentials of Programming Languages] Chapter 2 Sec 3.1
     - [ ] [Notes on lexical scope]
     - [ ] [Notes on dynamic scope recursion]
     - [ ] [Scope: board work]
@@ -195,11 +196,19 @@ On lexical scope and higher-order functions
 [notes](./notes/Lecture 15)
 
 - [ ] Reading assignment:
-    - [ ] [Essentials of Programming Languages] Chapter 2
-    - [ ] [Addition language]
-    - [ ] [Interpreter for addition]
-    - [ ] [Notes on IF+/]
-    - [ ] [Addition: board work]
+    - [ ] [Essentials of Programming Languages] Chapter 2 Sec 3.3
+    - [ ] [Notes on closures]
+    - [ ] [Lexical and functional board work]
+
+#### Lecture 16
+
+[link to lecture 16]
+
+[notes](./notes/Lecture 16)
+
+- [ ] Reading assignment:
+    - [ ] [Essentials of Programming Languages] Chapter 2 Sec 3.4
+    - [ ] [Essentials of Programming Languages] Chapter 2 Sec 3.5
 
 
 
@@ -223,6 +232,8 @@ On lexical scope and higher-order functions
 [Notes on lexical scope]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/board-work/lexical-scope.pdf
 [Notes on dynamic scope recursion]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/board-work/dynamic-scope-recursion.pdf
 [Scope: board work]: https://faculty.iiit.ac.in/~venkatesh.choppella/popl/bw/2020-09-29-class-notes-lexical.pdf
+[Notes on closures]: https://faculty.iiit.ac.in/~vxc/popl/board-work/closures.pdf
+[Lexical and functional board work]: https://faculty.iiit.ac.in/~vxc/popl/bw/2020-10-02-lexical-functional.pdf
 [TRaAT]: ./books/TRaAT.pdf
 
 [link to lecture 3]: https://www.youtube.com/playlist?list=PL8C7LmL6BGm3GRXdtIaw6qtqFhU3U10Dl
