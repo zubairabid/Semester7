@@ -1,0 +1,170 @@
+PoPL Lecture 6
+
+2020‑08‑28
+
+Agenda: Syntax (Co‑inductive Terms)
+• Last time, we had terms, defined in terms of induction and expression:
+–
+–
+–
+–
+
+Defining a base case for an expression
+Inductively, defining the set of all expressions
+This was done for an operation
+Example from last class
+
+1
+2
+3
+4
+5
+6
+7
+
+|--------------------|
+| if n
+N
+| num rule
+| ⇒ n AST
+|
+|
+OR
+|
+| if e1 AST & e2 AST | plus rule
+| ⇒ + e1 e2 AST
+|
+|--------------------|
+
+|
+|
+|
+
+Defines all
+> expressions
+| in addition
+|
+|
+
+• This time, we will focus on Structural Induction: on trees, instead of 𝑛
+
+Generalising induction
+• We want to define terms inductively. Inductive terms
+• We assume an alphabet Σ of constructor symbols
+– What are constructor symbols? Kind of like functions that operate on some terms (arity, as
+we shall find out) and return terms as results. Think of the ‘+’ operator.
+– Eg: Σ = {𝑓, 𝑔, 𝑎, 𝑏}
+• We define an “arity” function that operates on 𝛼 ∶ Σ → 𝑁 (Natural numbers)
+– Arity defines how many parameters the operator can take.
+– Eg: 𝛼(𝑓) = 2, 𝛼(𝑔) = 1, 𝛼(𝑎) = 𝛼(𝑏) = 0
+• So, terms can be built like:
+1 f(a(), b()) \_ inductively building terms
+2 f(g(a), b) /
+
+• So, to define inductive terms: Given a constructor symbol f with arity ɑ(f) = n and n terms, f(the
+n terms) = a new term
+1 ₁
+2 t ... n terms and α(f) = n
+3 ---------------------------4
+f(₁t ... n terms) is a term
+
+Zubair Abid
+
+\
+> constructor rule⇒
+/
+
+1
+
+PoPL Lecture 6
+
+2020‑08‑28
+
+• Can be used to make judgements on terms (slide below)
+
+Figure 1: What is an inductive proof
+• wordy definition of this:
+– if 𝑡1 ...𝑡𝑛 Terms
+– and 𝑓 ∈ Σ s.t. 𝛼(𝑓) = 𝑛
+– then 𝑓(𝑡1 ...𝑡𝑛 ) is a term
+• The set of all Inductive terms over Σ ⟹ 𝑇𝑖𝑛𝑑 (Σ) is the smallest set satisfying the above proper‑
+ties:
+1 So
+∑T would have:
+2
+a, b, f a b, g a, g b, f g a b, f a g b,
+3
+g f a b, f g f a b a, etc
+
+• Why bother with a boring induction based proof? We will move on to eventually define eval‑
+uation itself as an induction system, not just terms.
+
+Zubair Abid
+
+2
+
+PoPL Lecture 6
+
+2020‑08‑28
+
+Figure 2: Example of an inductive proof
+• What is a set 𝑋 = Σ(𝑋). We need the least solution, as there are many.
+𝑇𝑖𝑛𝑑 is the least solution.
+Saying that this is the least solution and giving the definition of it is identical. ‑ Is it possible to have
+‘infinite’ terms?
+1 We have
+2
++
+3
+/ \
+4
+a
+b
+5
+6
+
+•
+•
+•
+•
+•
+•
+•
+
+Can we have
+g
+/
+g'
+/
+g''
+
+or
+
+g<-\
+|__|
+
+Any proof is a finite structure
+The set itself is infinite
+But every element in the set if finitely constructed
+𝑇𝑖𝑛𝑑 = Σ(𝑇𝑖𝑛𝑑 ) ⊂ 𝑇𝑖𝑛𝑑
+Testing a ∑ operator
+Hey a cat
+THiS iS iN SMALL CAPS
+
+Zubair Abid
+
+3
+
+PoPL Lecture 6
+
+2020‑08‑28
+
+∑ 𝑃 (𝑖, 𝑗)
+0<𝑖<𝑚
+0<𝑗<𝑛
+
+Zubair Abid
+
+4
+
+

@@ -11,6 +11,8 @@ layout: page
 
 [Tentative class schedule](./Meta/IR2020-Class Schedule-Ver2.pdf)
 
+[Major Project meeting discussions](projmeet)
+
 ### Grading Scheme
 
 | Component                      | Weightage |
