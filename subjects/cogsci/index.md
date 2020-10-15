@@ -24,6 +24,8 @@ Vemuri
 
 ## Upcoming Deadlines
 
+- [ ] Term Paper 1 (16th October 23:55)
+- [X] [Classwork 5](./Classwork/20171076_classwork5) (11th October 23:59)
 - [X] [Classwork 23](./Classwork/20171076_classwork23)
 - [X] Prep for quiz (26th September)
 - [X] Cogsci Report (26th September 23:55)

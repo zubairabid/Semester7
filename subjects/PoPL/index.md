@@ -24,6 +24,7 @@ layout: page
 
 ## Upcoming Deadlines
 
+- [ ] Functional Language (21st October 23:55) [hw06]
 - [X] Bisimilarity (29th September 23:55) [hw05]
 - [X] Lexical Interpreter (22nd September 23:59) [hw04]
 - [X] Arithmetic Language (8th September 23:59) [hw03]
@@ -264,3 +265,4 @@ On lexical scope and higher-order functions
 [hw03]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/blob/master/hws/hw03/index.org
 [hw04]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/blob/master/hws/hw04/index.org
 [hw05]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/blob/master/hws/hw05/index.org
+[hw06]: https://gitlab.com/popl/offerings/2020-monsoon-iiith/classroom/-/blob/master/hws/hw06/index.org

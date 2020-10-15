@@ -17,7 +17,7 @@ Links:
 
 ### General TODO
 
-- [ ] Honours work: Read the papers (23rd September)
+- [X] Honours work: Read the papers (23rd September)
 - [X] Pick cogsci project, phase 1 (26th September)
 - [X] Pick IRE Major project (13th September)
 
@@ -31,6 +31,16 @@ Links:
 
 ### Assignments
 
+- [ ] IRE Major Project Complete system (18th November 23:55)
+- [ ] Nationalism Project (15th November 23:55)
+- [ ] IRE Term Paper (10th November 23:55)
+- [ ] IRE Major Project MVP system (28th October 23:55)
+- [ ] Functional Language (21st October 23:55)
+- [ ] Nationalism assignment 3 (20th October 23:59)
+- [ ] IRE Phase 1 work (16th October 23:55)
+- [ ] Cogsci Term Paper 1 (16th October 23:55)
+- [X] IRE Assignment 3 (12th October 23:55)
+- [X] Cogsci Classwork 5 (11th October 23:59)
 - [X] Bisimilarity (29th September 23:55)
 - [X] IRE Major project document (27th September 23:55)
 - [X] Cogsci Report (26th September 23:55)
