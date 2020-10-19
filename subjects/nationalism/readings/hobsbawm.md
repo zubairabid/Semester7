@@ -168,6 +168,37 @@ Notes on select portions of [The Invention of Tradition]
 
 ## USA
 
+- Problem: How to assimilate a heterogeneous mass. How to *make* Americans
+- Immigrants encouraged to accept rituals:
+    - Revolution and its founding fathers, 4th of July
+    - Protestant Anglo-Saxon tradition, Thanksgiving Day
+- Immigrant culture absorbed:
+    - St Patrick's Day
+    - Columbus Day
+- Rituals and traditions created by the education system as political
+  socialization:
+    - Worship of the American flag
+    - Non-patriotism could be associated with non-Americanism, they might not be
+      a member of the Nation at all
+- Immigrants, especially working class, provides the internal enemy
+
+## Labour
+
+- May Day
+
+## Middle Class
+
+- Costume as demonstration of Class
+- Sports
+
+## Upper-middle Class/Elite
+
+- Daughters of American Revolution
+- Level of education as marker of class
+- Greek Letter Fraternities as marker of elite among the mass
+- Alumni Societies of Schools for the elite, and Fraternities
+- Elite among colleges: playing sports
+
 ## Summary
 
 - List:
