@@ -43,6 +43,9 @@ layout: page
 - [Lecture 4: Early Academic Theories]
 - [Lectures 5-8: Benedict Anderson]
 - [Lectures 10-11: Ernest Gellner]
+- [Lectures 12-14: Eric Hobsbawm - Invention of Tradition]
+- [Lectures 15: Nationalism in India]
+- [Lectures 16: Three Indian Theorists]
 
 ### Readings
 
