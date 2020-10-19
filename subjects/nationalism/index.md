@@ -51,6 +51,9 @@ layout: page
 - [ ] [Benedict Anderson - Imagined Communities]:
     - [ ] [notes](./readings/benedict)
 - [ ] [Bipin Chandra - India's Struggle for Independence]
+- [ ] [King - One Language Two Scripts]
+- [ ] [Carr - Nationalism and After]
+- [ ] [Hobsbawm - The Invention of Tradition]
 - [ ] [Ernest Gellner - Nations and Nationalism]
 - [ ] [Hans Kohn - Nationalism, its meaning, and history]:
     - [ ] [notes](./readings/kohn)
@@ -91,6 +94,9 @@ layout: page
 [Ernest Gellner - Nations and Nationalism]: ./readings/Ernest Gellner - Nations and Nationalism-Cornell University Press (1983).pdf
 [M. S. Gowalkar - Bunches of Thoughts]: ./readings/M.S. Golwalkar - Bunches of Thoughts-Sahitya Sindhu Prakashana (2000).epub
 [V. D. Savarkar - Who is a Hindu]: ./readings/V.D. Savarkar - Hindutva_ Who is a Hindu_-Hindi Sahitya Sadan (2003).pdf
+[King - One Language Two Scripts]: ./readings/Christopher King, One Language Two Scripts - Hindi Movt in 19C N India, 01_introduction(1).pdf
+[Carr - Nationalism and After]: ./readings/E. H. Carr, Nationalism and After, 1968.pdf
+[Hobsbawm - The Invention of Tradition]: ./readings/(Canto) Eric Hobsbawm, Terence Ranger - The Invention of Tradition -Cambridge University Press (1992).pdf
 
 [Lenin: Right to self-determination]: https://www.marxists.org/archive/lenin/works/1914/self-det/index.htm
 [Luxemborg: The National Question]: https://www.marxists.org/archive/luxemburg/1909/national-question/index.htm
