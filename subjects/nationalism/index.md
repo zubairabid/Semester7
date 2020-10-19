@@ -111,3 +111,6 @@ layout: page
 [Lecture 4: Early Academic Theories]: ./slides/Lecture 4, Early Academic Theories.pdf
 [Lectures 5-8: Benedict Anderson]: ./slides/Lectures 5-8, Benedict Anderson, Imagined Communities.pdf
 [Lectures 10-11: Ernest Gellner]: ./slides/Lectures 10-11, Ernest Gellner.pdf
+[Lectures 12-14: Eric Hobsbawm - Invention of Tradition]: ./slides/Lectures 12-14, Eric Hobsbawm - Invention of Tradition.pdf
+[Lectures 15: Nationalism in India]: ./slides/Lecture 15, Nationalism in India.pdf
+[Lectures 16: Three Indian Theorists]: ./slides/Lecture 16, Three Indian Theorists of Nationalism - Chandra, Chatterjee, Alam.pdf
