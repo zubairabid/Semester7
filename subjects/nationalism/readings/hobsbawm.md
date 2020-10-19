@@ -72,4 +72,56 @@ Notes on select portions of [The Invention of Tradition]
 
 # Mass-Producing Traditions: Europe, 1870-1914 (Chapter 7)
 
-[The Invention of Tradition]: ./(Canto) Eric Hobsbawm, Terence Ranger - The Invention of Tradition -Cambridge University Press (1992).pdf
+- Studying a 40 year period. 1870-1914, where many ITs popped up
+- This creation was both 'political' and 'social':
+    - Political ones more consciously created
+    - Not all mobilised if no public wavelength - William I not accepted as
+      Father of the Nation, but Bismark widely accepted within a year
+    - State linked Formal and Informal, Official and Unofficial, Political and
+      Social inventions of tradition
+- The convergence of Nation, State, and Society in attempts to legitimize power:
+    - Concept of National Economy defining frontiers, and having an impact on
+      citizens
+    - Standardization of Education and Administration makes people citizens
+    - Politics is nation-wide, inseparable from the State
+    - Classes self-identify with nation-wide politics, defined within national
+      boundaries: "Communist Party *of India*"
+- The change to subjects expecting direct relations to the heads of state and
+  proper representation changes the older traditions and requires the formations
+  of new ones to try and subdue the populace.
+    - From perspective of formal rulers, new state demands legitimacy in the
+      eyes of the people. No longer older social order and means of
+      subordination are applicable.
+    - Less impact and change where social structure changed the least, like
+      Italy. In nations with existing bonds, rulers reached into older
+      symbolism. Only Italy: 'We have made Italy; now we must make Italians'
+    - Even with changing the traditions, nothing is stopping the quest for power
+      among the masses, demand for suffrage.
+- **SO, the point of all this was** the progress of electoral democracy and the
+  emergence of mass politics *dominated how invented traditions in this period*.
+- Another thing: "irrational elements" are important for the maintenance of the
+  social fabric. All of the social sciences (sans economics) retreats from the
+  classical stance of assuming the rational calculation of individual members.
+- For the French, they needed "an alternative 'civic religion'". They rely not
+  only on new traditions, but also distributional voter politics.
+
+- Internationale over Marseillaise
+- Centrist Republic had three inventions:
+    - *Secular equivalent of the church* - primary education, imbued with
+      republican and revolutionary principles and content. Intentional move to
+      turn the peasants into Frenchmen and the Frenchmen into good Republicans
+
+- List:
+    - Old school ties
+    - Royal Jubilees
+    - Bastille Day
+    - Daughters of the American Revolution
+    - May Day
+    - The Internationale
+    - The Olympic games
+    - The Cup Final
+    - The Tour de France
+    - Institution of Flag worship
+
+[[The](The) Invention of Tradition]: ./(Canto) Eric Hobsbawm, Terence Ranger - The Invention of Tradition -Cambridge University Press (1992).pdf
+
