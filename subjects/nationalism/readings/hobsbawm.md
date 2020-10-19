@@ -102,14 +102,73 @@ Notes on select portions of [The Invention of Tradition]
 - Another thing: "irrational elements" are important for the maintenance of the
   social fabric. All of the social sciences (sans economics) retreats from the
   classical stance of assuming the rational calculation of individual members.
+
+## French Nationalism
+
 - For the French, they needed "an alternative 'civic religion'". They rely not
   only on new traditions, but also distributional voter politics.
-
 - Internationale over Marseillaise
 - Centrist Republic had three inventions:
     - *Secular equivalent of the church* - primary education, imbued with
       republican and revolutionary principles and content. Intentional move to
       turn the peasants into Frenchmen and the Frenchmen into good Republicans
+    - *Invention of public ceremonies* - Bastille Day, 1880. Expression of state
+      pomp and power for the citizen's pleasure.
+    - *Mass production of public monuments* - Marianne, the bearded civilian
+      notables. Of all shapes and sizes, from the local level onwards. The
+      Monuments can be regarded as visible links between voters and nation.
+    - Other notes: Stayed away from history. Few symbols:
+        - tricolour
+        - republican monogram
+        - motto
+        - Marseillaise
+        - Marianne
+    - Only 1 official day, no formal processions or marches.
+
+## German Nationalism
+
+- German invention of traditions comes from William II's era. Two purposes:
+    - Establish continuity between Second and First German Empires; establish it
+      as the realisation of the secular national aspirations of the German
+      people
+    - Stress the historical experiences linking Prussia to the rest of Germany.
+- Both required merging Prussian and German history.
+- Problem: Difficult to fit history of Holy Roman Empire of Germany into ant
+  mould. Also, nothing historically suggested it had to happen.
+- Two devices to make it possible:
+    - Concept of a secular national enemy against whom the Germans had struggled
+      to identify as a State
+    - By supremacy, the German nation scattered across Europe could claim the
+      right to be united as a State. Great German?
+- They expressed it mostly with *buildings and monuments*, three monuments taken
+  to heart:
+    - Monument to Arminius the Cheruscan
+    - Niederwald monument above the Rhine
+    - Centenary memorial of the battle of Leipzig
+    - Generally, lot of masonry and statuary.
+- So what about *national symbol*. One was Germania, no sculpture but exists in
+  postage stamps. Other: **Deutsche Michel**. Representation of the people, like
+  goateed Yankee. Essentially an anti-foreign image.
+- Bismarckian unification was the *only national historic experience shared*
+  among the citizens of the new Empire. German 'national' tradition: Bismarck,
+  William I, Sedan.
+- What makes up for this: lots of ceremonies and rituals. Ten in a space of 7
+  months, commemorating wars, official handovers, birthdays. Ceremonies in
+  schools, watched by many - anti-French rhetoric, at its heart. References to
+  'repel foreign aggression', and 'restoration of the Reich'.
+- Compared to French:
+    - Both stress on the founding acts
+    - German stresses on history. As the people before unification have no
+      relation of political unity, all the identification was complex and not
+      very precise. Multiplicity of reference from mythology to folklore,
+      stereotypes, etc. 'Germany' was defined more easily by what it was
+      against.
+- Marking out the Social Democrats, and less formally the Jews as internal
+  enemies has another advantage.
+
+## USA
+
+## Summary
 
 - List:
     - Old school ties
