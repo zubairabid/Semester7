@@ -57,6 +57,7 @@ layout: page
 - [ ] [King - One Language Two Scripts]
 - [ ] [Carr - Nationalism and After]
 - [ ] [Hobsbawm - The Invention of Tradition]
+    - [ ] [notes](./readings/hobsbawm)
 - [ ] [Ernest Gellner - Nations and Nationalism]
 - [ ] [Hans Kohn - Nationalism, its meaning, and history]:
     - [ ] [notes](./readings/kohn)
