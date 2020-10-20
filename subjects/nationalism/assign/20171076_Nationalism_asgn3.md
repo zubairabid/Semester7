@@ -17,6 +17,31 @@ traditions which have not.**
 
 *Word count:* 0
 
+# Introduction
+
+# What is Invented Tradition?
+
+# The interplay of Tradition with Customs
+
+# Invention of Tradition for Continuity
+
+# In Brief: The link between Invented Tradition and Nationalism
+
+
+# Overview of ideas
+
+- Some explanation on "Invented tradition" in itself. My definition, how it
+  is created, what "invented" changes, types of invented traditions
+- Elaborating slightly more to emphasise the point: On the interplay of
+  tradition with customs as a prelude to Invention for Continuity
+- Now, Invention for Continuity: still about Invented traditions, but is in
+  direct relation to how it links to nationalism and the nation state.
+- The central link: Hobsbawm's views on nationalism as constructed from above,
+  and how continuity enables the people to follow that line.
+- 
+
+# Outline
+
 - What invented traditions are:
     - Invented traditions are traditions that are claimed to be old, or are 
       perceived as old, but are in fact new(er than people assume them to be).
@@ -27,6 +52,14 @@ traditions which have not.**
     - It is not entirely clear how Traditions are invented, either intentional
       or organic, as it has not been studied in too much detail. 
       [@hobsbawm_invention_2012, pp. 4]
+    - Difference from old tradition: vague construction, strict adherence.
+- Three types of:
+    - Those establishing/symbolizing social cohesion or group membership in real
+      or artificial communities
+    - Those establishing/legitimizing institutions/status/relations of
+      authority
+    - Those with the purpose of socialization, and the inculcation of beliefs,
+      value systems, and conventions of behaviour
 - Quickly, traditions vs customs:
     - Customs are not tradition, although it is linked to tradition - the
       decline of a custom changes the tradition around it. How a lawyer's wig is
@@ -64,14 +97,16 @@ traditions which have not.**
       up. 
     - Sometimes, these invented traditions - even those espoused by self-defined
       'traditionalists' - have a clear break in continuity.
-- Three types of:
-    - Those establishing/symbolizing social cohesion or group membership in real
-      or artificial communities
-    - Those establishing/legitimizing institutions/status/relations of
-      authority
-    - Those with the purpose of socialization, and the inculcation of beliefs,
-      value systems, and conventions of behaviour
 
+- Nation preludes the Nation-State, invented traditions help. Other things too,
+  but not the focus
+- Lot of the construction thus is to justify consolidation of political power by
+  classing under "nations". Requires the linking of National, Political, Social.
+- Following that, Invented Traditions are used to:
+    - Gemeinschaft
+    - Making Nationalist
+
+# General Points
 
 - What are Invented tradition:
     - Commonly, claim to be old/are perceived as old but are actually new
@@ -89,13 +124,40 @@ traditions which have not.**
     - Can make their own, co-opt, or expand
 - ...
 
+- Nationalism of the few preludes the Nation-State, 'from above'. Invented
+  traditions do not guarantee, but provide some support for, convincing the view
+  from below.
 - Invented Tradition and Nationalism:
-    - Nationalism getting its history wrong
-    - Requires linking of National, Political, Social
-    - Bring aspects of Gemeinschaft to modern society
-    - European Examples:
-        - New rules have to be put for social change
-        - << Examples >>
-        - << Indian Equivalents >>
-    - Non-examples:
-        - << Examples >>
+    - Nationalism gets its history wrong to create the Nation.
+    - This requires linking of National, Political, Social. Once that is done,
+      nationalists can make use of Invented Traditions to:
+        - bring Gemeinschaft into Industrial society, normalising it for people.
+        - "make nationalists" through propaganda embedded into new institutions
+          and systems. "peasants into frenchmen"
+    - New traditions are dressed up with the garb of "ancient links".
+    - French - alternate civic religion:
+        - Secular eq of the church, education for creating masses
+        - Public-facing ceremonies, Expression of state power and pomp
+        - Public monuments mass-produced as symbols - Marianne.
+    - Imagery sans history:
+        - Tricolour
+        - Monogram
+        - Motto
+        - Marseillaise
+        - Marianne, statues
+        - Bastille Day
+    - French: non-historic imagery. Nation constructed by education and
+      utilising love for the Revolution.
+    - German: only commonality as being unified; extensive "historic" imagery.
+      Nation constructed as in opposition to an "other"
+    - USA: propaganda for americanising immigrants
+    - India:
+        - Nagari script
+        - Cultural: Chai, Paneer, Sweets
+        - Celebration of religions:
+            - Ganesh Chaturthi
+            - Durga Puja
+            - Santoshi Mata
+        - From French Marianne: Bharat Mata
+        - From French Flag: National Flag
+        - From British: National Anthem
