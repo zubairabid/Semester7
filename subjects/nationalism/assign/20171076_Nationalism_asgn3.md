@@ -15,14 +15,16 @@ traditions which have not.*
 
 <hr>
 
-*Word count:* 0
+*Word count:* 1494
 
 # Introduction
 
 This essay attempts to detail the concept of 'invented traditions', and how
 their *alterative nature* is a key feature in shaping nationalist movements as a
 way to gather mass support. It is primarily based on Hobsbawm and Ranger's 'The
-Invention of Tradition' [-@hobsbawm_invention_2012].
+Invention of Tradition' [-@hobsbawm_invention_1992]. I focus entirely on
+Politically invented traditions, as social ones come about from the existing
+community of the nation, and not the prospective one.
 
 # What is Invented Tradition?
 
@@ -64,194 +66,156 @@ Hobsbawm observes three overlapping types of invented tradition [^ho_types]:
 
 ## The interplay of Tradition with Customs
 
-- Customs aren't tradition. Here's how: not just ideological, can change for
-  bureaucratic efficiency, are not assumed invariant unlike traditions.
-- Customs used to give sanction of precedence
-- Customs come by repeated practice, and it affects tradition
+Before we proceed, customs aren't traditions. They're linked, and the
+disappearance of customs changes long-standing traditions, but it isn't an
+equivalence. This is because we define custom as any regular behaviour brought
+about by invariant regular action. Unlike tradition their reason is practical,
+not ideological. They can change to maximise bureaucratic efficiency - consider
+how the relatively conservative army will change their uniform for practical
+benefit, but the tradition-dipped hunter will not change what they wear during
+hunting season [^ho_cust]. The distinction isn't arbitrary - customs, unlike
+traditions, are not assumed invariant. So custom becomes practice, and tradition
+legacy.
+
+With that said, customs are often used to give the sanction of precedence and
+social continuity for demands of protection and defence of practices [^ho_sanc].
+A group of weavers can claim benefits to maintain their 'custom', which could be
+just the best practices that have come up amongst themselves to weave cloth, but
+backed with the authority of continuity. It is not difficult to draw a
+comparison from here to the role of Invented Tradition.
 
 # Invention of Tradition for Continuity
 
-- Kind of an extension of Tradition, but plays heavily into how it's useful for
-  nationalism, so setting this as a middle ground for both answers.
-- All invented traditions can be used to establish continuity with *some*
-  suitable historic pasts. Including those built on revolutions, or progressive
-  movements. The history does not need to be real; it's often embellished
-  [^ho_trcont]
-- This allows invented traditions claiming links to a distant, superior past to
-  be accorded the status of 'symbols of invariance' in times of drastic social
-  change [^syminvar]. "Soften the impact of novelty by dressing it up as
-  antiquity" [^cl_nov]
-- Not to be mocked, as showing ideological importance of perception
-  [@buchanan_dictionary_2018]
-- This nature means all societies use it, even modern ones. They can adopt other
-  histories, stretch them, make up their own.
-- Even with explicit gaps in the continuity, these are espoused.
+This section technically falls within the purview of describing invented
+tradition, but it is central to how invented tradition is useful for
+nationalism, so we will examine it as a transitional topic.
+
+*All* invented traditions have a history, and can be used to establish continuity
+with the past, if suitable. This history does not need to be real; in fact it
+is often embellished [^ho_trcont]. This allows agents of drastic social change
+to accord the status of 'symbols of invariance' to certain invented traditions
+of their choosing, that claim links to a distant, better past, to "soften the
+impact of novelty by dressing it up as antiquity" [^syminvar] [^cl_nov]. Using
+the apparent continuity of tradition to legitimize change in the eyes of
+masses.
+
+And all societies make use of invented traditions - even 'modern' ones. Using it
+isn't hard, per se - interested parties can simply co-opt existing traditions,
+or create new ones, or twist older ones to beyond recognition but with the same
+garb. Interestingly, even when there are explicit gaps in the continuity, the
+new tradition is espoused by all, often most vehemently by self-declared
+'traditionalists'. The mass acceptance of new tradition under the garb of nominal
+continuity is not really rational, but as rulers in the 1870s learnt,
+'irrational' elements were necessary for the maintenance of the social fabric
+[^ho_rat].
 
 # In Brief: The link between Invented Tradition and Nationalism
 
-- Hobsbawm's theory of nations aligning with Gellner - "Nationalism is a
-  political principle, which holds that the political and national unit should
-  be congruent" [@gellner_nations_1983, pp. 1]
+Hobsbawm's theory of nations aligned with that of Gellner - "Nationalism is a
+political principle, which holds that the political and national unit should
+be congruent" [@gellner_nations_1983, pp. 1]. It is this foundation that drives
+the rest of his theory.
 
-- Get people cool with the idea of a nation
-- Masses play a big part in this
-- More than IT, but focus
-- Lots of ITs for justifying consolidation of power
-- Can look at it as introducing Gemeinschaft
-- Also helps spread nationalism further
+His theory posits that national feelings develop unevenly across societal
+borders. Nationalists come first, and then the Nation, and then the masses are
+to be convinced that they are part of this Nation. So, the idea of a nation comes 
+as a 'from above' approach that 
+needs to be spread across to the sub-literary level to be effective.
+Essentially, the wants of the popular masses plays a large role - and the
+nationalists. Invented traditions come to the rescue here - as Nationalism gets
+"it's history wrong" in order to appeal to the masses and form the "history of
+the Nation" a posteriori [^moreit].
 
-# Overview of ideas
+We can look at invented tradition in the realm of Nationalism as introducing
+Gemeinschaft in an Industrial society, to normalise such among the people.
 
-- Some explanation on "Invented tradition" in itself. My definition, how it
-  is created, what "invented" changes, types of invented traditions
-- Elaborating slightly more to emphasise the point: On the interplay of
-  tradition with customs as a prelude to Invention for Continuity
-- Now, Invention for Continuity: still about Invented traditions, but is in
-  direct relation to how it links to nationalism and the nation state.
-- The central link: Hobsbawm's views on nationalism as constructed from above,
-  and how continuity enables the people to follow that line.
-- Demonstrating said link with the Invented Traditions of various nations, and
-  the circumstances they arise in:
-    - France as a model of general national symbolism, and minimization of
-      history
-    - German as a model of unification against some 'enemy'
-    - The United States as a model of expressing nationalism in a heterogeneous
-      immigrant-heavy environment
+Invented tradition was also used to further the cause of the nation and
+nationalists. We move on to some specific demonstrations across several Nations.
 
-# Outline
+# Demonstrating invented traditions of Nations
 
-- What invented traditions are:
-    - Invented traditions are traditions that are claimed to be old, or are 
-      perceived as old, but are in fact new(er than people assume them to be).
-      They have supposed links to actions of the past, even if there were none.
-    - Invented traditions are either intentionally created through political
-      directive, or originate organically over time through regular practice of
-      certain customs among people.
-    - It is not entirely clear how Traditions are invented, either intentional
-      or [organic](organic), as it has not been studied in too much detail. 
-      [@hobsbawm_invention_2012, pp. 4]
-    - Difference from old tradition: vague construction, strict adherence.
-- Three types of:
-    - Those establishing/symbolizing social cohesion or group membership in real
-      or artificial communities
-    - Those establishing/legitimizing institutions/status/relations of
-      authority
-    - Those with the purpose of socialization, and the inculcation of beliefs,
-      value systems, and conventions of behaviour
-- Quickly, traditions vs customs:
-    - Customs are not tradition, although it is linked to tradition - the
-      decline of a custom changes the tradition around it. How a lawyer's wig is
-      not a matter of 'tradition' until it is no longer customary to wear a wig.
-    - Customs come by repeated practice. The reason for their existence is often
-      practical and not ideological, existing for bureaucratic efficiency, which
-      can be changed as practically seen fit. In Marxist terms, they belong to
-      the "base" and not the "superstructure" [@hobsbawm_invention_2012, pp. 3]
-    - "Customs" are used often to give the sanction of precedence and social
-      continuity to demands for protection and defence of practices 
-      [@hobsbawm_invention_2012, pp. 2]. This plays into a key feature of
-      Invented Traditions.
-- The value of Invented Tradition in Continuity
-    - A key feature is that Invented traditions are often used to establish
-      continuity with some *suitable* historic past. Even for invented 
-      traditions
-      built on revolutions/progressive movements, there is some historic past 
-      that is (has to be) constructed for acceptance (elaborated later). This 
-      historic past does not need to be real, and is almost always embellished. 
-      [@hobsbawm_invention_2012, pp. 7]. This is something we will see often
-      with its usage in nations.
-    - This allows invented traditions to be held as symbols of "invariance" in 
-      times of rapid change in social patterns - establishing "time immemorial
-      customs" that can, as we saw earlier, give the sanction of precedence and 
-      legitimize change in the eyes of masses. Nominal continuities that have a
-      major impact.
-    - "Hobsbawm's point, however, is not to mock such fictions, but to highlight 
-      the ideological importance of at least the perception of continuity with 
-      the past." [@buchanan_dictionary_2018]
-    - The use of Invented Traditions for such reasons is not limited to
-      "traditional" societies alone, but also extends to "modern ones".
-      Traditions are also given up, not due to need, but by intention.
-    - How traditions can be invented - parties can make their own ones, co-opt
-      existing traditions in a new light, or rework older traditions outside the
-      boundary of their original imagination. They can even be completely made
-      up. 
-    - Sometimes, these invented traditions - even those espoused by self-defined
-      'traditionalists' - have a clear break in continuity.
+To properly demonstrate invented traditions for purposes of Nationalism, 
+we will be looking at invented traditions in three countries, paying attention
+to different elements in each as the "challenges" the tradition had to overcome
+differed by nation. We will also bring in some Indian examples at times.
 
-- Hobsbawm's theory of the nation aligns with Gellner's.
-- The Nation preludes the Nation-State. 
-- Small group of pioneers, intellectuals are politically motivated about the
-  existence of a state, for whatever reason. Nation has been constructed from
-  above.
-- Need to get the masses in the picture too. The new state needs to justify its
-  legitimacy as a ruler (especially when no suffrage). National identification
-  of the people of the state as "of the nation" can't be forced from above with
-  ideological arguments, do not assume the rational calculation of Individual
-  members. Invented traditions can fake a past. Give abstract markers to shout
-  for without any clear definition on what they are.
-- Invented traditions aren't all, but focusing on only that. Also they don't
-  guarantee success for the inventor, but the nation lived on.
-- Lot of the construction thus is to justify consolidation of political power by
-  classing under "nations". Requires the linking of National, Political, Social.
-- Essentially, introducing Gemeinschaft into the Industrial society, status into
-  a world of contract, normalising the change for people.
-- Also used for spreading nationalism, of course.
-- 
+## The French: Nationalism with minimal history with symbolism
 
-# General Points
+The French are rather notable, in that their Invented tradition involves little
+history [^frhist], and so the symbols utilised by them lend themselves to a more
+general meaning for piracy. They introduced three major inventions of tradition:
 
-- What are Invented tradition:
-    - Commonly, claim to be old/are perceived as old but are actually new
-    - Can be invented, either intentionally or organically
-    - Symbolic use as traditions once no longer practical
-- Tradition vs Custom:
-    - Traditions come from custom
-    - Tradition seems invariant, but depends on custom. Which is variant
-    - Consider the customs of a conservative regimented army vs traditions of
-      big game hunters
-- Invented tradition for Continuity - intro to nationalist uses:
-    - All the time, there is a past for continuity. It is factitious
-    - Invention as a thing accompanying any change in society. Tradition used 
-      for invariance
-    - Can make their own, co-opt, or expand
-- ...
+1. *Primary Education* as a secular substitute for the Church. The primary
+   education provided by the State was also ripe in revolutionary and republican
+   principles and content, so not only would the peasants become Frenchmen, but
+   good Republicans too.
+2. *Public Ceremonies* for an expression of state pomp and power for the
+   citizen's pleasure. [^gerfr]
+3. *Monuments* of some representation of France - be it Marianne, or whatever
+   local bearded hero a district chose, constructed in all scales across the
+   country.
 
-- Nationalism of the few preludes the Nation-State, 'from above'. Invented
-  traditions do not guarantee, but provide some support for, convincing the view
-  from below.
-- Invented Tradition and Nationalism:
-    - Nationalism gets its history wrong to create the Nation.
-    - This requires linking of National, Political, Social. Once that is done,
-      nationalists can make use of Invented Traditions to:
-        - bring Gemeinschaft into Industrial society, normalising it for people.
-        - "make nationalists" through propaganda embedded into new institutions
-          and systems. "peasants into frenchmen"
-    - New traditions are dressed up with the garb of "ancient links".
-    - French - alternate civic religion:
-        - Secular eq of the church, education for creating masses
-        - Public-facing ceremonies, Expression of state power and pomp
-        - Public monuments mass-produced as symbols - Marianne.
-    - Imagery sans history:
-        - Tricolour
-        - Monogram
-        - Motto
-        - Marseillaise
-        - Marianne, statues
-        - Bastille Day
-    - French: non-historic imagery. Nation constructed by education and
-      utilising love for the Revolution.
-    - German: only commonality as being unified; extensive "historic" imagery.
-      Nation constructed as in opposition to an "other"
-    - USA: propaganda for americanising immigrants
-    - India:
-        - Nagari script
-        - Cultural: Chai, Paneer, Sweets
-        - Celebration of religions:
-            - Ganesh Chaturthi
-            - Durga Puja
-            - Santoshi Mata
-        - From French Marianne: Bharat Mata
-        - From French Flag: National Flag
-        - From British: National Anthem
+Apart from these they provide a lot of the general imagery we associate with
+Nations today - a tricolour flag (inspiring most countries' flags, and raised in
+Calcutta in the 1800s), a motto, a symbol in the form of
+personification (think Bharat Mata) [^frmore].
+
+## [The](The) Germans: Aggrandizing history
+
+German tried to establish continuity from the First Reich to the Second, and
+stress on how Prussia was historically linked to Germany. But fitting the
+history would not work, German Roman-Catholic history didn't go in any mould.
+So, two "traditions" were created:
+
+1. Germany had emerged struggling against a secular enemy
+2. The German nation scattered around Europe could claim the right to be
+   united as a State.
+      
+The synthesis meant that there was always an enemy for the Germans, and this
+was reflected throughout the imagery. Consider the symbol of the country: 
+*Deutsche Michel*. Meant to show the
+simplicity of the German people that was exploited by the foreigners. 
+
+Apart from
+Bismarckian unification, most Germans did not share any common identity, so
+compared to France, the definition of the German Nation was far more
+complicated, and much less precise. 
+ Germany the nation was better defined in
+terms of what it was against - including, often, internal enemies.
+
+## The United States: Identity in the face of mass immigration
+
+The United States were faced with a unique problem: assimilating a heterogeneous
+mass of immigrants, how would they *make* Americans those who were outsiders?
+
+It lead to what we see today as a mass of traditions, all considered "American".
+Immigrants were encouraged to accept "American" rituals, like the Revolution and
+it's founding fathers and the 4th of July, along with Protestant Anglo-Saxon
+Traditions like Thanksgiving Day. Likewise, Immigrant culture was absorbed -
+St. Patrick's Day, Columbus Day.
+Other rituals grew, again, around the education system for political
+socialization. The Worship of the American flag, for instance. [^usen]
+
+# Invented Traditions that did not come under a Nationalist Banner
+
+I will simply list them, as there is not much to say.
+
+## Traditions that have failed
+
+- Defining King William I as the "father of Germany"
+
+## Traditions that aren't Nationalist
+
+- May Day
+- Daughters of American Revolution
+- Level of education as marker of class
+- Greek Letter Fraternities as marker of elite among the mass
+- Alumni Societies of Schools for the elite, and Fraternities
+- Elite among colleges: playing sports
+
+# References
+
+
 
 [^trad]: As for what is tradition? That is outside the scope of this essay,
 although we can refer to @shils_tradition_1981 [pp. 12-13] for a brief summary.
@@ -260,15 +224,15 @@ about all sorts of things ...". The idea is that tradition allows people a
 connection to the past so to speak, thus giving them a view of what the past
 would have been like as described by said tradition.
 
-[^ho_tradintconf]: See @hobsbawm_invention_2012 [pp. 4]
+[^ho_tradintconf]: See @hobsbawm_invention_1992 [pp. 4]
 
 [^customdisc]: Customs are not the same as tradition. We elaborate on this soon.
 
-[^ho_invdiff]: See @hobsbawm_invention_2012 [pp. 10-11]
+[^ho_invdiff]: See @hobsbawm_invention_1992 [pp. 10-11]
 
-[^ho_types]: See @hobsbawm_invention_2012 [pp. 9]
+[^ho_types]: See @hobsbawm_invention_1992 [pp. 9]
 
-[^ho_trcont]: @hobsbawm_invention_2012 [pp. 7] mentions a few examples of
+[^ho_trcont]: @hobsbawm_invention_1992 [pp. 7] mentions a few examples of
 embellished or straight-up falsified "histories" used to further national
 interests, such as the Czech medieval manuscripts
 
@@ -276,8 +240,33 @@ interests, such as the Czech medieval manuscripts
 views of the past. It is taken as justification for
 future actions. An invented tradition then, posits a synthetic reality of the
 past. This link to the past gives an action the sanction of precedence and
-legitimizes its acceptance. It allows revolutionaries to claim their desired
+legitimizes its acceptance. It allows revolutionaries to claim that their desired
 future was the default since time immemorial, usurped only in recent memory by
 the vile parasites currently in control - earning sympathy, and often support.
 
 [^cl_nov]: As discussed in class
+
+[^ho_rat]: See @hobsbawm_invention_1992 [pp. 268-269]
+
+[^ho_cust]: See @hobsbawm_invention_1992 [pp. 3]
+
+[^ho_sanc]: See @hobsbawm_invention_1992 [pp. 2]
+
+[^frhist]: There are several political reasons for this, including the centrist
+rule and appeasement of certain political classes. See @hobsbawm_invention_1992
+[pp. 269-271]
+
+[^moreit]: It is more than just invented traditions enabling the functioning of
+a Nation smoothly. There are extensive politics involved, and you can check
+@hobsbawm_invention_1992 [pp. 269] as it is outside this scope
+
+[^gerfr]: Where the French only had one event, however, the Germans had as
+many as ten in the gap of seven months in a single year
+[@hobsbawm_invention_1992, pp. 277]
+
+[^frmore]: There's other symbols/traditions too, like
+*Le Marseillaise* (although the concept of the National Anthem was first covered
+by Britain), the Republican Monogram.
+
+[^usen]: Like with Germany, there was an internal enemy here too - Immigrants, 
+especially working class.
