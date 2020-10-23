@@ -21,7 +21,7 @@ layout: page
 
 ## Upcoming Deadlines
 
-- [ ] Nationalism Project (15th November 23:55)
+- [ ] [Nationalism Project](./proj/index) (15th November 23:55)
 - [ ] [Nationalism assignment 3](./assign/3) (20th October 23:59)
 - [X] [Nationalism assignment 2](./assign/2) (18th September 23:59)
 - [X] Readings: Marxist theories of State (26th August)
@@ -51,13 +51,13 @@ layout: page
 
 #### Books
 
-- [ ] [Benedict Anderson - Imagined Communities]:
-    - [ ] [notes](./readings/benedict)
+- [X] [Benedict Anderson - Imagined Communities]:
+    - [X] [notes](./readings/benedict)
 - [ ] [Bipin Chandra - India's Struggle for Independence]
 - [ ] [King - One Language Two Scripts]
 - [ ] [Carr - Nationalism and After]
-- [ ] [Hobsbawm - The Invention of Tradition]
-    - [ ] [notes](./readings/hobsbawm)
+- [X] [Hobsbawm - The Invention of Tradition]
+    - [X] [notes](./readings/hobsbawm)
 - [ ] [Ernest Gellner - Nations and Nationalism]
 - [ ] [Hans Kohn - Nationalism, its meaning, and history]:
     - [ ] [notes](./readings/kohn)
