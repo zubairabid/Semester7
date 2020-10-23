@@ -22,7 +22,7 @@ layout: page
 ## Upcoming Deadlines
 
 - [ ] [Nationalism Project](./proj/index) (15th November 23:55)
-- [ ] [Nationalism assignment 3](./assign/3) (20th October 23:59)
+- [X] [Nationalism assignment 3](./assign/3) (20th October 23:59)
 - [X] [Nationalism assignment 2](./assign/2) (18th September 23:59)
 - [X] Readings: Marxist theories of State (26th August)
 - [X] Readings: Hans Kohn (31st August)
@@ -59,6 +59,7 @@ layout: page
 - [X] [Hobsbawm - The Invention of Tradition]
     - [X] [notes](./readings/hobsbawm)
 - [ ] [Ernest Gellner - Nations and Nationalism]
+    - [ ] [notes](./readings/gellner)
 - [ ] [Hans Kohn - Nationalism, its meaning, and history]:
     - [ ] [notes](./readings/kohn)
 - [ ] [M. S. Gowalkar - Bunches of Thoughts]
