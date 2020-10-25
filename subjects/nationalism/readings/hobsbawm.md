@@ -213,5 +213,5 @@ Notes on select portions of [The Invention of Tradition]
     - The Tour de France
     - Institution of Flag worship
 
-[[The](The) Invention of Tradition]: ./(Canto) Eric Hobsbawm, Terence Ranger - The Invention of Tradition -Cambridge University Press (1992).pdf
+[The Invention of Tradition]: ./(Canto) Eric Hobsbawm, Terence Ranger - The Invention of Tradition -Cambridge University Press (1992).pdf
 
