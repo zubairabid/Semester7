@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-10-05-09-38
+user_agent: mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/85.0.4183.121 safari/537.36
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-10-05-09-39
+T: 34579
+t: textline
+a: Souvik Banerjee
+l: rollno
+stime: 2020-10-05-09-39
+T: 6401
+t: textline
+a: 20171094
+l: age
+stime: 2020-10-05-09-39
+T: 3572
+t: textline
+a: 22
+l: lefrig
+stime: 2020-10-05-09-39
+T: 4984
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-10-05-09-48
+T: 522482
+t: experiment
+endcode: 
+end 2020-10-05-09-48
