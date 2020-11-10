@@ -303,62 +303,83 @@
   (or/c number? boolean? proc?))
 ;; END STUFF
 
+;; BEGIN INTERPRETER
+(define (envfromfbind fbinds env)
+  (if (= (length fbinds) 1)
+      (extended-rec-env
+        (list (fbind-id (first fbinds)))  ;; fsyms
+        (list (fbind-formals (first fbinds)))  ;; lformals
+        (list (fbind-body (first fbinds)))  ;; bodies
+        env)
+      (extended-rec-env
+        (list (fbind-id (first fbinds)))  ;; fsyms
+        (list (fbind-formals (first fbinds)))  ;; lformals
+        (list (fbind-body (first fbinds)))  ;; bodies
+        (envfromfbind (rest fbinds) env))))
+(define (envfrombind binds env)
+  (if (= (length binds) 1)
+      (extended-env
+        (list (bind-id (first binds)))
+        (list (eval-ast (bind-ast (first binds)) env))
+        env)
+      (extended-env
+        (list (bind-id (first binds)))
+        (list (eval-ast (bind-ast (first binds)) env))
+        (envfrombind (rest binds) env))))
+(define (numred args env)
+  (if (null? args)
+      '()
+      (cons (eval-ast (first args) env) (numred (rest args) env))))
 
+(define eval-ast
+  (lambda (a e)
+    (cases ast a
+           [num (n) n]
+           [bool (b) b]
+           [id-ref (sym) (lookup-env e sym)]
+           [function (formals body) 
+                     (closure
+                       formals
+                       body
+                       e)]
+           [app (func args) ;; When tasked with applying a function, we need
+                ;; to check if rator is prim or closure. If it is a prim, we
+                ;; need to execute that. rands is the list of arguments. If 
+                ;; it is 2 long, or 1 long, we act accordingly
+                (let [(finfunc (eval-ast func e))]
+                    (cases proc finfunc
+                           [prim-proc (prim sig) 
+                                      (if (= (length args) 1)
+                                          (prim (eval-ast (first args) e))
+                                          (prim 
+                                            (eval-ast (first args) e)
+                                            (eval-ast (second args) e)))]
+                ;; The closures, on the other hand:
+                ;; The closure has formals, body, env.
+                ;; The arguments passed to the formals will become the new
+                ;;   environment, appending the old one on top. This is then
+                ;;   passed to the eval-ast again, with the body for execution
+                           [closure (formals body env) 
+                                    (let [(newenv 
+                                            (extended-env
+                                              formals
+                                              (numred args e)
+                                              e))]
+                                      (eval-ast body newenv))]))] ;; filler)
+           ;; As for recursive:
+           ;; Each fbind is converted into an extended-rec-env.
+           ;; Should be a simple function call after. The work will go into
+           ;; the making each fbind an extended-rec-env.
+           [recursive (fbinds body)
+                      (let ([newenv
+                              (envfromfbind fbinds e)])
+                            (eval-ast body newenv))]
+           [ifte (c th el)
+                 (if (eval-ast c e)
+                     (eval-ast th e)
+                     (eval-ast el e))]
+           [assume (binds expr)
+                   (eval-ast expr (envfrombind binds e))]
+           [else 5])))
+;; END INTERPRETER
 
-;; (define eval-ast
-;;   (lambda (a e)
-;;     (define (envfrombind binds)
-;;       (if (= (length binds) 1)
-;;           (extended-env
-;;             (list (bind-id (first binds)))
-;;             (list (eval-ast (bind-ast (first binds)) e))
-;;             e)
-;;           (extended-env
-;;             (list (bind-id (first binds)))
-;;             (list (eval-ast (bind-ast (first binds)) e))
-;;             (envfrombind (rest binds)))))
-;;     (define (numred args)
-;;       (if (null? args)
-;;           '()
-;;           (cons (eval-ast (first args) e) (numred (rest args)))))
-;;     (cases ast a
-;;            [num (n) n]
-;;            [bool (b) b]
-;;            [id-ref (sym) (lookup-env e sym)]
-;;            [function (formals body) 
-;;                      (closure
-;;                        formals
-;;                        body
-;;                        e)]
-;;            [app (func args) ;; When tasked with applying a function, we need
-;;                 ;; to check if rator is prim or closure. If it is a prim, we
-;;                 ;; need to execute that. rands is the list of arguments. If it
-;;                 ;; is 2 long, or 1 long, we act accordingly
-;;                 (let [(finfunc (eval-ast func e))]
-;;                     (cases proc finfunc
-;;                            [prim-proc (prim sig) 
-;;                                       (if (= (length args) 1)
-;;                                           (prim (eval-ast (first args) e))
-;;                                           (prim 
-;;                                             (eval-ast (first args) e)
-;;                                             (eval-ast (second args) e)))]
-;;                 ;; The closures, on the other hand:
-;;                 ;; The closure has formals, body, env.
-;;                 ;; The arguments passed to the formals will become the new
-;;                 ;;   environment, appending the old one on top. This is then
-;;                 ;;   passed to the eval-ast again, with the body for execution
-;;                            [closure (formals body env) 
-;;                                     (let [(newenv 
-;;                                             (extended-env
-;;                                               formals
-;;                                               (numred args)
-;;                                               e))]
-;;                                       (eval-ast body newenv))]))] ;; filler)
-;;            [ifte (c th el)
-;;                  (if (boolean? (eval-ast c e))
-;;                      (eval-ast th e)
-;;                      (eval-ast el e))]
-;;            [assume (binds expr)
-;;                    (eval-ast expr (envfrombind binds))]
-;;            [else 5])))
-;; 

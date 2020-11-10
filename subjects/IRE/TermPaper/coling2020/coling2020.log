@@ -1,0 +1,165 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.10.13)  10 NOV 2020 20:26
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**coling2020.tex
+(./coling2020.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (./coling2020.sty
+Conference Style for COLING 2020 -- prepared 29 Sep. 2019
+\titlebox=\skip49
+) (/usr/share/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/share/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count175
+\l__pdf_internal_box=\box45
+) (./coling2020.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 52.
+ (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 53.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 53.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 53.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 53.
+ (/usr/share/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 53.
+ (/usr/share/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 160.
+ (/usr/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 210.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 210.
+
+Underfull \hbox (badness 5954) in paragraph at lines 219--224
+[]\OT1/ptm/m/n/10.95 Authors from coun-tries in which ac-cess to word-processing sys-tems is lim-ited should
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--224
+\OT1/ptm/m/n/10.95 con-tact the pub-li-ca-tion co-chairs Derek F. Wong (\OT1/pcr/m/n/10.95 derekfw@umac.mo\OT1/ptm/m/n/10.95 ), Yang Zhao
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--224
+\OT1/ptm/m/n/10.95 (\OT1/pcr/m/n/10.95 yang.zhao@nlpr.ia.ac.cn\OT1/ptm/m/n/10.95 ) and Liang Huang (\OT1/pcr/m/n/10.95 liang.huang.sh@gmail.com\OT1/ptm/m/n/10.95 ) as
+ []
+
+[2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 225.
+ [3] [4]
+
+LaTeX Warning: Citation `Gusfield:97' on page 5 undefined on input line 416.
+
+
+LaTeX Warning: Citation `Gusfield:97' on page 5 undefined on input line 417.
+
+
+LaTeX Warning: Citation `Aho:72' on page 5 undefined on input line 419.
+
+
+LaTeX Warning: Citation `Chandra:81' on page 5 undefined on input line 419.
+
+
+LaTeX Warning: Citation `Gusfield:97' on page 5 undefined on input line 421.
+
+
+LaTeX Warning: Citation `Aho:72' on page 5 undefined on input line 421.
+
+
+LaTeX Warning: Citation `Gusfield:97' on page 5 undefined on input line 424.
+
+
+LaTeX Warning: Citation `Gusfield:97' on page 5 undefined on input line 428.
+
+
+LaTeX Warning: Citation `Gusfield:97' on page 5 undefined on input line 438.
+
+
+LaTeX Warning: Citation `Gusfield:97' on page 5 undefined on input line 442.
+
+
+LaTeX Warning: Citation `APA:83' on page 5 undefined on input line 466.
+
+
+LaTeX Warning: Citation `ACM:83' on page 5 undefined on input line 469.
+
+
+LaTeX Warning: Citation `rasooli-tetrault-2015' on page 5 undefined on input line 476.
+
+
+LaTeX Warning: Citation `Aho:72' on page 5 undefined on input line 477.
+
+
+LaTeX Warning: Citation `borsch2011' on page 5 undefined on input line 478.
+
+[5] [6] (./coling2020.bbl) [7] (./coling2020.aux) ) 
+Here is how much of TeX's memory you used:
+ 691 strings out of 480478
+ 10442 string characters out of 5905958
+ 246454 words of memory out of 5000000
+ 16737 multiletter control sequences out of 15000+600000
+ 555976 words of font info for 73 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,8n,22p,200b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on coling2020.pdf (7 pages, 79795 bytes).
+PDF statistics:
+ 45 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
