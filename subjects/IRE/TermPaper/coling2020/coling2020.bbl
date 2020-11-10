@@ -1,11 +1,42 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citename{Brown \bgroup et al.\egroup
+  }2020]{brown_language_2020}
+Tom~B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan,
+  Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda
+  Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan,
+  Rewon Child, Aditya Ramesh, Daniel~M. Ziegler, Jeffrey Wu, Clemens Winter,
+  Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray,
+  Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford,
+  Ilya Sutskever, and Dario Amodei.
+\newblock 2020.
+\newblock Language {Models} are {Few}-{Shot} {Learners}.
+\newblock {\em arXiv:2005.14165 [cs]}, July.
+\newblock arXiv: 2005.14165.
+
 \bibitem[\protect\citename{Canales}2020]{canales_for_2020}
 Katie Canales.
 \newblock 2020.
 \newblock For years, an {American} has been writing articles in a stereotypical
   {Scottish} accent on the official {Scots} {Wikipedia}, and some people online
   are not happy.
+
+\bibitem[\protect\citename{Cummins}1981]{cummins_bilingualism_1981}
+Jim Cummins.
+\newblock 1981.
+\newblock {\em Bilingualism and {Minority}-{Language} {Children}. {Language}
+  and {Literacy} {Series}}.
+\newblock The Ontario Institute for Studies in Education, 252 Bloor Street
+  West, Toronto, Ontario M5S 1V6 (\$3.
+
+\bibitem[\protect\citename{Devlin \bgroup et al.\egroup
+  }2019]{devlin_bert_2019}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova.
+\newblock 2019.
+\newblock {BERT}: {Pre}-training of {Deep} {Bidirectional} {Transformers} for
+  {Language} {Understanding}.
+\newblock {\em arXiv:1810.04805 [cs]}, May.
+\newblock arXiv: 1810.04805.
 
 \bibitem[\protect\citename{Ethnologue}2019a]{ethnologue_english_2019}
 Ethnologue.
@@ -16,5 +47,51 @@ Ethnologue.
 Ethnologue.
 \newblock 2019b.
 \newblock What are the top 200 most spoken languages?
+
+\bibitem[\protect\citename{Geser and Mulrenin}2002]{geser_digicult_2002}
+Guntram Geser and Andrea Mulrenin.
+\newblock 2002.
+\newblock {\em The {DigiCULT} report: technological landscapes for tomorrow's
+  cultural economy: unlocking the value of cultural heritage: executive
+  summary: {January} 2002}.
+\newblock Office for official publications of the European Communities.
+
+\bibitem[\protect\citename{Hakuta and Snow}1986]{hakuta_compendium_1986}
+K~Hakuta and C~Snow.
+\newblock 1986.
+\newblock {\em Compendium of {Papers} on the {Topic} of {Bilingual} {Education}
+  of the {Committee} on {Education} and {Labor}, {House} of {Representatives},
+  99th {Congress}, 2nd {Session}}.
+\newblock U.S. Government Printing Office.
+\newblock Google-Books-ID: yboZAAAAMAAJ.
+
+\bibitem[\protect\citename{Hudelson}1987]{hudelson_role_1987}
+Sarah Hudelson.
+\newblock 1987.
+\newblock The {Role} of {Native} {Language} {Literacy} in the {Education} of
+  {Language} {Minority} {Children}.
+\newblock {\em Language Arts}, 64(8):827--841.
+\newblock Publisher: National Council of Teachers of English.
+
+\bibitem[\protect\citename{Initiative~(WAI)}]{initiative_wai_w3c_nodate}
+W3C Web~Accessibility Initiative~(WAI).
+\newblock {W3C} {Accessibility} {Standards} {Overview}.
+
+\bibitem[\protect\citename{noa}2016]{noauthor_internet_2016}
+2016.
+\newblock Internet access, local content must for {Digital} {India} success:
+  {IAMAI} - {The} {Economic} {Times}.
+
+\bibitem[\protect\citename{noa}2020]{noauthor_knowledge_2020}
+2020.
+\newblock Knowledge and {Language}.
+
+\bibitem[\protect\citename{Radford \bgroup et al.\egroup
+  }2019]{radford_language_2019}
+Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, and Ilya
+  Sutskever.
+\newblock 2019.
+\newblock Language {Models} are {Unsupervised} {Multitask} {Learners}.
+\newblock page~24.
 
 \end{thebibliography}

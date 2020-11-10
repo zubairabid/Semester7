@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex coling2020"] 1605019275 "coling2020.aux" "coling2020.bbl" "coling2020" 1605020206
+["bibtex coling2020"] 1605024140 "coling2020.aux" "coling2020.bbl" "coling2020" 1605024140
   "./coling.bst" 1582529760 25098 c6a3d2887fd8745756d355478c5a86c9 ""
-  "coling2020.aux" 1605020206 841 8cb20ba42f5330d9c952a4748ce7f4bf "pdflatex"
-  "ireterm.bib" 1605018813 6115 3e2cc57f9b509e9e1dc83a15a533833e ""
+  "coling2020.aux" 1605024140 1840 64c632a7f5e961a36b43de7e3e493819 "pdflatex"
+  "ireterm.bib" 1605022623 13011 eba567131ce934a9670a7d526989adb2 ""
   (generated)
   "coling2020.bbl"
   "coling2020.blg"
-["pdflatex"] 1605020205 "coling2020.tex" "coling2020.pdf" "coling2020" 1605020206
+["pdflatex"] 1605024140 "coling2020.tex" "coling2020.pdf" "coling2020" 1605024140
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1591545468 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1591545468 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1591545468 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -59,11 +59,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1591545468 33301 a3134070eacafb10b1f371612ce2650d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1602585045 4855604 a2b69e422d881628e3d9a5db2035053f ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1602585023 2514048 cae91caf8384c5552fe29897f19256ca ""
-  "coling2020.aux" 1605020206 841 8cb20ba42f5330d9c952a4748ce7f4bf "pdflatex"
-  "coling2020.bbl" 1605019275 587 02b343b56128271d1ca6e88ee3573e8f "bibtex coling2020"
+  "coling2020.aux" 1605024133 1932 b5895784f80441373b105b59b2ccf62e "pdflatex"
+  "coling2020.bbl" 1605024134 3801 ea73ef2d96f1b83983f7402acd635378 "bibtex coling2020"
   "coling2020.sty" 1582529760 15153 bcfc1876efe37df37f636f688019b18f ""
-  "coling2020.tex" 1605020205 27248 78c4ae5b3d2b1923261190c400b76777 ""
+  "coling2020.tex" 1605024138 33448 713769f44e43355aa0437303d6af9094 ""
   (generated)
-  "coling2020.log"
   "coling2020.pdf"
   "coling2020.aux"
+  "coling2020.log"
