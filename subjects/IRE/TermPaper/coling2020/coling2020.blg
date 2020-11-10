@@ -3,13 +3,6 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: coling2020.aux
 The style file: coling.bst
 Database file #1: ireterm.bib
-Warning--I didn't find a database entry for "Gusfield:97"
-Warning--I didn't find a database entry for "Aho:72"
-Warning--I didn't find a database entry for "Chandra:81"
-Warning--I didn't find a database entry for "APA:83"
-Warning--I didn't find a database entry for "ACM:83"
-Warning--I didn't find a database entry for "rasooli-tetrault-2015"
-Warning--I didn't find a database entry for "borsch2011"
 Warning--to sort, need author or key in noauthor_internet_2016
 Warning--to sort, need author or key in noauthor_knowledge_2020
 `year' is a missing field, not a string, for entry initiative_wai_w3c_nodate
@@ -17,7 +10,7 @@ while executing---line 1313 of file coling.bst
 Warning--empty journal in radford_language_2019
 You've used 13 entries,
             2490 wiz_defined-function locations,
-            624 strings with 7368 characters,
+            612 strings with 7259 characters,
 and the built_in function-call counts, 4907 in all, are:
 = -- 462
 > -- 284
