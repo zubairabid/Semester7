@@ -1,0 +1,29 @@
+version: 3.2.0
+server-time: 2020-11-11-18-46
+user_agent: mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/80.0.3987.132 safari/537.36
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-11-11-18-46
+T: 15307
+t: textline
+a: Richa Rathore
+l: rollno
+stime: 2020-11-11-18-47
+T: 8499
+t: textline
+a: 2019201031
+l: age
+stime: 2020-11-11-18-47
+T: 5791
+t: textline
+a: 24
+l: lefrig
+stime: 2020-11-11-18-47
+T: 2696
+t: radio
+a: 2

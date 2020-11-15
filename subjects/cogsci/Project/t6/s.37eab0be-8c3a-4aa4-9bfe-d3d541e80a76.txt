@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-10-29-18-57
+user_agent: mozilla/5.0 (windows nt 10.0; win64; x64; rv:81.0) gecko/20100101 firefox/81.0
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-10-29-18-57
+T: 11635
+t: textline
+a: Aman Dev Nautiyal
+l: rollno
+stime: 2020-10-29-18-57
+T: 13957
+t: textline
+a: 2019201095
+l: age
+stime: 2020-10-29-18-58
+T: 4448
+t: textline
+a: 24
+l: lefrig
+stime: 2020-10-29-18-58
+T: 5778
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-10-29-19-06
+T: 504442
+t: experiment
+endcode: 
+end 2020-10-29-19-06

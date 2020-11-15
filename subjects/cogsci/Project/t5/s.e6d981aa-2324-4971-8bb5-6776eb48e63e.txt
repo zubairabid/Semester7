@@ -1,0 +1,40 @@
+version: 3.2.0
+server-time: 2020-10-04-20-44
+user_agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/85.0.4183.121 safari/537.36
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-10-04-20-45
+T: 88028
+t: textline
+a: Debojit Das
+l: rollno
+stime: 2020-10-04-20-45
+T: 4587
+t: textline
+a: 20171129
+l: age
+stime: 2020-10-04-20-45
+T: 2369
+t: textline
+a: 22
+l: lefrig
+stime: 2020-10-04-20-45
+T: 4833
+t: radio
+a: 2
+l: lefrig
+stime: 2020-10-04-20-48
+T: 2680
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-10-04-20-55
+T: 405595
+t: experiment
+endcode: 
+end 2020-10-04-20-55

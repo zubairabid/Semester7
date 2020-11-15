@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-10-05-09-10
+user_agent: mozilla/5.0 (x11; linux x86_64; rv:81.0) gecko/20100101 firefox/81.0
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-10-05-09-10
+T: 4387
+t: textline
+a: Zubair Abid
+l: rollno
+stime: 2020-10-05-09-10
+T: 2722
+t: textline
+a: 20171076
+l: age
+stime: 2020-10-05-09-10
+T: 1821
+t: textline
+a: 21
+l: lefrig
+stime: 2020-10-05-09-10
+T: 2391
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-10-05-09-16
+T: 318670
+t: experiment
+endcode: 
+end 2020-10-05-09-16

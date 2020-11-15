@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-10-05-10-15
+user_agent: mozilla/5.0 (x11; linux x86_64; rv:78.0) gecko/20100101 firefox/78.0
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-10-05-10-16
+T: 15877
+t: textline
+a: Sravani
+l: rollno
+stime: 2020-10-05-10-16
+T: 6859
+t: textline
+a: 20171050
+l: age
+stime: 2020-10-05-10-16
+T: 3060
+t: textline
+a: 21
+l: lefrig
+stime: 2020-10-05-10-16
+T: 4041
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-10-05-10-24
+T: 460426
+t: experiment
+endcode: 
+end 2020-10-05-10-24

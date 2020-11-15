@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-10-07-14-52
+user_agent: mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/85.0.4183.121 safari/537.36
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-10-07-14-52
+T: 7444
+t: textline
+a: P Sanjay
+l: rollno
+stime: 2020-10-07-14-52
+T: 6005
+t: textline
+a: 2019201077
+l: age
+stime: 2020-10-07-14-52
+T: 3590
+t: textline
+a: 24
+l: lefrig
+stime: 2020-10-07-14-53
+T: 4673
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-10-07-15-04
+T: 659997
+t: experiment
+endcode: 
+end 2020-10-07-15-04

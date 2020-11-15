@@ -1,0 +1,34 @@
+version: 3.2.0
+server-time: 2020-10-05-14-39
+user_agent: mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/76.0.3809.100 safari/537.36
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-10-05-14-40
+T: 67551
+t: textline
+a: rohith
+l: name
+stime: 2020-10-05-14-40
+T: 9038
+t: textline
+a: sai rohith areti
+l: rollno
+stime: 2020-10-05-14-40
+T: 6883
+t: textline
+a: 2019201072
+l: age
+stime: 2020-10-05-14-40
+T: 7901
+t: textline
+a: 22
+l: lefrig
+stime: 2020-10-05-14-41
+T: 4761
+t: radio
+a: 2

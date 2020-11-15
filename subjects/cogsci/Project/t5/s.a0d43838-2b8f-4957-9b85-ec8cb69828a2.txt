@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-11-10-20-23
+user_agent: mozilla/5.0 (macintosh; intel mac os x 10_15_6) applewebkit/605.1.15 (khtml, like gecko) version/13.1.2 safari/605.1.15
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-11-10-20-23
+T: 7538
+t: textline
+a: Aditya Yadavalli
+l: rollno
+stime: 2020-11-10-20-23
+T: 5379
+t: textline
+a: 20171201
+l: age
+stime: 2020-11-10-20-23
+T: 6516
+t: textline
+a: 21
+l: lefrig
+stime: 2020-11-10-20-23
+T: 5602
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-11-10-20-34
+T: 647817
+t: experiment
+endcode: 
+end 2020-11-10-20-34

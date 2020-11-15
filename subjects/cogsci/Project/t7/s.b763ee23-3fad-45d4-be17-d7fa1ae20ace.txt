@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-11-12-15-28
+user_agent: mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/86.0.4240.111 safari/537.36
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-11-12-15-29
+T: 22216
+t: textline
+a: D. Sai Siddharth
+l: rollno
+stime: 2020-11-12-15-29
+T: 5977
+t: textline
+a: 2018122006
+l: age
+stime: 2020-11-12-15-29
+T: 5649
+t: textline
+a: 22
+l: lefrig
+stime: 2020-11-12-15-29
+T: 2559
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-11-12-15-41
+T: 704631
+t: experiment
+endcode: 
+end 2020-11-12-15-41

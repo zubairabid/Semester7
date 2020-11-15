@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-10-05-13-06
+user_agent: mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/85.0.4183.102 safari/537.36
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-10-05-13-06
+T: 13370
+t: textline
+a: Lakshmi Deepita Pratti
+l: rollno
+stime: 2020-10-05-13-06
+T: 6663
+t: textline
+a: 2019211001
+l: age
+stime: 2020-10-05-13-06
+T: 3849
+t: textline
+a: 22
+l: lefrig
+stime: 2020-10-05-13-06
+T: 3424
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-10-05-13-22
+T: 961587
+t: experiment
+endcode: 
+end 2020-10-05-13-22

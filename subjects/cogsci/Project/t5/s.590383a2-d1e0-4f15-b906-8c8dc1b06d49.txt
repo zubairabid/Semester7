@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-10-17-09-00
+user_agent: mozilla/5.0 (x11; ubuntu; linux x86_64; rv:81.0) gecko/20100101 firefox/81.0
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-10-17-09-01
+T: 8970
+t: textline
+a: Sanskar Tibrewal
+l: rollno
+stime: 2020-10-17-09-01
+T: 7357
+t: textline
+a: 2018111034
+l: age
+stime: 2020-10-17-09-01
+T: 3282
+t: textline
+a: 20
+l: lefrig
+stime: 2020-10-17-09-01
+T: 5183
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-10-17-09-10
+T: 528147
+t: experiment
+endcode: 
+end 2020-10-17-09-10

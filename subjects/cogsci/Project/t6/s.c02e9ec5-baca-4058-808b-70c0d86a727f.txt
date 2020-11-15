@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-10-06-10-54
+user_agent: mozilla/5.0 (macintosh; intel mac os x 10_15_6) applewebkit/605.1.15 (khtml, like gecko) version/14.0 safari/605.1.15
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-10-06-10-54
+T: 5343
+t: textline
+a: ayushi
+l: rollno
+stime: 2020-10-06-10-54
+T: 6806
+t: textline
+a: 2020801007
+l: age
+stime: 2020-10-06-10-54
+T: 6430
+t: textline
+a: 29
+l: lefrig
+stime: 2020-10-06-10-55
+T: 6917
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-10-06-11-49
+T: 3239551
+t: experiment
+endcode: 
+end 2020-10-06-11-49

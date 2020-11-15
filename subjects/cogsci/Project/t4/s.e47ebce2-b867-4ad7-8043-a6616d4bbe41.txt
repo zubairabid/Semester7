@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-11-04-10-48
+user_agent: mozilla/5.0 (macintosh; intel mac os x 10_15_6) applewebkit/537.36 (khtml, like gecko) chrome/86.0.4240.111 safari/537.36
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-11-04-10-48
+T: 6842
+t: textline
+a: Neha Motlani
+l: rollno
+stime: 2020-11-04-10-49
+T: 6747
+t: textline
+a: 20161004
+l: age
+stime: 2020-11-04-10-49
+T: 4619
+t: textline
+a: 21
+l: lefrig
+stime: 2020-11-04-10-49
+T: 5368
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-11-04-10-59
+T: 585876
+t: experiment
+endcode: 
+end 2020-11-04-10-59

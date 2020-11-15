@@ -1,0 +1,9 @@
+version: 3.2.0
+server-time: 2020-11-03-16-28
+user_agent: mozilla/5.0 (linux; android 9; redmi note 5 pro) applewebkit/537.36 (khtml, like gecko) chrome/86.0.4240.110 mobile safari/537.36
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0

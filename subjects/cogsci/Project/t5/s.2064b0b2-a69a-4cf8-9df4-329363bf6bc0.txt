@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-11-11-08-58
+user_agent: mozilla/5.0 (x11; ubuntu; linux x86_64; rv:79.0) gecko/20100101 firefox/79.0
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-11-11-08-58
+T: 6228
+t: textline
+a: Kirandevraj
+l: rollno
+stime: 2020-11-11-08-58
+T: 6742
+t: textline
+a: 2019701001
+l: age
+stime: 2020-11-11-08-58
+T: 4398
+t: textline
+a: 24
+l: lefrig
+stime: 2020-11-11-08-59
+T: 35444
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-11-11-09-10
+T: 645996
+t: experiment
+endcode: 
+end 2020-11-11-09-10

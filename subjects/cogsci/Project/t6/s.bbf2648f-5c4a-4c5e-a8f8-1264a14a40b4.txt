@@ -1,0 +1,29 @@
+version: 3.2.0
+server-time: 2020-10-11-14-02
+user_agent: mozilla/5.0 (macintosh; intel mac os x 10_15_6) applewebkit/605.1.15 (khtml, like gecko) version/14.0 safari/605.1.15
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-10-11-14-02
+T: 9318
+t: textline
+a: Siddhant Bansal
+l: rollno
+stime: 2020-10-11-14-02
+T: 10155
+t: textline
+a: 2019900091
+l: age
+stime: 2020-10-11-14-02
+T: 3300
+t: textline
+a: 23
+l: lefrig
+stime: 2020-10-11-14-02
+T: 2647
+t: radio
+a: 2

@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-11-11-20-12
+user_agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/86.0.4240.183 safari/537.36 edg/86.0.622.63
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-11-11-20-12
+T: 4585
+t: textline
+a: SHUBHANKAR SAHA
+l: rollno
+stime: 2020-11-11-20-12
+T: 13276
+t: textline
+a: 2019201097
+l: age
+stime: 2020-11-11-20-12
+T: 5592
+t: textline
+a: 26
+l: lefrig
+stime: 2020-11-11-20-12
+T: 9215
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-11-11-20-23
+T: 635201
+t: experiment
+endcode: 
+end 2020-11-11-20-23
