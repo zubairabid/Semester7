@@ -82,14 +82,15 @@ layout: page
 
 - [Nationalism assignment 1](./assign/1)
 - [Nationalism assignment 2](./assign/2)
+- [Nationalism assignment 3](./assign/3)
 
 ### Class Homeworks
 
 - [HW01](./hws/1) Marks: 5.5/10
 - [HW02](./hws/2) Marks: 8/10
 - [HW03](./hws/3) Marks: 7.5/10
-- [HW04](./hws/4) 
-- [HW05](./hws/5) 
+- [HW04](./hws/4) Marks: 7.5/10
+- [HW05](./hws/5) Marks: 7/10
 
 [Smith, Anthony D - Nation in History]: ./readings/Smith, Anthony D._ - Nation in History-Wiley (2014).epub
 [Partha Chatterjee - Empire and Nation]: ./readings/Partha Chatterjee - Empire and Nation_ Selected Essays-Columbia University Press (2010)(1).epub

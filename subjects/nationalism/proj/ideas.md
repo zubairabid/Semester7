@@ -27,4 +27,63 @@ Aspects of Gellner:
 
 # Globalisation's triumph?
 
+- What is globalisation?
 
+  The Guardian: "what it meant most often was making it cheaper to trade across
+  borders". State capitalism, Nations as economic entities in the free market.
+  This, as per economists of late, has been failing.
+  
+  I think what we're looking for is the removal of nations altogether. I would
+  argue that the idea of globalisation is inherently at odds with the idea of a
+  nation, and having a nation alongside a global economic system means the
+  nation will eventually triumph. So the question would then be, is there a
+  possibility of a nation-less future? Rather than "can we have an economic
+  system without boundaries while maintaining ~~state capitalism~~ blind
+  adherence to the idea of a shared community bounded by nations?" Because to
+  consider Gellner, economic-only globalisation while "nationalist" sentiments
+  exist is a violation of the principle of political and national unit being
+  congruent, hence Nationalist sentiment is arisen and made stronger.
+  
+  In a way economic globalisation is part of the larger view on globalisation, a
+  major shift in how people think. It still needs State capitalism I think,
+  because bodies of governance will want to maintain power. And maybe for that
+  reason they'd *want* nationalist sentiments so people are incentivised to stay
+  there? So maybe it won't work solely for such reasons?
+  
+- How is globalisation information-mediated? It seems more so that nationalist
+  sentiment is on an uprise due to easy access to vast swathes of population,
+  and its prevalence and viral nature. 
+
+- Nationalism has survived more well thought out theories on the basis of
+  replacing the spiritual, the irrational "why are we here" that a thought of
+  scientific/semi-scientific method cannot answer.
+  
+  For globalisation to triumph, that's the role that needs to be filled. Which
+  isn't easy. Nationalism piggybacks on divinity/imagery/an "other". Maybe
+  religion didn't have an other as its final goal, but its existence would
+  necessitate an other.
+- Nationalism exists in an imagination of a shared time-space. Would
+  globalisation as the new standard require a new such imagination of
+  world-view? Maybe technology mediation means something? But like we saw
+  earlier, currently technology is helping nationalism more than it is
+  globalisation.
+- Globalisation as an "ideology of elites". Nationalism bests it due to the
+  numbers of the commons. Here we can possibly look at an analogue in Football:
+  the biggest footballing clubs around the world want to band together to form a
+  "Super league" for improved competition, viewership, and revenue. However,
+  smaller ones do not want this - it will increase the disparity they already
+  face as more people migrate away from them and the gap becomes astronomically
+  harder to plug. Compare it, so, to "brain drain" - the "elite", capable of
+  settling across the planet, prefer globalisation as a method to improve their
+  personal standing, whereas the commons would rather they remain where they are
+  and improve the situation of their peers.
+
+Zubair Abid, [23.10.20 18:11]
+[In reply to Saujas Vaduguru]
+globalisation vs nationalisation, self-centric capitalism enabling globalisation but class-specific
+
+Zubair Abid, [23.10.20 18:12]
+analogy to football super cup and the local leagues not liking that
+
+Zubair Abid, [23.10.20 18:12]
+brain drain as globalised but seen as brain drain by nationalists
