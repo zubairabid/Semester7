@@ -66,7 +66,10 @@ Aspects of Gellner:
   globalisation as the new standard require a new such imagination of
   world-view? Maybe technology mediation means something? But like we saw
   earlier, currently technology is helping nationalism more than it is
-  globalisation.
+  globalisation. But you also have the fact that Nationalism is a weak ideology
+  (again, Gellner) so...
+- Maybe globalisation will be promoted by this breakdown of the weakness?
+  Realisation of potential nationalisms?
 - Globalisation as an "ideology of elites". Nationalism bests it due to the
   numbers of the commons. Here we can possibly look at an analogue in Football:
   the biggest footballing clubs around the world want to band together to form a
@@ -87,3 +90,13 @@ analogy to football super cup and the local leagues not liking that
 
 Zubair Abid, [23.10.20 18:12]
 brain drain as globalised but seen as brain drain by nationalists
+
+Zubair Abid, [16.11.20 17:38]
+so a Nation is weak due to the need for propagands and other potential nations
+(gellner), but nationalism itself is strong because of how it fills the gap left 
+in "explain what the purpose of life is" that something like logic cannot 
+explain (anderson), right
+
+Zubair Abid, [16.11.20 17:40]
+because I get what Gellner is saying about inherent weakness but I can't think 
+of an ideology that can replace it in modern thing
