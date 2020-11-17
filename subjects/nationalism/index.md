@@ -65,6 +65,7 @@ layout: page
 - [ ] [M. S. Gowalkar - Bunches of Thoughts]
 - [ ] [Partha Chatterjee - Empire and Nation]
 - [ ] [Smith, Anthony D - Nation in History]
+- [ ] [Jan Aart Scholte - Globalization]
 - [ ] [V. D. Savarkar - Who is a Hindu]
 
 #### Marxist Understanding of Nationalism
@@ -103,6 +104,7 @@ layout: page
 [King - One Language Two Scripts]: ./readings/Christopher King, One Language Two Scripts - Hindi Movt in 19C N India, 01_introduction(1).pdf
 [Carr - Nationalism and After]: ./readings/E. H. Carr, Nationalism and After, 1968.pdf
 [Hobsbawm - The Invention of Tradition]: ./readings/(Canto) Eric Hobsbawm, Terence Ranger - The Invention of Tradition -Cambridge University Press (1992).pdf
+[Jan Aart Scholte - Globalization]: ./readings/Jan Aart Scholte - Globalization, Second Edition_ A Critical Introduction -Palgrave Macmillan (2005).pdf
 
 [Lenin: Right to self-determination]: https://www.marxists.org/archive/lenin/works/1914/self-det/index.htm
 [Luxemborg: The National Question]: https://www.marxists.org/archive/luxemburg/1909/national-question/index.htm
