@@ -76,6 +76,21 @@ Vemuri
 
 - [APP: Lectures 1, 2] 
 
+#### Memory
+
+- [Memory L1]
+- [Memory L1-L2]
+- [Memory L3]
+
+#### Motor Systems
+
+- [Motor Systems 2]
+
+#### Language, Brain, Philosophy of Mind and Consciousness
+
+- [Language and Brain]
+- [Consciousness and Philosophy of Mind]
+
 
 [Lecture 1: Intro to Cogsci]: ./Slides/CSE485_Lec1_CogSci_introduction_M2020.pdf
 [Lecture 2: History of Cogsci]: ./Slides/CSE485_Lec3_HistoryCogSci_M2020.pdf
@@ -88,5 +103,11 @@ Vemuri
 [Multisensory Integration]: ./Slides/MultiSensoryIntegration.pdf
 [Nature of Perception, organizing principles]: ./Slides/Perception.pdf
 [APP: Lectures 1, 2]: ./Slides/Attention - L1 and L2-c.pdf
+[Memory L1]: ./Slides/Memory L1 - 30.09.2020.pdf
+[Memory L1-L2]: ./Slides/Memory L1-2.pdf
+[Memory L3]: ./Slides/Memory L3.pdf
+[Motor Systems 2]: ./Slides/CSE485_Motor_PartII_M2020.pdf
+[Language and Brain]: ./Slides/CSE485_LanguageAndTheBrain_M2020.pdf
+[Consciousness and Philosophy of Mind]: ./Slides/CSE485_ConscPM_M2020.pdf
 
 [Goldstein - Cognitive Psychology]: ./Books/Book_Goldstein_CognitivePsychology_Mid2.pdf
