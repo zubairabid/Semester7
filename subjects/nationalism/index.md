@@ -66,6 +66,7 @@ layout: page
 - [ ] [Partha Chatterjee - Empire and Nation]
 - [ ] [Smith, Anthony D - Nation in History]
 - [ ] [Jan Aart Scholte - Globalization]
+    - [ ] [notes](./readings/scholte)
 - [ ] [V. D. Savarkar - Who is a Hindu]
 
 #### Marxist Understanding of Nationalism

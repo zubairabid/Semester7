@@ -83,7 +83,8 @@ Aspects of Gellner:
 
 Zubair Abid, [23.10.20 18:11]
 [In reply to Saujas Vaduguru]
-globalisation vs nationalisation, self-centric capitalism enabling globalisation but class-specific
+globalisation vs nationalisation, self-centric capitalism enabling globalisation
+but class-specific
 
 Zubair Abid, [23.10.20 18:12]
 analogy to football super cup and the local leagues not liking that
