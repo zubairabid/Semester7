@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-11-11-11-10
+user_agent: mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/85.0.4183.83 safari/537.36
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-11-11-11-10
+T: 9381
+t: textline
+a: V. A. Lalitha Kameswari
+l: rollno
+stime: 2020-11-11-11-11
+T: 9607
+t: textline
+a: 20171025
+l: age
+stime: 2020-11-11-11-11
+T: 6634
+t: textline
+a: 21
+l: lefrig
+stime: 2020-11-11-11-11
+T: 5867
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-11-11-11-19
+T: 488867
+t: experiment
+endcode: 
+end 2020-11-11-11-19

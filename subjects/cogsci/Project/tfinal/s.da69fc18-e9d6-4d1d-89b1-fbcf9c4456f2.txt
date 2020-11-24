@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-11-15-16-38
+user_agent: mozilla/5.0 (macintosh; intel mac os x 10_15_6) applewebkit/537.36 (khtml, like gecko) chrome/86.0.4240.193 safari/537.36
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-11-15-16-38
+T: 5299
+t: textline
+a: Mayank Taluja
+l: rollno
+stime: 2020-11-15-16-38
+T: 5085
+t: textline
+a: 20161102
+l: age
+stime: 2020-11-15-16-38
+T: 2697
+t: textline
+a: 22
+l: lefrig
+stime: 2020-11-15-16-38
+T: 2596
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-11-15-16-47
+T: 504863
+t: experiment
+endcode: 
+end 2020-11-15-16-47

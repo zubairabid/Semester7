@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-11-14-17-46
+user_agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/86.0.4240.193 safari/537.36 edg/86.0.622.68
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-11-14-17-46
+T: 3545
+t: textline
+a: Vivek Pamnani
+l: rollno
+stime: 2020-11-14-17-46
+T: 4514
+t: textline
+a: 2018111032
+l: age
+stime: 2020-11-14-17-46
+T: 2030
+t: textline
+a: 21
+l: lefrig
+stime: 2020-11-14-17-46
+T: 5323
+t: radio
+a: 1
+l: prpcogsciexp
+stime: 2020-11-14-17-55
+T: 557592
+t: experiment
+endcode: 
+end 2020-11-14-17-55

@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-11-14-04-40
+user_agent: mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/86.0.4240.75 safari/537.36
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-11-14-04-40
+T: 4744
+t: textline
+a: Avlok Gupta
+l: rollno
+stime: 2020-11-14-04-40
+T: 5070
+t: textline
+a: 2018111017
+l: age
+stime: 2020-11-14-04-41
+T: 3316
+t: textline
+a: 20
+l: lefrig
+stime: 2020-11-14-04-41
+T: 3611
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-11-14-04-48
+T: 441965
+t: experiment
+endcode: 
+end 2020-11-14-04-48

@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-11-13-11-52
+user_agent: mozilla/5.0 (x11; ubuntu; linux x86_64; rv:82.0) gecko/20100101 firefox/82.0
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-11-13-11-52
+T: 6472
+t: textline
+a: Aamir Farhan
+l: rollno
+stime: 2020-11-13-11-52
+T: 4766
+t: textline
+a: 20161078
+l: age
+stime: 2020-11-13-11-52
+T: 4894
+t: textline
+a: 23
+l: lefrig
+stime: 2020-11-13-11-53
+T: 7769
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-11-13-12-07
+T: 888313
+t: experiment
+endcode: 
+end 2020-11-13-12-07

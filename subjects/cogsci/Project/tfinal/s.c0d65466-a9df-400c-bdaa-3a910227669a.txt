@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-11-11-17-55
+user_agent: mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/81.0.4044.138 safari/537.36
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-11-11-17-57
+T: 73026
+t: textline
+a: Gajanan
+l: rollno
+stime: 2020-11-11-17-57
+T: 6961
+t: textline
+a: 2019201049
+l: age
+stime: 2020-11-11-17-57
+T: 3152
+t: textline
+a: 23
+l: lefrig
+stime: 2020-11-11-17-57
+T: 4053
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-11-11-18-06
+T: 567529
+t: experiment
+endcode: 
+end 2020-11-11-18-06

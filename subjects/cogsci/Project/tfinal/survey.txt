@@ -1,0 +1,27 @@
+# check the large survey-library for ready-to-run examples you can
+# cut and paste here
+
+l: name
+t: textline
+q: What is your name?
+- Enter your name
+
+l: rollno
+t: textline
+q: What is your IIIT Roll number? (Enter 0 if not from IIIT)
+- Enter your roll number
+
+l: age
+t: textline
+q: What is your age? (in years)
+- {min=18,max=100} Enter age in years
+
+l: lefrig
+t: radio
+q: Are you left-handed or right-handed? If ambidextrous pick the dominant hand.
+- Left-handed
+- Right-handed
+
+l: prpcogsciexp
+t: experiment
+- prp

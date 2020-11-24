@@ -1,0 +1,35 @@
+version: 3.2.0
+server-time: 2020-11-03-07-12
+user_agent: mozilla/5.0 (x11; linux x86_64) applewebkit/537.36 (khtml, like gecko) chrome/78.0.3904.70 safari/537.36
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-11-03-07-12
+T: 10901
+t: textline
+a: jaya krishna
+l: rollno
+stime: 2020-11-03-07-12
+T: 9504
+t: textline
+a: 2019201076
+l: age
+stime: 2020-11-03-07-13
+T: 5185
+t: textline
+a: 24
+l: lefrig
+stime: 2020-11-03-07-13
+T: 6232
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-11-03-07-24
+T: 653086
+t: experiment
+endcode: 
+end 2020-11-03-07-24

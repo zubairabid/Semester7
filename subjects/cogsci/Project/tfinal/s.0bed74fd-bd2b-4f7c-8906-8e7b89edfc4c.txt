@@ -1,0 +1,40 @@
+version: 3.2.0
+server-time: 2020-11-13-15-17
+user_agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/86.0.4240.183 safari/537.36
+screen_width: 0
+screen_height: 0
+html_width: 0
+html_height: 0
+user_time: 0
+T: 0
+l: name
+stime: 2020-11-13-15-17
+T: 12801
+t: textline
+a: Jalees Jahanzaib
+l: rollno
+stime: 2020-11-13-15-19
+T: 82645
+t: textline
+a: 2018101001
+l: age
+stime: 2020-11-13-15-19
+T: 5573
+t: textline
+a: 21
+l: lefrig
+stime: 2020-11-13-15-19
+T: 4105
+t: radio
+a: 2
+l: lefrig
+stime: 2020-11-14-13-38
+T: 4105
+t: radio
+a: 2
+l: prpcogsciexp
+stime: 2020-11-14-17-07
+T: 12530934
+t: experiment
+endcode: 
+end 2020-11-14-17-07
