@@ -47,6 +47,18 @@ Will globalisation lead to the fading away of nationalism and nation-states?
   hitherto unknown scale to subvert the inherent limitations of territorial
   nationalism: a future ruled by corporations and not democratically
   elected governments.
+    - Pobodnik's review of Bemyeh mentions that his discussions on the likely
+      trajectory of global capitalism is "somewhat problematic" -- that capital
+      has *not* managed to reacquire autonomy from political regulation, as
+      evidenced by the events of 9/11.
+      
+      However, this was before the age of data, and of Big Tech as major
+      contributors to social change and important political platforms. AWS
+      us-east-1 going down meant washing machines stopped working, the general
+      lack of ability to keep legislation up with technology.
+    - From Scholte's book, *The State remains, but character shifts*. I think --
+      trying to retain global companies, States are opening up, etc. Bending too
+      far?
 
 ## Random, general points on the topic
 
