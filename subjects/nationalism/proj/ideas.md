@@ -42,6 +42,9 @@ Will globalisation lead to the fading away of nationalism and nation-states?
 
 - Religion will play a part
 - Specifically factor in how information-mediated impacts possible future.
+- Include Statelessness from Intro to History somehow. About State-governance
+  itself being a new feature, which could potentially be easily replaced by a
+  new system.
 - I've been thinking about neoliberal policy implementations of globalisation as
   the "new East India Company", allowing global enterprises operating in
   hitherto unknown scale to subvert the inherent limitations of territorial
@@ -74,9 +77,24 @@ I will sort them out later.
   the push needed for the creation of nations.
 - Nations allow for the existence of a "reason" to exist in the absence of
   religion
+- Bringing in Gellner: nationalist sentiment is the anger aroused at the
+  violation of the political principle of nationalism, which allows for
+  nationalist movement. Successful globalisation would require a similar
+  sentiment, of sorts, that could be aroused amongst people.
+    - Gellner does talk of Industrial Society within the context of homogenized
+      world conception, but does not look beyond its role in the emergence of
+      nationalism. But this very point could be used?
 - So globalisation is defined as "respatialization", so more transworld:
     - Social relations
     - Economics and Business
+- How does Economic systems in globalised economy interact with the nation-state
+  ideology?
+- Mass of migration as a representation of global respatialization?
+- Parallel to Gellner -- the "Literate High Culture" repeated; the upper classes
+  can see the world as an global home: weekends in Paris, homes across
+  countries, free travel. The middle classes only think of the world as vacation
+  spots and a duty of returning to the nation, and most do not even get to see
+  the world. Not literacy as a specialisation, but money.
 
 ## Old Ideas
 
