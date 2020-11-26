@@ -27,6 +27,47 @@ Aspects of Gellner:
 
 # Globalisation's triumph?
 
+## Big picture
+
+Will globalisation lead to the fading away of nationalism and nation-states?
+
+- We will need to look at why nationalism and nations are so strong now
+- We will need to look at other ideologies and "isms" that nationalism has
+  triumphed over
+- We will need to look at:
+    - What globalisation really is
+    - Will it also suffer the same deficiencies of the other "isms"
+
+## Random, general ~ideas~ to keep in mind
+
+- Religion will play a part
+- Specifically factor in how information-mediated impacts possible future.
+- I've been thinking about neoliberal policy implementations of globalisation as
+  the "new East India Company", allowing global enterprises operating in
+  hitherto unknown scale to subvert the inherent limitations of territorial
+  nationalism: a future ruled by corporations and not democratically
+  elected governments.
+
+## Random, general points on the topic
+
+I will sort them out later.
+
+- Does this require the idea of Nations to die out entirely? This does not
+  discount the existence of States, just Nations.
+- Nations are largely imagined communities. Globalized society requires a
+  similar imagination of community without the existence of the "other", maybe?
+  
+  Question: *Why. Are imagined communities that important?* You do need them to
+  have a sense of "camaraderie" among nationals, which has as per Anderson given
+  the push needed for the creation of nations.
+- Nations allow for the existence of a "reason" to exist in the absence of
+  religion
+- So globalisation is defined as "respatialization", so more transworld:
+    - Social relations
+    - Economics and Business
+
+## Old Ideas
+
 - What is globalisation?
 
   The Guardian: "what it meant most often was making it cheaper to trade across
@@ -101,3 +142,5 @@ explain (anderson), right
 Zubair Abid, [16.11.20 17:40]
 because I get what Gellner is saying about inherent weakness but I can't think 
 of an ideology that can replace it in modern thing
+
+

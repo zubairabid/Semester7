@@ -28,7 +28,14 @@ Self notes:
   Most people have access to other media, but it's still an "other". Cheering
   for the Olympics, yes, but cheering for your own country.
 
+- Possible approach: Globalization is a geographical trend (p. 83), but needs
+  political motivation to push it through. And it is most often locally applied.
+  Assuming nations remain strong, they are more likely to push their vision of
+  it than the one defined.
+  
 # Chapter 3: Globalization in History
+
+- Yes, lots of instances pre-1950s, but small scale instances.
 
 # Chapter 4: Explaining Globalization
 
