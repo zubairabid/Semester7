@@ -52,6 +52,7 @@ Will globalisation lead to the fading away of nationalism and nation-states?
     - Self-reproductive measure of society (education) is controlled by State
       (or private bodies -- more on those later)
     - A general lack of imagination
+    - Gellner: homogenization *encourages* nations.
     - Ideology of the elites
     - It will be tamed by nationalism, OR
 - A new challenger approaches!
@@ -59,6 +60,8 @@ Will globalisation lead to the fading away of nationalism and nation-states?
 
 ## Random, general ~ideas~ to keep in mind
 
+- Gellner's idea of a minimal self-reproducing unit is, in my opinion, the
+  biggest factor that will come into play here.
 - Religion will play a part
 - Specifically factor in how information-mediated impacts possible future.
 - Include Statelessness from Intro to History somehow. About State-governance
