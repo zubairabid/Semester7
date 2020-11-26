@@ -38,6 +38,25 @@ Will globalisation lead to the fading away of nationalism and nation-states?
     - What globalisation really is
     - Will it also suffer the same deficiencies of the other "isms"
 
+## Thinking of the argument
+
+- No, it won't, because
+- Global ideologies (Liberalism, Marxism) have not worked in the past due to:
+    - Ideological rigidity, reducing reach
+    - Though well defined, not filling the gaps of religion
+    - Hypocrisy in implementation
+- Globalisation has a lot to look for:
+    - No invented tradition
+    - No other
+    - Need a Gandhi-like figure
+    - Self-reproductive measure of society (education) is controlled by State
+      (or private bodies -- more on those later)
+    - A general lack of imagination
+    - Ideology of the elites
+    - It will be tamed by nationalism, OR
+- A new challenger approaches!
+    - Companies
+
 ## Random, general ~ideas~ to keep in mind
 
 - Religion will play a part
@@ -67,14 +86,39 @@ Will globalisation lead to the fading away of nationalism and nation-states?
 
 I will sort them out later.
 
+- Nationalism as a way to consolidate power? This is what happened with Official
+  Nationalism, and Communist States in power. Nationalism domesticated the other
+  global policies.
+- In order to replicate the idea of a global society: as it is located in Modern
+  Society, the community can only establish itself through self-reproducing
+  feature of an independent educational system, that is simultaneously approved
+  by the State.
+    - This might be possible with the new world order tm.
+- There is no past for invented tradition to fall back on. Unless tradition is
+  invoked on everyone in the world in the coup. What ritual can be called upon?
+  Also, people will not like it because it interferes with existing national
+  invented traditions, goes at odds with them, many of which have been
+  constructed with "non-national" as the other to rally against.
+  
+  Social cohesion is not too strong either, there's no "other" unless it's
+  constructed in some fashion.
+- It's a weak drive, but you need a figure the stature of Gandhi to shift people
+  to a competing ideology. (Gellner)
+- ~~Just as universal education is homogenization of culture, a new economic
+  system of monopolies and no privacy leads to a paradigm shift.~~
 - Does this require the idea of Nations to die out entirely? This does not
-  discount the existence of States, just Nations.
+  discount the existence of States, just Nations. Rather, the existence of
+  globalisation alongside nations at the very least.
 - Nations are largely imagined communities. Globalized society requires a
   similar imagination of community without the existence of the "other", maybe?
   
   Question: *Why. Are imagined communities that important?* You do need them to
   have a sense of "camaraderie" among nationals, which has as per Anderson given
-  the push needed for the creation of nations.
+  the push needed for the creation of nations. 
+  
+  Need proper imagination of the Nation. India, for instance, is sufficiently
+  imagined due to the time taken by the nationalist movement to mature.
+  Pakistan, for example, is not.
 - Nations allow for the existence of a "reason" to exist in the absence of
   religion
 - Bringing in Gellner: nationalist sentiment is the anger aroused at the
@@ -95,6 +139,14 @@ I will sort them out later.
   countries, free travel. The middle classes only think of the world as vacation
   spots and a duty of returning to the nation, and most do not even get to see
   the world. Not literacy as a specialisation, but money.
+    - Political ideology of the elites. Based on this conception, it's a policy
+      implementation that restricts the reach and benefits of globalisation only
+      to the top few. Consider the parallel in world football - giants like
+      Real Madrid, PSG, Manchester City would all like to have a "Super" league
+      where they compete with each other and take advantage of their global
+      audiences, but this is opposed by the lower-rung teams in the national
+      leagues due to the negative impact it will have on them, what with them
+      lacking a major global following.
 
 ## Old Ideas
 
