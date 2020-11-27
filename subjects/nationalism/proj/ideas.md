@@ -9,8 +9,32 @@ layout: page
 ## Very vague outlining
 
 - Globalisation is not dead
-    - Economic arguments claiming it is
-    - Defining it
+    - Even though some economic arguments claim is
+    - Define it, and give examples where you agree (5 definitions, cases against
+      or for each in brief)
+    - General agreement with the book, and mention how *this will all factor in*
+    - Overall: summarise the book. 600 words.
+- Why would people herald the death of the nation-state?
+    - There's the whole globalisation OP not-fad respatialization thing. Global
+      village, Economic liberation, yada yada.
+    - The internet eased communication in unreal, unexpected fashion. Two-way
+      communication. State seemingly does not control this dimension. Most
+      arguments were from earlier.
+    - Gellner did say Nationalism was a weak force, a well tended garden
+    - Scholte says the State remains, but its character shifts. Possible
+      over-appeasement (but perhaps not to democratic globalisation)?
+    - Bemyeh. Will get to responses to him later.
+- Looking at history of nationalism, comparing against globalisation and
+  viability:
+    - Anderson's Imagined Community: No other
+    - Kohn's Replacement for God: No cause
+    - Gellner's Nationalism came first (so I don't forget: in Gellner's chicken
+      and egg problem, the egg came first)
+    - Hobsbawm's Invented Tradition: Maybe but how?
+    - (Maybe) De-universalisation of literate high culture (in new shape)?
+    - (Maybe) Alike to the "Colonial Indian Elite"? Football idea.
+- Also other theories, that I cannot back as strongly:
+    - 
 
 ## More pointers that don't fit in the other headings
 
@@ -36,7 +60,7 @@ Will globalisation lead to the fading away of nationalism and nation-states?
 
 ## Thinking of the argument
 
-- No, it won't, because
+- No, it won't (triumph), because
 - Global ideologies (Liberalism, Marxism) have not worked in the past due to:
     - Ideological rigidity, reducing reach
     - Though well defined, not filling the gaps of religion
