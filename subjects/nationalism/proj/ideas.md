@@ -4,28 +4,24 @@ author: Zubair Abid
 layout: page
 ---
 
-# Theory of nationalism for India
-
-- Non-existence of idea of "national"?
-- Equivalence of national and citizen
-
-I like Hobsbawm's theories on Invented Tradition, as it's widespread in
-justifying nationalism in India currently:
-
-- Chai as a culture
-- Durga Puja/Ganesh Chaturthi
-- Shyam's DHP on ITs in India (GI tags ones)
-
-Aspects of Gellner:
-
-- Many potential nationalisms, actualised as states
-
-## Questions
-
-- Nationalism in India today = popular sentiment? What judges have said? Isn't
-  most legal discourse around Citizenship, so will that come into the picture?
-
 # Globalisation's triumph?
+
+## Very vague outlining
+
+- Globalisation is not dead
+    - Economic arguments claiming it is
+    - Defining it
+
+## More pointers that don't fit in the other headings
+
+- Use Gellner's theories on social reproduction.
+- Use Scholte's book throughout for inspiration on what globalisation is, and
+  how it would stack up in equivalent arguments on nationalism.
+- Compare against the well known theorists. Hobsbawm's invented tradition.
+  Anderson's imagined community. Gellner's political dissatisfaction.
+- Use Anderson's Long-distance nationalism.
+- Use control of the instruments of reproduction as an argument for other
+  alternatives.
 
 ## Big picture
 
@@ -47,7 +43,7 @@ Will globalisation lead to the fading away of nationalism and nation-states?
     - Hypocrisy in implementation
 - Globalisation has a lot to look for:
     - No invented tradition
-    - No other
+    - No "other"
     - Need a Gandhi-like figure
     - Self-reproductive measure of society (education) is controlled by State
       (or private bodies -- more on those later)
@@ -61,7 +57,8 @@ Will globalisation lead to the fading away of nationalism and nation-states?
 ## Random, general ~ideas~ to keep in mind
 
 - Gellner's idea of a minimal self-reproducing unit is, in my opinion, the
-  biggest factor that will come into play here.
+  biggest factor that will come into play here. This is also how private
+  companies are coming into the picture.
 - Religion will play a part
 - Specifically factor in how information-mediated impacts possible future.
 - Include Statelessness from Intro to History somehow. About State-governance
@@ -89,6 +86,9 @@ Will globalisation lead to the fading away of nationalism and nation-states?
 
 I will sort them out later.
 
+- The internet has strengthened nationalisms rather than weakening them, check
+  Anderson's Long Distance Nationalism and Eriksen's Nationalism and the
+  Internet.
 - Nationalism as a way to consolidate power? This is what happened with Official
   Nationalism, and Communist States in power. Nationalism domesticated the other
   global policies.
@@ -112,7 +112,7 @@ I will sort them out later.
 - Does this require the idea of Nations to die out entirely? This does not
   discount the existence of States, just Nations. Rather, the existence of
   globalisation alongside nations at the very least.
-- Nations are largely imagined communities. Globalized society requires a
+- Nations are largely imagined communities. Globalised society requires a
   similar imagination of community without the existence of the "other", maybe?
   
   Question: *Why. Are imagined communities that important?* You do need them to
@@ -122,6 +122,7 @@ I will sort them out later.
   Need proper imagination of the Nation. India, for instance, is sufficiently
   imagined due to the time taken by the nationalist movement to mature.
   Pakistan, for example, is not.
+- Nationalisms created nations. 
 - Nations allow for the existence of a "reason" to exist in the absence of
   religion
 - Bringing in Gellner: nationalist sentiment is the anger aroused at the
@@ -150,6 +151,7 @@ I will sort them out later.
       audiences, but this is opposed by the lower-rung teams in the national
       leagues due to the negative impact it will have on them, what with them
       lacking a major global following.
+- Conversi keeps mentioning globalisation as all the first 4 definitions.
 
 ## Old Ideas
 
