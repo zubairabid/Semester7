@@ -17,6 +17,7 @@ layout: page
 - Why would people herald the death of the nation-state?
     - There's the whole globalisation OP not-fad respatialization thing. Global
       village, Economic liberation, yada yada.
+    - Globalisation != Internationalisation, does not necessitate nations.
     - The internet eased communication in unreal, unexpected fashion. Two-way
       communication. State seemingly does not control this dimension. Most
       arguments were from earlier.
@@ -33,8 +34,27 @@ layout: page
     - Hobsbawm's Invented Tradition: Maybe but how?
     - (Maybe) De-universalisation of literate high culture (in new shape)?
     - (Maybe) Alike to the "Colonial Indian Elite"? Football idea.
-- Also other theories, that I cannot back as strongly:
-    - 
+- How information-mediation may actually help nationalism:
+    - Already exists a long-distance nationalism (Anderson)
+    - Becomes worse with the internet (Eriksen, Conversi)
+- Also other theories, that I cannot back as strongly, leaning towards...
+    - Not viable due to violation of Gellner's nationalist sentiment in global
+      economy, and also the other way with global social respatialization
+    - Nations as emotional conduits to rouse support for state governance
+    - Most people do not move, and Facebook is a social bubble. Weak, but in
+      need of a Gandhian figure.
+    - What is key is control over devices of reproduction: schooling and mass
+      communication. The government controls, but corporations...
+    - Pobodnik mentions that capital has not managed to reacquire autonomy from
+      political regulation, but especially with tech sector being new ground,
+      lots of gaps showing up in the national framework (methodological
+      territorialism from Scholte). The new East India Company.
+    - Globalisation would require policy implementation, but those in charge of
+      education either favour national interests (government) or neoliberal
+      interests (corporations). No framework for reproduction.
+    - Statelessness as an example, unable to continue without a framework of
+      reproduction and trampled effectively by the advent of communication and
+      fast, convenient travel.
 
 ## More pointers that don't fit in the other headings
 
