@@ -24,7 +24,7 @@ layout: page
 
 ## Upcoming Deadlines
 
-- [ ] Functional Language (21st October 23:55) [hw06]
+- [X] Functional Language (21st October 23:55) [hw06]
 - [X] Bisimilarity (29th September 23:55) [hw05]
 - [X] Lexical Interpreter (22nd September 23:59) [hw04]
 - [X] Arithmetic Language (8th September 23:59) [hw03]
@@ -130,8 +130,8 @@ On lexical scope and higher-order functions
 
 [notes](./notes/Lecture 9)
 
-- [ ] Reading assignment:
-    - [ ] [Coinduction and Term Graphs] : Bisimulation
+- [X] Reading assignment:
+    - [X] [Coinduction and Term Graphs] : Bisimulation
 
 #### Lecture 10
 
@@ -139,10 +139,10 @@ On lexical scope and higher-order functions
 
 [notes](notes/Lecture 10)
 
-- [ ] Reading assignment:
-    - [ ] [Addition interaction semantics: notes]
-    - [ ] [Addition interaction semantics: board]
-    - [ ] [Addition interaction semantics: example]
+- [X] Reading assignment:
+    - [X] [Addition interaction semantics: notes]
+    - [X] [Addition interaction semantics: board]
+    - [X] [Addition interaction semantics: example]
 
 #### Lecture 11
 
@@ -150,10 +150,10 @@ On lexical scope and higher-order functions
 
 [notes](./notes/Lecture 11)
 
-- [ ] Reading assignment:
-    - [ ] [Abstract reduction systems]
-    - [ ] [Abstract reduction systems: board]
-    - [ ] [TRaAT]: Chapters 1, Sec 2.1
+- [X] Reading assignment:
+    - [X] [Abstract reduction systems]
+    - [X] [Abstract reduction systems: board]
+    - [X] [TRaAT]: Chapters 1, Sec 2.1
 
 #### Lecture 12
 

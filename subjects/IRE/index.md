@@ -25,10 +25,10 @@ layout: page
 
 ## Upcoming Deadlines
 
-- [ ] IRE Major Project Complete system (18th November 23:55)
-- [ ] Term Paper (10th November 23:55)
-- [ ] IRE Major Project MVP system (28th October 23:55)
-- [ ] IRE Phase 1 work (16th October 23:55)
+- [X] IRE Major Project Complete system (18th November 23:55)
+- [X] Term Paper (10th November 23:55)
+- [X] IRE Major Project MVP system (28th October 23:55)
+- [X] IRE Phase 1 work (16th October 23:55)
 - [X] IRE Assignment 3 (12th October 23:55)
 - [X] IRE Major project document (27th September 23:55)
 - [X] [Assignment 2](./Assignments/2)

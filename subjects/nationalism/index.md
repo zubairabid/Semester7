@@ -21,7 +21,7 @@ layout: page
 
 ## Upcoming Deadlines
 
-- [ ] [Nationalism Project](./proj/index) (15th November 23:55)
+- [X] [Nationalism Project](./proj/index) (15th November 23:55)
 - [X] [Nationalism assignment 3](./assign/3) (20th October 23:59)
 - [X] [Nationalism assignment 2](./assign/2) (18th September 23:59)
 - [X] Readings: Marxist theories of State (26th August)
@@ -93,6 +93,7 @@ layout: page
 - [HW03](./hws/3) Marks: 7.5/10
 - [HW04](./hws/4) Marks: 7.5/10
 - [HW05](./hws/5) Marks: 7/10
+- [HW06](./hws/6) Marks: 8/10
 
 [Smith, Anthony D - Nation in History]: ./readings/Smith, Anthony D._ - Nation in History-Wiley (2014).epub
 [Partha Chatterjee - Empire and Nation]: ./readings/Partha Chatterjee - Empire and Nation_ Selected Essays-Columbia University Press (2010)(1).epub

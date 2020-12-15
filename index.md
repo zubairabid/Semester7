@@ -15,6 +15,8 @@ Links:
 [Cogsci](./subjects/cogsci/index#upcoming-deadlines)
 [IS](./subjects/IS/index#upcoming-deadlines)
 
+**The section below only tracks me correctly till about end of September**
+
 ### General TODO
 
 - [X] Honours work: Read the papers (23rd September)

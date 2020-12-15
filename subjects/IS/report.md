@@ -53,26 +53,9 @@ XLMR-tuned & 90.05 & \textbf{60.70} & \textbf{81.87} & \textbf{53.28} & 74.29 & 
 \label{tab:transformers}
 \end{table}
 
-Part of the final scoring was done with an unrevealed test dataset. Over the six
-leaderboards, we did reasonably well in English -- as the only team to have top
-5 in both subtasks -- and also in Hindi, subtask B. Our performance relative to
-other teams is given in table \ref{tab:rel}.
-
-\begin{table}[]
-\centering
-\begin{tabular*}{.7\textwidth}{ccc}
-\toprule
-\textbf{Task} & \textbf{F1 Macro Average} & \textbf{Position/Participants} \\ \midrule
-English Task 1 & 50.67 & 4/36 \\
-English Task 2 & 25.28 & 4/26 \\
-German Task 1 & 50.36 & 12/25 \\
-German Task 2 & 25.42 & 12/19 \\
-Hindi Task 1 & 49.43 & 17/24 \\
-Hindi Task 2 & 26.12 & 4/17 \\
-\end{tabular*}
-\caption{Final performance}
-\label{tab:rel}
-\end{table}
+Part of the final scoring was done with an unrevealed test dataset. We had the
+best all-round model for English, being the only team to rank in the top 5 in
+both leaderboards. We got respectable results for German and Hindi as well.
 
 # Work done
 
@@ -100,11 +83,34 @@ The final submissions were based on Ujwal and Sayar's work that setup the
 training loop over the transformer models. I ran the experiments on multiple
 models -- Multilingual Distilbert and XLM-RoBERTa Base -- with various
 hyperparameters and adaptive learning turned on and off, to get improved
-results.
+results. The final submission also made use of the Perspective API for English
+and German.
 
 As the evaluation was to be done on private data as well, we needed to submit
 the code in easily runnable scripts. Tathagata and I worked on making the final
 experiment code more portable, and according to the submission format.
 
+Here is a link to the PDF of the [paper we submitted]. The work was accepted at
+FIRE 2020, with "Strong Accept" scores from two of the reviewers.
+
+# Takeaways
+
+The broad takeaways from this project has been:
+
+- Understanding in detail how the Hate Speech Detection problem works, both by
+  practice and by evaluation of past shared tasks.
+- How to extract information from tweets, and the role played by various
+  features such as hashtags, emojis, numerals, and the like.
+- Effective feature representation of emojis with the state-of-the-art emoji2vec 
+  vectorizer.
+- The use of ablation studies for effective experimentation.
+- The usage of Perspective API and it's impact on downstream hatespeech
+  detection performance.
+- How to use and fine-tune transformer based models.
+
+The IS has been a very positive experience overall, in terms of both the
+opportunities provided to me and the learning from it.
+
 
 [HASOC at FIRE 2020]: https://hasocfire.github.io/hasoc/2020/index.html
+[paper we submitted]: https://drive.google.com/file/d/18ua_2oJjCpLmILAdfdmwSlWJs0EsFi0V/view?usp=sharing
